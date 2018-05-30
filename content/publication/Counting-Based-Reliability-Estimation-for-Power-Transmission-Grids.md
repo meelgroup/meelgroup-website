@@ -1,6 +1,6 @@
 +++
 title = "Counting-Based Reliability Estimation for Power-Transmission Grids"
-#date = 2013-07-01T00:00:00
+date = 2018-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe Y. Vardi"]
