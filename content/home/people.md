@@ -20,4 +20,5 @@ weight = 60
 
 About: Assistant Professor in the Computer Science Department of School of Computing at National University of Singapore.
 
-![Kuldeep](/img/Kuldeep.jpg =200x300)
+<img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
+#![Kuldeep](/img/Kuldeep.jpg)
