@@ -15,38 +15,38 @@ weight = 60
 
 +++
 
-# Faculty
+# **Faculty**
 1. [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
 
 About: Assistant Professor in the Computer Science Department of School of Computing at National University of Singapore.
 
 <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
 
-# Postdocs and PhD Students
+# **Postdocs and PhD Students**
  
 
-# Masters Students
+# **Masters Students**
 1. [Shubham Sharma](http://home.iitk.ac.in/~smsharma/)
 
 About: BTech+MTech@IITK (expected: May 2019)
 
 <img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px;"/>
 
-# Undergraduates
+# **Undergraduates**
 1. [Bhavishya](http://home.iitk.ac.in/~bhavish/)
 
 About: I am a Computer Science undergrad at [IITK](http://cse.iitk.ac.in/)
 
 <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px;"/>
 
-# Visitors
+# **Visitors**
 1. [Mate Soos](http://www.msoos.org/)
 
 About: ...
 
 <img src="/img/Mate.jpg" alt="Mate" style="width: 200px;"/>
 
-# Alumni
+# **Alumni**
 1.
 
 
