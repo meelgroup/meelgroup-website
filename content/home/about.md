@@ -11,30 +11,14 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Constrained Sampling and Counting",
+    "Knowledge Representation and Reasoning",
+    "Formal Methods",
+    "Interpretable Models"
   ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
-+++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor in the Computer Science Department of School of Computing at National University of Singapore. The broader goal of our research is to advance artificial intelligence techniques, which utilize ubiquity of data and formal methods, to enable computing to deal with increasingly uncertain real-world environments.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am looking for highly motivated Ph.D. students, postdocs, and interns (with time commitment of at least 6 months) in our group. Read [this](http://www.comp.nus.edu.sg/~meel/#recruitment) before sending me an email.

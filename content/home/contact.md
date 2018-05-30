@@ -12,6 +12,15 @@ weight = 70
 
 # Automatically link email and phone?
 autolink = true
+	
+Kuldeep S. Meel
+Assistant Professor
+Computer Science Department, School of Computing
+National University of Singapore
+Office: COM2-03-41 
+Phone (O): +65-651 61422 
+Email: meel@comp.nus.edu.sg
+Please consult my calendar before suggesting a meeting time. 
 
 +++
 
