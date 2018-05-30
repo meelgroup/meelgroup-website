@@ -15,4 +15,8 @@ weight = 60
 
 +++
 
-[CS4244: Knowledge-Based Systems](https://ivle.nus.edu.sg/lms/public/view_moduleoutline.aspx?CourseID=EE0EBF7F-5D1F-4C15-9BA8-A68C0E589316&ClickFrom=StuViewBtn) (Spring 2018), (co-teaching with [Dr. Henry Chia](https://www.comp.nus.edu.sg/~hchia/))
+## Faculty
+1. [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
+About: Assistant Professor in the Computer Science Department of School of Computing at National University of Singapore.
+
+![Kuldeep](/img/Kuldeep.jpg)
