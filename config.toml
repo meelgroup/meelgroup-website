@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/
 
 # The URL of your website.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+# End your URL with a `/` trailing slash, e.g. `https://meelgroup-website.netlify.com/`.
 baseurl = "/"
 
 # Title of your site
@@ -54,20 +54,21 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Kuldeep S. Meel"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Computer Science Department, School of Computing National University of Singapore",
+   url = "http://www.comp.nus.edu.sg/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "Kuldeep.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "meel@comp.nus.edu.sg"
+  address = "COM2-03-41"
+  office_hours = "Please consult  [my calendar](https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg) before suggesting a meeting time."
+  phone = "+65-651 61422 "
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
