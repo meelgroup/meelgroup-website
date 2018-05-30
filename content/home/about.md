@@ -16,7 +16,7 @@ weight = 5
     "Formal Methods",
     "Interpretable Models"
   ]
-
++++
 # Biography
 
 I am an Assistant Professor in the Computer Science Department of School of Computing at National University of Singapore. The broader goal of our research is to advance artificial intelligence techniques, which utilize ubiquity of data and formal methods, to enable computing to deal with increasingly uncertain real-world environments.
