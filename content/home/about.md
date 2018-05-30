@@ -17,8 +17,12 @@ weight = 5
     "Interpretable Models"
   ]
 +++
-# Biography
+# Meel Group
 
-I am an Assistant Professor in the Computer Science Department of School of Computing at National University of Singapore. The broader goal of our research is to advance artificial intelligence techniques, which utilize ubiquity of data and formal methods, to enable computing to deal with increasingly uncertain real-world environments.
+Welcome to the Group. 
 
-I am looking for highly motivated Ph.D. students, postdocs, and interns (with time commitment of at least 6 months) in our group. Read [this](http://www.comp.nus.edu.sg/~meel/#recruitment) before sending me an email.
+I feel deeply honored to be your advisor.  Sometimes, working in academia seems like walking in dark tropical jungles where no matter how much you have walked, you do not know what to expect next. While part of this is due to the intrinsic nature of research, a large blame lies on lack of resources for new inductees. Therefore, this site has been crated with all the resources to equip you in your academic career in our group. 
+
+Please make sure you go through the following items within the first two weeks of joining the group:
+
+- [Orientation](orientation.md)
