@@ -25,4 +25,4 @@ I feel deeply honored to be your advisor.  Sometimes, working in academia seems 
 
 Please make sure you go through the following items within the first two weeks of joining the group:
 
-- [Orientation](/content/home/orientation.md)
+- {{< ref "orientation.md#Orientation" >}}
