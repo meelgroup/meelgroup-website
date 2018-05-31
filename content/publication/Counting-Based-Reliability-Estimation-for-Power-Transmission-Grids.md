@@ -20,11 +20,6 @@ publication_types = ["1"]
 publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2017.*"
 publication_short = "In *IEEE*"
 
-<button  type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
-Abstract</button>
-<div id="abstract_DMPV17">
-Modern society is increasingly reliant on the functionality of infrastructure facilities and utility services. Consequently, there has been surge of interest in the problem of quantification of system reliability, which is known to be #P-complete. Reliability also contributes to the resilience of systems, so as to effectively make them bounce back after contingencies. Despite diverse progress, most techniques to estimate system reliability and resilience remain computationally expensive. In this paper, we investigate how recent advances in hashing-based approaches to counting can be exploited to improve computational techniques for system reliability. The primary contribution of this paper is a novel framework, RelNet, that provides provably approximately correct (PAC) estimates for arbitrary networks. We then apply RelNet to ten real world power transmission grids across different cities in the U.S. and are able to obtain, to the best of our knowledge, the first theoretically sound a priori estimates of reliability between several pairs of nodes of interest. Such estimates will help managing uncertainty and support rational decision making for community resilience.
-</div>
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,6 +31,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #projects = ["example-external-project"]
+
 
 # Links (optional).
 url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/AAAI17.pdf"
@@ -57,3 +53,8 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
+<button  type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
+Abstract</button>
+<div id="abstract_DMPV17">
+Modern society is increasingly reliant on the functionality of infrastructure facilities and utility services. Consequently, there has been surge of interest in the problem of quantification of system reliability, which is known to be #P-complete. Reliability also contributes to the resilience of systems, so as to effectively make them bounce back after contingencies. Despite diverse progress, most techniques to estimate system reliability and resilience remain computationally expensive. In this paper, we investigate how recent advances in hashing-based approaches to counting can be exploited to improve computational techniques for system reliability. The primary contribution of this paper is a novel framework, RelNet, that provides provably approximately correct (PAC) estimates for arbitrary networks. We then apply RelNet to ten real world power transmission grids across different cities in the U.S. and are able to obtain, to the best of our knowledge, the first theoretically sound a priori estimates of reliability between several pairs of nodes of interest. Such estimates will help managing uncertainty and support rational decision making for community resilience.
+</div>
