@@ -1,9 +1,9 @@
 +++
-title = "Counting-Based Reliability Estimation for Power-Transmission Grids"
+title = "A Scalable and Nearly Uniform Generator of SAT Witnesses"
 #date = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe Y. Vardi"]
+authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi"]
 
 # Publication type.
 # Legend:
@@ -17,8 +17,8 @@ authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2017.*"
-publication_short = "In *IEEE*"
+publication = "In *Proceedings of International Conference on Computer-Aided Verification (CAV), 2013.*"
+#publication_short = "In *AAAI*"
 
 
 # Featured image thumbnail (optional)
@@ -34,7 +34,7 @@ selected = true
 
 
 # Links (optional).
-url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/AAAI17.pdf"
+url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/cav13.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
@@ -64,5 +64,5 @@ highlight = true
 <button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
 Abstract</button>
 <div id="abstract_DMPV17" class="collapse">
-Modern society is increasingly reliant on the functionality of infrastructure facilities and utility services. Consequently, there has been surge of interest in the problem of quantification of system reliability, which is known to be #P-complete. Reliability also contributes to the resilience of systems, so as to effectively make them bounce back after contingencies. Despite diverse progress, most techniques to estimate system reliability and resilience remain computationally expensive. In this paper, we investigate how recent advances in hashing-based approaches to counting can be exploited to improve computational techniques for system reliability. The primary contribution of this paper is a novel framework, RelNet, that provides provably approximately correct (PAC) estimates for arbitrary networks. We then apply RelNet to ten real world power transmission grids across different cities in the U.S. and are able to obtain, to the best of our knowledge, the first theoretically sound a priori estimates of reliability between several pairs of nodes of interest. Such estimates will help managing uncertainty and support rational decision making for community resilience.
+Functional verification constitutes one of the most challenging tasks in the development of modern hardware systems, and simulation-based verification techniques dominate the functional verification landscape. A dominant paradigm in simulation-based verification is directed random testing, where a model of the system is simulated with a set of random test stimuli that are uniformly or near-uniformly distributed over the space of all stimuli satisfying a given set of constraints. Uniform or near-uniform generation of solutions for large constraint sets is therefore a problem of theoretical and practical interest. For Boolean constraints, prior work offered heuristic approaches with no guarantee of performance, and theoretical approaches with proven guarantees, but poor performance in practice. We offer here a new approach with theoretical performance guarantees and demonstrate its practical utility on large constraint sets.
 </div>

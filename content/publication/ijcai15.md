@@ -1,9 +1,9 @@
 +++
-title = "Counting-Based Reliability Estimation for Power-Transmission Grids"
+title = "From Weighted to Unweighted Model Counting "
 #date = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe Y. Vardi"]
+authors = ["Dror Fried","Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi"]
 
 # Publication type.
 # Legend:
@@ -17,8 +17,8 @@ authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2017.*"
-publication_short = "In *IEEE*"
+publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2015.*"
+#publication_short = "In *AAAI*"
 
 
 # Featured image thumbnail (optional)
@@ -34,7 +34,7 @@ selected = true
 
 
 # Links (optional).
-url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/AAAI17.pdf"
+url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/ijcai15.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
@@ -64,5 +64,5 @@ highlight = true
 <button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
 Abstract</button>
 <div id="abstract_DMPV17" class="collapse">
-Modern society is increasingly reliant on the functionality of infrastructure facilities and utility services. Consequently, there has been surge of interest in the problem of quantification of system reliability, which is known to be #P-complete. Reliability also contributes to the resilience of systems, so as to effectively make them bounce back after contingencies. Despite diverse progress, most techniques to estimate system reliability and resilience remain computationally expensive. In this paper, we investigate how recent advances in hashing-based approaches to counting can be exploited to improve computational techniques for system reliability. The primary contribution of this paper is a novel framework, RelNet, that provides provably approximately correct (PAC) estimates for arbitrary networks. We then apply RelNet to ten real world power transmission grids across different cities in the U.S. and are able to obtain, to the best of our knowledge, the first theoretically sound a priori estimates of reliability between several pairs of nodes of interest. Such estimates will help managing uncertainty and support rational decision making for community resilience.
+The recent surge of interest in reasoning about probabilistic graphical models has led to the development of various techniques for probabilistic reasoning. Of these, techniques based on weighted model counting are particularly interesting since they can potentially leverage recent advances in unweighted model counting and in propositional satisfiability solving. In this paper, we present a new approach to weighted model counting via reduction to unweighted model counting. Our reduction, which is polynomial-time and preserves the normal form (CNF/DNF) of the input formula, allows us to exploit advances in unweighted model counting to solve weighted model counting instances. Experiments with weighted model counters built using our reduction indicate that these counters performs much better than a state-of-the-art weighted model counter.
 </div>

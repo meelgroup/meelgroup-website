@@ -1,0 +1,377 @@
+@string{CP = "Proceedings of International Conference on Constraint Programming (CP)"}
+@string{AAAI= "Proceedings of AAAI Conference on Artificial Intelligence (AAAI)"}
+@string{CAV = "Proceedings of International Conference on Computer-Aided Verification (CAV)"}
+@string{DAC = "Proceedings of Design Automation Conference (DAC)"}
+@string{PACT = "Proceedings of Parallel Architecture and Compilation Techniques (PACT)"}
+@string{TACAS= "Proceedings of Tools and Algorithms for the Construction and Analysis of Systems (TACAS)"}
+@string{IJCAI= "Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)"}
+@string{BNP= "Proceedings of Workshop on Beyond NP(BNP)"}
+@string{CC= "Proceedings of International Conference on Compiler Construction (CC)"}
+@string{EUROPAR="Proceedings of  International European Conference on Parallel and Distributed Computing (Euro-Par)"}
+@string{FSTTCS="Proceedings of IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"}
+@string{VMCAI="Proceedings of International Conference on Verification, Model Checking, and Abstract Interpretation"}
+
+@inproceedings{BEHLMQ18,
+	title={Scalable Approximation of Quantitative Information Flow in Programs},
+	author={Biondi, Fabrizio and Enescu, Michael and Heuser, Annelie and Legay, Axel and Meel, Kuldeep S. and Quilbeuf, Jean},
+	booktitle=VMCAI,
+	year={2018},
+	month={1},
+	abstract={Quantitative information flow measurement techniques have
+	been proven to be successful in detecting leakage of confidential information
+	from programs. Modern approaches are based on formal methods,
+	relying on program analysis to produce a SAT formula representing the
+	program's behavior, and model counting to measure the possible information
+	flow. However, while program analysis scales to large codebases
+	like the OpenSSL project, the formulas produced are too complex for
+	analysis with precise model counting. In this paper we use the approximate
+	model counter ApproxMC2 to quantify information flow. We show
+	that ApproxMC2 is able to provide a large performance increase for a very
+	small loss of precision, allowing the analysis of SAT formulas produced
+	from complex code. We call the resulting technique ApproxFlow and test it
+	on a large set of benchmarks against the state of the art. Finally, we show
+	that ApproxFlow can evaluate the leakage incurred by the Heartbleed
+	OpenSSL bug, contrarily to the state of the art.},
+	url={Papers/vmcai18.pdf},
+	publication_type={conference},
+}
+
+@inproceedings{MSV17,
+  title={On Hashing-Based Approaches to Approximate DNF-Counting},
+  author={Meel, Kuldeep S. and Shrotri, Aditya A. and Vardi, Moshe Y.},
+  year={2017},
+  booktitle=FSTTCS,
+  month={12},
+  url={Papers/fsttcs17.pdf},
+  publication_type={conference},
+  abstract={Propositional model counting is a fundamental problem in artificial 
+    intelligence with a wide variety of applications, such as probabilistic 
+      inference, decision making under uncertainty, and probabilistic databases. 
+      Consequently, the problem is of theoretical as well as practical interest. 
+      When the constraints are expressed as DNF formulas, Monte Carlo-based techniques 
+      have been shown to provide a fully polynomial randomized approximation 
+      scheme (FPRAS). For CNF constraints, hashing-based approximation techniques 
+      have been demonstrated to be highly successful. Furthermore, it was shown 
+      that hashing-based techniques also yield an FPRAS for DNF counting without 
+      usage of Monte Carlo sampling. Our analysis, however, shows that the 
+      proposed hashing-based approach to DNF counting provides poor time 
+      complexity compared to the Monte Carlo-based DNF counting techniques. Given 
+      the success of hashing-based techniques for CNF constraints, it is natural 
+      to ask: Can hashing-based techniques provide an efficient FPRAS for DNF 
+      counting? In this paper, we provide a positive answer to this question. 
+      To this end, we introduce two novel algorithmic techniques: Symbolic Hashing and Stochastic Cell Counting, along with a new hash family of Row-Echelon hash functions. These innovations allow us to design a hashing-based FPRAS for DNF counting of similar complexity as that of prior works. Furthermore, we expect 
+      these techniques to have potential applications beyond DNF counting.
+  },
+}
+@inproceedings{DMV17,
+  title={The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas},
+  author={Dudek, Jeffrey and Meel, Kuldeep S. and Vardi, Moshe Y.},
+  year={2017},
+  booktitle=IJCAI,
+  month={8},
+  url={Papers/ijcai17.pdf},
+  publication_type={conference},
+  abstract={Recent universal-hashing based approaches to sampling and counting 
+    crucially depend on the runtime performance of \SAT~solvers on
+    formulas expressed as the conjunction of both CNF constraints and variable-width XOR constraintsints (known as CNF-XOR formulas). In this paper, we present the first study of the runtime behavior of \SAT~solvers equipped with XOR-reasoning techniques on random CNF-XOR formulas. 
+      We empirically demonstrate that a state-of-the-art \SAT~solver scales exponentially on random CNF-XOR formulas across a wide range of XOR-clause densities, peaking around the empirical phase-transition location.
+      On the theoretical front, we  prove that the solution space of a 
+      random CNF-XOR formula `shatters' at \emph{all} nonzero XOR-clause densities 
+      into well-separated components, similar to the behavior seen in random CNF formulas 
+      known to be difficult for many \SAT-solving algorithms.
+  },
+},
+  @inproceedings{DMPV17,
+  title={Counting-Based Reliability Estimation for Power-Transmission Grids},
+  author={Duenas-Osorio, Leonardo and Meel,  Kuldeep S. and Paredes, Roger and Vardi, Moshe Y.},
+  year={2017},
+  booktitle=AAAI,
+  month={2},
+  url={Papers/AAAI17.pdf},
+  publication_type={conference},
+  abstract={Modern society is increasingly reliant on the functionality of 
+infrastructure facilities and utility services. Consequently, there 
+has been surge of interest in the problem of quantification of 
+system reliability, which is known to be #P-complete. Reliability also contributes to the resilience of systems, so as to effectively make them   bounce back after contingencies. Despite 
+diverse progress, most techniques to estimate system reliability and resilience remain computationally expensive. In this paper, we investigate 
+how recent advances in hashing-based approaches to counting can 
+be exploited to improve computational techniques for system 
+reliability.
+The primary contribution of this paper is a novel 
+framework, RelNet, that provides provably approximately correct (PAC) estimates for arbitrary networks. 
+We then apply RelNet to ten real world power transmission grids across different cities in the U.S. and are able to obtain, to the best of 
+our knowledge, the first theoretically sound a priori estimates of reliability between several pairs of nodes of interest.  Such estimates will help managing uncertainty and support rational decision making for community resilience.},
+}
+@inproceedings{PMMCM16,
+  title={Design and Verification of Distributed Phasers},
+  author={Murthy, Karthik, and Paul, Sri Raj, and Meel, Kuldeep S., and Cogumbreiro, Tiago and Mellor-Crummey, John},
+  year={2016},
+  month={1},
+  url={Papers/europar16.pdf},
+  code={http://srp7.web.rice.edu/phaser/},
+  booktitle=EUROPAR,
+  publication_type={conference},
+  abstract={A phaser is an expressive synchronization construct that unifies 
+    collective and point-to-point coordination with dynamic registration of parallel 
+      tasks. Each task can participate in a phaser as a signaler, a waiter, or both. 
+   The participants in a phaser may change over time as tasks are added and deleted. 
+   In this paper, we present a highly concurrent and scalable design of phasers for a 
+   distributed memory environment. 
+
+  Our design for a distributed phaser employs a pair of skip lists augmented with the 
+  ability to collect and propagate synchronization signals. To enable a high degree of 
+  concurrency, addition and deletion of participant tasks are performed in two phases: 
+  a "fast single-link-modify" step followed by multiple hand-over-hand "lazy multi-link-modify" 
+  steps. 
+
+      Verifying highly-concurrent protocols is difficult. We analyze our design for a 
+      distributed phaser using the SPIN model checker. A straight-forward approach to 
+      model checking a distributed phaser operation requires an infeasibly large state space. 
+      To address this issue, we employ a novel "message-based" model checking scheme to enable 
+      a non- approximate complete model checking of our phaser design. We guarantee the 
+      semantic properties of phaser operations by ensuring that a set of linear temporal logic 
+   formulae are valid during model checking. 
+      We also present complexity analysis of the cost of synchronization and structural 
+      operations.},
+}
+@inproceedings{CMV16,
+	title={Improving Approximate Counting for Probabilistic Inference: From Linear to Logarithmic SAT Solver Calls},
+	author={Chakraborty, Supratik and Meel, Kuldeep S. and Vardi, Moshe Y.},
+	code={https://bitbucket.org/kuldeepmeel/approxmc},
+	year={2016},
+  url={Papers/ijcai16_counting.pdf},
+	month={7},
+	booktitle=IJCAI,
+	publication_type={conference},
+		abstract={Probabilistic inference via model counting has emerged as a scalable
+technique with strong formal guarantees, thanks to recent advances in
+hashing-based approximate counting. State-of-the-art hashing-based
+counting algorithms use an {\NP} oracle, such that the number of
+oracle invocations grows linearly in the number of variables n in
+the input constraint. We present a new approach to hashing-based
+approximate model counting in which the number of oracle invocations
+grows logarithmically in $n$, while still providing strong theoretical
+guarantees. Our experiments show that the new approach outperforms
+state-of-the-art techniques for approximate counting by 1-2 orders
+of magnitude in running time.},	
+}
+@inproceedings{DMV16,
+	title={Combining the k-CNF and XOR Phase-Transitions},
+	author={Dudek, Jeffrey and Meel, Kuldeep S. and Vardi, Moshe Y.},
+  url={Papers/ijcai16-cnfxor.pdf},
+  code={http://www.cs.rice.edu/CS/Verification/Projects/CUSP/IJCAI16/},
+	year={2016},
+	month={7},
+	booktitle=IJCAI,
+	publication_type={conference},
+	abstract={The runtime performance of modern SAT solvers on random k-CNF formulas is deeply connected with the `phase-transition' phenomenon seen empirically in the satisfiability of random k-CNF formulas. Recent universal hashing-based approaches to sampling and counting crucially depend on the runtime performance of SAT solvers on formulas expressed as the conjunction of both k-CNF and XOR constraints (known as k-CNF-XOR formulas), but the behavior of random k-CNF-XOR formulas is unexplored in prior work. In this paper, we present the first study of the satisfiability of random k-CNF-XOR formulas. We show empirical evidence of a surprising phase-transition that follows a linear trade-off between k-CNF and XOR constraints. Furthermore, we prove that a phase-transition for k-CNF-XOR formulas exists for k = 2 and (when the number of k-CNF constraints is small) for k > 2.}
+}
+	
+
+@inproceedings{MMBV16,
+  title={Automatic Data Layout Generation and Kernel Mapping for CPU+GPU Architectures},
+  url={Papers/CC2016.pdf},
+  author={Majeti, Deepak and  Meel, Kuldeep S. and Barik, Raj and Sarkar, Vivek},
+  year={2016},
+  month={3},
+  booktitle=CC,
+  publication_type={conference},
+  abstract={The ubiquity of hybrid CPU+GPU architectures has led to renewed interest in automatic data layout generation owing to the fact that data layouts have a large impact on performance, and that different data layouts yield the best performance on CPUs vs. GPUs. Unfortunately, current programming models still fail to provide an effective solution to the problem of automatic data layout generation for CPU+GPU processors. Specifically, the interaction among whole-program data layout optimizations, data movement optimizations, and mapping of kernels across heterogeneous cores poses a major challenge to current programming systems. In this paper, we introduce a novel two-level hierarchical formulation of the data layout and kernel mapping problem for modern heterogeneous architectures. The top level formulation targets data layouts and kernel mapping for the entire program for which we provide a polynomial- time solution using a graph-based shortest path algorithm that uses the data layouts for the code regions (sections) for a given processor computed in the bottom level formulation. The bottom level formulation deals with the data layout problem for a parallel code region on a given processor, which is NP-Hard, and we provide a greedy algorithm that uses an affinity graph to obtain approximate solutions. We have implemented this data layout transformation in the new Heterogeneous Habanero-C (H2C) parallel programming framework and propose performance models to characterize the data layout impact on both the CPU and GPU. Our data layout framework shows significant performance improvements of up to 2.9 (geometric mean 1.5) on a multicore CPU+GPU compared to the manually specified layouts for a set of parallel programs running on a heterogeneous platform consisting of an Intel Xeon CPU and a NVIDIA GPU. Further, our framework also shows performance improvements of up to 2.7 (geometric mean 1.6) on just the multicore CPU, demonstrating the applicability of our approach to both heterogeneous and homogeneous hardware platforms.},
+}
+@inproceedings{CMMV15,
+  title={Approximate Probabilistic Inference via Word-Level Counting},
+  url={Papers/AAAI16.pdf},
+  code={https://bitbucket.org/kuldeepmeel/smtapproxmc},
+  author={Chakraborty, Supratik and Meel, Kuldeep S. and Mistry, Rakesh and Vardi, Moshe Y.},
+  year={2016},
+  month={6},
+  booktitle=AAAI,
+  publication_type={conference},
+  abstract={Hashing-based model counting has emerged as a promising
+approach for large-scale probabilistic inference on graphical
+models. A key component of these techniques is the
+use of xor-based 2-universal hash functions that operate over
+Boolean domains. Many counting problems arising in probabilistic
+inference are, however, naturally encoded over fi-
+nite discrete domains. Techniques based on bit-level (or
+Boolean) hash functions require these problems to be propositionalized,
+making it impossible to leverage the remarkable
+progress made in SMT (Satisfiability Modulo Theory)
+solvers that can reason directly over words (or bit-vectors). In
+this work, we present the first approximate model counter that
+uses word-level hashing functions, and can directly leverage
+the power of sophisticated SMT solvers. Empirical evaluation
+over an extensive suite of benchmarks demonstrates the
+promise of the approach.
+	},
+}
+@inproceedings{IMMV15a,
+  title={On Computing Minimal Independent Support and Its Applications to Sampling and Counting},
+  url={Papers/cp2015.pdf},
+  code={https://bitbucket.org/kuldeepmeel/mis},
+  author={Ivrii, Alexander and Malik, Sharad and Meel, Kuldeep S. and Vardi, Moshe Y.},
+  year = {2015},
+  booktitle = CP,
+  month = 9,
+  note = {Best Student Paper Award},
+  publication_type={conference},
+ abstract={
+Constrained sampling and counting are two fundamental problems arising in domains ranging from artificial intelligence and security, to hardware and software testing. Recent approaches to approximate solutions for these problems rely on employing SAT solvers and universal hash functions that are typically encoded as XOR constraints of length n/2 for an input formula with n variables. As the runtime performance of SAT solvers heavily depends on the length of XOR constraints, recent research effort has been focused on reduction of length of XOR constraints. Consequently, a notion of Independent Support was proposed, and it was shown that constructing XORs over independent support (if known) can lead to a significant reduction in the length of XOR constraints without losing the theoretical guarantees of sampling and counting algorithms. In this paper, we present the first algorithmic procedure (and a corresponding tool, called MIS) to determine minimal independent support for a given CNF formula by employing a reduction to group minimal unsatisfiable subsets (GMUS). By utilizing minimal independent supports computed by MIS, we provide new tighter bounds on the length of XOR constraints for constrained counting and sampling. Furthermore, the universal hash functions constructed from independent supports computed by MIS provide two to three orders of magnitude performance improvement in state-of-the-art constrained sampling and counting tools, while still retaining theoretical guarantees.},
+}
+@article{IMMV16,
+  title={On Computing Minimal Independent Support and Its Applications to Sampling and Counting},
+  url={Papers/constraints16.pdf},
+  code={https://bitbucket.org/kuldeepmeel/mis},
+  author={Ivrii, Alexander and Malik, Sharad and Meel, Kuldeep S. and Vardi, Moshe Y.},
+  journal={Constraints},
+  volume = 21,
+  number=1,
+  month=9,
+  year={2016},
+  publication_type={journal},
+  abstract={
+Constrained sampling and counting are two fundamental problems arising in domains ranging from artificial intelligence and security, to hardware and software testing. Recent approaches to approximate solutions for these problems rely on employing SAT solvers and universal hash functions that are typically encoded as XOR constraints of length n/2 for an input formula with n variables. As the runtime performance of SAT solvers heavily depends on the length of XOR constraints, recent research effort has been focused on reduction of length of XOR constraints. Consequently, a notion of Independent Support was proposed, and it was shown that constructing XORs over independent support (if known) can lead to a significant reduction in the length of XOR constraints without losing the theoretical guarantees of sampling and counting algorithms. In this paper, we present the first algorithmic procedure (and a corresponding tool, called MIS) to determine minimal independent support for a given CNF formula by employing a reduction to group minimal unsatisfiable subsets (GMUS). By utilizing minimal independent supports computed by MIS, we provide new tighter bounds on the length of XOR constraints for constrained counting and sampling. Furthermore, the universal hash functions constructed from independent supports computed by MIS provide two to three orders of magnitude performance improvement in state-of-the-art constrained sampling and counting tools, while still retaining theoretical guarantees.},
+}
+@inproceedings{CFMV15,
+  title = {From Weighted to Unweighted Model Counting},
+  url = {Papers/ijcai15.pdf},
+  code={https://bitbucket.org/kuldeepmeel/weightcount},
+  author={Chakraborty, Supratik and Fried, Dror and Meel, Kuldeep S. and Vardi, Moshe Y.},
+  booktitle=IJCAI,
+  year={2015},
+  month=7,
+  publication_type={conference},
+abstract={The recent surge of interest in reasoning about
+probabilistic graphical models has led to the development
+of various techniques for probabilistic
+reasoning. Of these, techniques based on weighted
+model counting are particularly interesting since
+they can potentially leverage recent advances in unweighted
+model counting and in propositional satisfiability
+solving. In this paper, we present a new
+approach to weighted model counting via reduction
+to unweighted model counting. Our reduction,
+which is polynomial-time and preserves the normal
+form (CNF/DNF) of the input formula, allows us
+to exploit advances in unweighted model counting
+to solve weighted model counting instances. Experiments
+with weighted model counters built using
+our reduction indicate that these counters performs
+much better than a state-of-the-art weighted model
+counter.},
+}
+@inproceedings{CFMSV15a,
+  title={On Parallel Scalable Uniform SAT Witness Generator},
+  url={Papers/Tacas15.pdf},
+  code={https://bitbucket.org/kuldeepmeel/unigen},
+  author={Chakraborty, Supratik and Fremont, Daniel J. and Meel, Kuldeep S. and Seshia, Sanjit A. and Vardi, Moshe Y.},
+  booktitle=TACAS,
+  pages={304--319},
+  year={2015},
+  month=4,
+  publication_type={conference},
+  abstract={
+Constrained-random verification (CRV) is widely used in industry for validating hardware designs. The effectiveness of CRV depends on the uniformity of test stimuli generated from a given set of constraints. Most existing techniques sacrifice either uniformity or scalability when generating stimuli. While recent work based on random hash functions has shown that it is possible to generate almost uniform stimuli from constraints with 100,000+ variables, the performance still falls short of today's industrial requirements. In this paper, we focus on pushing the performance frontier of uniform stimulus generation further. We present a random hashing-based, easily parallelizable algorithm, UniGen2, for sampling solutions of propositional constraints. UniGen2 provides strong and relevant theoretical guarantees in the context of CRV, while also offering significantly improved performance compared to existing almost-uniform generators. Experiments on a diverse set of benchmarks show that UniGen2 achieves an average speedup of about 20X over a state-of-the-art sampling algorithm, even when running on a single core. Moreover, experiments with multiple cores show that UniGen2 achieves a near-linear speedup in the number of cores, thereby boosting performance even further.},
+}
+@inproceedings{MMBS14,
+   title={ADHA: Automatic Data layout framework for Heterogeneous Architectures},
+   url={http://arxiv.org/pdf/1407.4859.pdf},
+   author={Majeti, Deepak and Meel, Kuldeep S. and Barik, Raj and Sarkar, Vivek},
+   booktitle=PACT,
+   year={2014},
+   month=8,
+   publication_type={conference},
+   abstract={Data layouts play a crucial role in determining the performance of a given application running on a given architecture. Existing parallel programming frameworks for both multicore and heterogeneous systems leave the onus of selecting a data layout to the programmer. Therefore, shifting the burden of data layout selection to optimizing compilers can greatly enhance programmer productivity and application performance. In this work, we introduce ADHA: a two-level hierarchal formulation of the data layout problem for modern heterogeneous architectures. We have created a reference implementation of ADHA in the Heterogeneous Habanero-C (H2C) parallel programming system. ADHA shows significant performance benefits of up to 6.92X compared to manually specified layouts for two benchmark programs running on a CPU+GPU heterogeneous platform.}
+}
+@inproceedings{CMV14,
+	title={Balancing Scalability and Uniformity in SAT-Witness Generator},
+  url={Papers/DAC2014.pdf},
+  code={https://bitbucket.org/kuldeepmeel/unigen},
+  author={Chakraborty, Supratik and Meel, Kuldeep S. and Vardi, Moshe Y.},
+	booktitle=DAC,
+	pages = {60:1--60:6},
+	year={2014},
+	month=6,
+  publication_type={conference},
+  abstract={Constrained-random simulation is the predominant approach used in the industry for functional verification of complex digital designs. The effectiveness of this approach depends on two key factors: the quality of constraints used to generate test vectors, and the randomness of solutions generated from a given set of constraints. In this paper, we focus on the second problem, and present an algorithm that significantly improves the state-of-the-art of (almost-)uniform generation of solutions of large Boolean constraints. Our algorithm provides strong theoretical guarantees on the uniformity of generated solutions and scales to problems involving hundreds of thousands of variables.},
+}
+@inproceedings{CFMSV14,
+	title={Distribution-Aware Sampling and Weighted Model Counting for {SAT}},
+  url={Papers/AAAI14.pdf},
+  code={https://bitbucket.org/kuldeepmeel/weightmc},
+	author={Chakraborty, Supratik and Fremont, Daniel J. and Meel, Kuldeep S. and Seshia, Sanjit A. and Vardi, Moshe Y.},
+	booktitle=AAAI,
+	year={2014},
+	month=7,
+  publication_type={conference},
+  abstract={Given a CNF formula and a weight for each assignment of values to variables, two natural problems are weighted model counting and distribution-aware sampling of satisfying assignments. Both problems have a wide variety of important applications. Due to the inherent complexity of the exact versions of the problems, interest has focused on solving them approximately. Prior work in this area scaled only to small problems in practice, or failed to provide strong theoretical guarantees, or employed a computationally-expensive maximum a posteriori probability (MAP) oracle that assumes prior knowledge of a factored representation of the weight distribution. We present a novel approach that works with a black-box oracle for weights of assignments and requires only an {\NP}-oracle (in practice, a SAT-solver) to solve both the counting and sampling problems. Our approach works under mild assumptions on the distribution of weights of satisfying assignments, provides strong theoretical guarantees, and scales to problems involving several thousand variables. We also show that the assumptions can be significantly relaxed while improving computational efficiency if a factored representation of the weights is known.},
+}
+@inproceedings{CMV13b,
+	title={A Scalable Approximate Model Counter},
+	url={Papers/CP2013.pdf},
+  code={https://bitbucket.org/kuldeepmeel/approxmc},
+  author={Chakraborty, Supratik and Meel, Kuldeep S. and Vardi, Moshe Y.},
+	booktitle=CP,
+	pages={200--216},
+	year={2013},
+	month=9,
+  publication_type={conference},
+abstract={
+Propositional model counting (#SAT), i.e., counting the number
+of satisfying assignments of a propositional formula, is a problem of
+significant theoretical and practical interest. Due to the inherent complexity
+of the problem, approximate model counting, which counts the
+number of satisfying assignments to within given tolerance and confi-
+dence level, was proposed as a practical alternative to exact model counting.
+Yet, approximate model counting has been studied essentially only
+theoretically. The only reported implementation of approximate model
+counting, due to Karp and Luby, worked only for DNF formulas. A few
+existing tools for CNF formulas are bounding model counters; they can
+handle realistic problem sizes, but fall short of providing counts within
+given tolerance and confidence, and, thus, are not approximate model
+counters.
+We present here a novel algorithm, as well as a reference implementation,
+that is the first scalable approximate model counter for CNF formulas.
+The algorithm works by issuing a polynomial number of calls to a SAT
+solver. Our tool, ApproxMC, scales to formulas with tens of thousands
+of variables. Careful experimental comparisons show that ApproxMC reports,
+with high confidence, bounds that are close to the exact count,
+and also succeeds in reporting bounds with small tolerance and high
+confidence in cases that are too large for computing exact model counts.
+},
+  
+}
+@inproceedings{CMV13a,
+	title={A Scalable and Nearly Uniform Generator of SAT Witnesses},
+  url={Papers/cav13.pdf},
+  code={https://bitbucket.org/kuldeepmeel/unigen},
+	author={Chakraborty, Supratik and Meel, Kuldeep S. and Vardi, Moshe Y.},
+	booktitle=CAV,
+	pages={608-622},
+	year={2013},
+	month=7,
+  publication_type={conference},
+  abstract={Functional verification constitutes one of the most challenging tasks in the development of modern hardware systems, and simulation-based verification techniques dominate the functional verification landscape. A dominant paradigm in simulation-based verification is directed random testing, where a model of the system is simulated with a set of random test stimuli that are uniformly or near-uniformly distributed over the space of all stimuli satisfying a given set of constraints. Uniform or near-uniform generation of solutions for large constraint sets is therefore a problem of theoretical and practical interest. For Boolean constraints, prior work offered heuristic approaches with no guarantee of performance, and theoretical approaches with proven guarantees, but poor performance in practice. We offer here a new approach with theoretical performance guarantees and demonstrate its practical utility on large constraint sets.},
+}
+@inproceedings{MCVF15,
+  title={Constrained Sampling and Counting: Universal Hashing meets SAT Solving},
+  url={Papers/BNP16.pdf},
+  code={https://bitbucket.org/kuldeepmeel/unigen},
+  author={Meel, Kuldeep S. and Vardi, Moshe Y. and  Chakraborty, Supratik and Fremont, Daniel J. and Seshia, Sanjit A. and Fried, Dror and Ivrii, Alexander and Malik,Sharad},
+  booktitle=BNP,
+  year={2016},
+  abstract={Constrained sampling and counting are two fundamental problems in
+artificial intelligence with a diverse range of applications, spanning
+probabilistic reasoning and planning to constrained-random
+verification. While the theory of these problems was thoroughly
+investigated in the 1980s, prior work either did not scale to
+industrial size instances or gave up correctness guarantees to achieve
+scalability. Recently, we proposed a novel approach that combines
+universal hashing and SAT solving and scales to formulas with hundreds
+of thousands of variables without giving up correctness
+guarantees. This paper provides an overview of the key ingredients of
+the approach and discusses challenges that need to be overcome to
+handle larger real-world instances.},
+  month=2,
+  publication_type={workshop},
+}

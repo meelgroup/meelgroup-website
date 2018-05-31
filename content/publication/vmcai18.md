@@ -1,9 +1,9 @@
 +++
-title = "Counting-Based Reliability Estimation for Power-Transmission Grids"
+title = "Scalable Approximation of Quantitative Information Flow in Programs"
 #date = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe Y. Vardi"]
+authors = ["Kuldeep S. Meel","Fabrizio Biondi", "Michael Enescu", "Annelie Heuser", "Axel Legay", "Jean Quilbeuf"] 
 
 # Publication type.
 # Legend:
@@ -17,8 +17,8 @@ authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2017.*"
-publication_short = "In *IEEE*"
+publication = "In *Proceedings of International Conference on Verification, Model Checking, and Abstract Interpretation, 2018.*"
+#publication_short = "In *AAAI*"
 
 
 # Featured image thumbnail (optional)
@@ -34,7 +34,7 @@ selected = true
 
 
 # Links (optional).
-url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/AAAI17.pdf"
+url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/vmcai18.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
@@ -64,5 +64,5 @@ highlight = true
 <button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
 Abstract</button>
 <div id="abstract_DMPV17" class="collapse">
-Modern society is increasingly reliant on the functionality of infrastructure facilities and utility services. Consequently, there has been surge of interest in the problem of quantification of system reliability, which is known to be #P-complete. Reliability also contributes to the resilience of systems, so as to effectively make them bounce back after contingencies. Despite diverse progress, most techniques to estimate system reliability and resilience remain computationally expensive. In this paper, we investigate how recent advances in hashing-based approaches to counting can be exploited to improve computational techniques for system reliability. The primary contribution of this paper is a novel framework, RelNet, that provides provably approximately correct (PAC) estimates for arbitrary networks. We then apply RelNet to ten real world power transmission grids across different cities in the U.S. and are able to obtain, to the best of our knowledge, the first theoretically sound a priori estimates of reliability between several pairs of nodes of interest. Such estimates will help managing uncertainty and support rational decision making for community resilience.
+Quantitative information flow measurement techniques have been proven to be successful in detecting leakage of confidential information from programs. Modern approaches are based on formal methods, relying on program analysis to produce a SAT formula representing the program's behavior, and model counting to measure the possible information flow. However, while program analysis scales to large codebases like the OpenSSL project, the formulas produced are too complex for analysis with precise model counting. In this paper we use the approximate model counter ApproxMC2 to quantify information flow. We show that ApproxMC2 is able to provide a large performance increase for a very small loss of precision, allowing the analysis of SAT formulas produced from complex code. We call the resulting technique ApproxFlow and test it on a large set of benchmarks against the state of the art. Finally, we show that ApproxFlow can evaluate the leakage incurred by the Heartbleed OpenSSL bug, contrarily to the state of the art.
 </div>

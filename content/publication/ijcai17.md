@@ -1,9 +1,9 @@
 +++
-title = "Counting-Based Reliability Estimation for Power-Transmission Grids"
+title = "The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas  "
 #date = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe Y. Vardi"]
+authors = ["Kuldeep S. Meel", "Jeffrey Dudek", "Moshe Y. Vardi"]
 
 # Publication type.
 # Legend:
@@ -17,8 +17,8 @@ authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2017.*"
-publication_short = "In *IEEE*"
+publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2017.*"
+#publication_short = "In *AAAI*"
 
 
 # Featured image thumbnail (optional)
@@ -34,7 +34,7 @@ selected = true
 
 
 # Links (optional).
-url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/AAAI17.pdf"
+url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/ijcai17.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
@@ -64,5 +64,5 @@ highlight = true
 <button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
 Abstract</button>
 <div id="abstract_DMPV17" class="collapse">
-Modern society is increasingly reliant on the functionality of infrastructure facilities and utility services. Consequently, there has been surge of interest in the problem of quantification of system reliability, which is known to be #P-complete. Reliability also contributes to the resilience of systems, so as to effectively make them bounce back after contingencies. Despite diverse progress, most techniques to estimate system reliability and resilience remain computationally expensive. In this paper, we investigate how recent advances in hashing-based approaches to counting can be exploited to improve computational techniques for system reliability. The primary contribution of this paper is a novel framework, RelNet, that provides provably approximately correct (PAC) estimates for arbitrary networks. We then apply RelNet to ten real world power transmission grids across different cities in the U.S. and are able to obtain, to the best of our knowledge, the first theoretically sound a priori estimates of reliability between several pairs of nodes of interest. Such estimates will help managing uncertainty and support rational decision making for community resilience.
+Recent universal-hashing based approaches to sampling and counting crucially depend on the runtime performance of \SAT~solvers on formulas expressed as the conjunction of both CNF constraints and variable-width XOR constraintsints (known as CNF-XOR formulas). In this paper, we present the first study of the runtime behavior of \SAT~solvers equipped with XOR-reasoning techniques on random CNF-XOR formulas. We empirically demonstrate that a state-of-the-art \SAT~solver scales exponentially on random CNF-XOR formulas across a wide range of XOR-clause densities, peaking around the empirical phase-transition location. On the theoretical front, we prove that the solution space of a random CNF-XOR formula `shatters' at \emph{all} nonzero XOR-clause densities into well-separated components, similar to the behavior seen in random CNF formulas known to be difficult for many \SAT-solving algorithms.
 </div>
