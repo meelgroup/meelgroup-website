@@ -18,7 +18,7 @@ weight = 60
 # **Faculty**
 1. [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
 
-<iframe style="display: inline-block;"  src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 160px;"count=true&amp;size=large" scrolling="0";height="30px" frameborder="0"></iframe>
+<iframe style="display: inline-block;"  src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 160px; height="30px" frameborder="0"></iframe>
 
 # **Postdocs and PhD Students**
  
