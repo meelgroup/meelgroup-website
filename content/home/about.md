@@ -21,4 +21,4 @@ weight = 5
 
 Welcome to the Group. 
 
-Our main research focus is Sampling, SAT solving, Constraint Counting.....
+Our main research focus is Sampling, SAT solving, Constraint Counting.
