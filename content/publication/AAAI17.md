@@ -35,6 +35,14 @@ selected = true
 
 # Links (optional).
 url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/AAAI17.pdf"
+#url_preprint = ""
+#url_code = ""
+#url_dataset = ""
+#url_project = ""
+#url_slides = ""
+#url_video = ""
+#url_poster = ""
+#url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
