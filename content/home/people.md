@@ -18,7 +18,8 @@ weight = 60
 # **Faculty**
 1. [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
 
-<iframe style="display: inline-block;"  src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 160px; height="30px" frameborder="0"></iframe>
+
+<img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
 
 # **Postdocs and PhD Students**
  
@@ -29,12 +30,15 @@ weight = 60
 # **Masters Students**
 1. [Shubham Sharma](http://home.iitk.ac.in/~smsharma/)
 
+
 <img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px;"/>
 
 # **Undergraduates**
 1. [Bhavishya](http://home.iitk.ac.in/~bhavish/)
 
+
 <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px;"/>
+
 
 # **Past visitors**
 1.
