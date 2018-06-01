@@ -20,35 +20,41 @@ Prerequisites:
 
     Now you can go to [localhost:1313](http://localhost:1313).
   
-4. To deploy run:
+4. To deploy, run:
        
        chmod +x deploy.sh
        ./deploy.sh 
 
 # Instruction for adding Papers
-- To add a new paper(say of name *<paper>*). Add *<paper.md>* like other md files and for adding bib information add *<paper.bib>* in `static/files/citations/`.
+- To add a new paper(*<name_of_paper>*). Add *<name_of_paper.md>* like other md files and for adding bib information add *<name_of_paper.bib>* in `static/files/citations/`.
 
 # Instruction for adding Widgets
 - To create widgets and their md file in `content/home`(For eg. see `people.md` that adds `people` widget.)
 - You'll also need to change `config.toml` to make any global configuration changes.
 
 # Instruction for adding your photos
-- See `content/home/people.md`. Add your name(if you happen to have a homepage you can link your name to that url) under appropriate group and `jpg/png` image in `/static/img/` directory. After that add html(see existing entries) with `src` changed to your image location.
+- See `content/home/people.md`. 
+
+- Add your name (if you happen to have a homepage you can link your name to that url) under appropriate group and `jpg/png` image in `/static/img/` directory. After that add html(see existing entries) with `src` changed to your image location.
 
 ## NOTE:
-- The *md* files also take direct html. So if you want, you can hack to make small changes.
-- Also when you run `deploy.sh`, the website rebuilds from the repo, So you may want to confirm your changes before running the script. 
- **Hence it's recommended that after making the changes you first run it on localhost using `hugo server`**
-  In case you have pushed the wrong code, you can do a `git reset HEAD~1` , push back again and rerun the script to reach back to the initial state.
+- The *md* files also take plain html. So if you want, you can hack html to make small changes.
+
+- Also when you run `deploy.sh`, the website rebuilds from the repo, 
+**So you may want to confirm your changes before running the script. 
+ Hence it's recommended that after making the changes you first run it on localhost using `hugo server`**
+
+- In case you have pushed the wrong code, you can do a `git reset HEAD~1` , push back again and rerun the script to reach back to the initial state.
+
 
 - If you're having trouble installing `hugo` and intend to make small changes only, you can also do the following:
 
        ```
-       # Fork the repo 
+       # Fork the repo https://github.com/meelgroup/meelgroup-website 
        git clone https://github.com/<your_name>/<your_website_name>
        cd <your_website_name>
        git checkout -b <new_branch>
-       # Make whatever changes git add and commit
+       # Make whatever changes,  git add and commit
        # Now go to github and initiate a Pull-Request 
        # Now the Maintainer would accept the PR and merge it with the master 
        ```
