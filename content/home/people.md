@@ -19,10 +19,16 @@ weight = 60
 1. [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
   <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
 
-# **Postdocs and PhD Students**
+# **Postdocs** 
  
 1. [Mate Soos](http://www.msoos.org/)
   <img src="/img/Mate.jpg" alt="Mate" style="width: 200px;"/>
+
+# **PhD Students**
+
+1. [Bishwamittra Ghosh](https://sites.google.com/view/bishwamittra-ghosh/)
+
+<img src="/img/bGhosh.jpg" alt="Bishwamittra" style="width: 200px;"/>
 
 # **Masters Students**
 1. [Shubham Sharma](http://home.iitk.ac.in/~smsharma/)
