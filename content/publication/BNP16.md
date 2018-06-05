@@ -17,8 +17,7 @@ authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi","Daniel J
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of Workshop on Beyond NP(BNP).*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of Workshop on Beyond NP(BNP)*"
 
 
 # Featured image thumbnail (optional)

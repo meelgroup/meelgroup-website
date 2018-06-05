@@ -17,7 +17,7 @@ authors = ["Supratik Chakraborty", "Kuldeep S. Meel", "Rakesh Mistry", "Moshe Y.
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI).*"
+publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI)*"
 
 
 # Featured image thumbnail (optional)

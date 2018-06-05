@@ -17,7 +17,7 @@ authors = ["Kuldeep S. Meel", "Aditya A. Shrotri", "Moshe Y. Vardi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science *"
+publication = "In *Proceedings of IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science*"
 
 
 # Featured image thumbnail (optional)

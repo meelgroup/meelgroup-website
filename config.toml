@@ -66,7 +66,7 @@ enableGitInfo = false
   avatar = "Kuldeep.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "meel@comp.nus.edu.sg"
   address = "COM2-03-41"
-  office_hours = "Please consult  [my calendar](https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg) before suggesting a meeting time."
+#office_hours = "Please consult  [my calendar](https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg) before suggesting a meeting time."
   phone = "+65-651 61422 "
   skype = ""
   telegram = ""

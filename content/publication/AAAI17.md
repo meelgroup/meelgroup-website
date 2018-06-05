@@ -17,7 +17,7 @@ authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI).*"
+publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI)*"
 
 
 # Featured image thumbnail (optional)
