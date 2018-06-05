@@ -31,10 +31,38 @@ weight = 60
 <img src="/img/bGhosh.jpg" alt="Bishwamittra" style="width: 200px;"/>
 
 # **Masters Students**
-- [Shubham Sharma](http://home.iitk.ac.in/~smsharma/)
-  <img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px;"/>
-- [Rahul Gupta](http://home.iitk.ac.in/~grahul/)
-  <img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
+
+<html>
+
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<a href=http://home.iitk.ac.in/~smsharma/> Shubham Sharma  </a>
+<img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px;"/>
+</div>
+<div class="column">
+<a href=http://home.iitk.ac.in/~grahul/> Rahul Gupta  </a>
+<img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
+</div>
+</div>
+</body>
+</html>
 
 # **Undergraduates**
 - [Bhavishya](http://home.iitk.ac.in/~bhavish/)
