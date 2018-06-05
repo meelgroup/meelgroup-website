@@ -16,19 +16,68 @@ weight = 60
 +++
 
 # **Faculty**
-- [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
+ [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
   <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
 
 # **Postdocs** 
  
-- [Mate Soos](http://www.msoos.org/)
-  <img src="/img/Mate.jpg" alt="Mate" style="width: 200px;"/>
+<html>
+
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<a href=http://www.msoos.org> Mate Soos  </a>
+<img src="/img/Mate.jpg" alt="Mate" style="width: 200px;"/>
+</div>
+</div>
+</body>
+</html>
 
 # **PhD Students**
 
-- [Bishwamittra Ghosh](https://sites.google.com/view/bishwamittra-ghosh/)
+<html>
 
-<img src="/img/bGhosh.jpg" alt="Bishwamittra" style="width: 200px;"/>
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<a href=https://sites.google.com/view/bishwamittra-ghosh> Bishwamittra Ghosh </a>
+<img src="/img/bGhosh.jpg" alt="Mate" style="width: 200px; height: 200px"/>
+</div>
+</div>
+</body>
+</html>
 
 # **Masters Students**
 
@@ -54,7 +103,7 @@ body
 
 <div class="column">
 <a href=http://home.iitk.ac.in/~smsharma/> Shubham Sharma  </a>
-<img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px;"/>
+<img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px; height: 200px"/>
 </div>
 <div class="column">
 <a href=http://home.iitk.ac.in/~grahul/> Rahul Gupta  </a>
@@ -65,9 +114,34 @@ body
 </html>
 
 # **Undergraduates**
-- [Bhavishya](http://home.iitk.ac.in/~bhavish/)
-  <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px;"/>
 
+<html>
+
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<a href=http://home.iitk.ac.in/~bhavish/ > Bhavishya </a>
+<img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px; height: 200px"/>
+</div>
+</div>
+</body>
+</html>
 
 # **Past visitors**
 - Prof. Sourav Chakraborty, CMI
