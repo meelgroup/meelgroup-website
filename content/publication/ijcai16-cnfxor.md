@@ -1,6 +1,6 @@
 +++
 title = "Combining the k-CNF and XOR Phase-Transitions "
-#date = 2017-01-01T00:00:00
+date = 2016-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel", "Jeffrey Dudek", "Moshe Y. Vardi"]

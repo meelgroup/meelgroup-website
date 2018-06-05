@@ -1,6 +1,6 @@
 +++
 title = "The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas  "
-#date = 2017-01-01T00:00:00
+date = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel", "Jeffrey Dudek", "Moshe Y. Vardi"]

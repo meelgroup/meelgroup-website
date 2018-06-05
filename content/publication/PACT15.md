@@ -1,6 +1,6 @@
 +++
 title = "Design and Verification of Distributed Phasers"
-#date = 2017-01-01T00:00:00
+date = 2016-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Karthik","Murthy","Sri Raj","Paul","Kuldeep S. Meel", "Tiago Cogumbreiro", "John Mellor-Crummey"]

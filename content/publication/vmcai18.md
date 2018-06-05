@@ -1,6 +1,6 @@
 +++
 title = "Scalable Approximation of Quantitative Information Flow in Programs"
-#date = 2017-01-01T00:00:00
+date = 2018-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel","Fabrizio Biondi", "Michael Enescu", "Annelie Heuser", "Axel Legay", "Jean Quilbeuf"] 

@@ -1,6 +1,6 @@
 +++
 title = "A Scalable and Nearly Uniform Generator of SAT Witnesses"
-#date = 2017-01-01T00:00:00
+date = 2013-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi"]

@@ -1,6 +1,6 @@
 +++
 title = "Distribution-Aware Sampling and Weighted Model Counting for SAT"
-#date = 2017-01-01T00:00:00
+date = 2014-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Supratik Chakraborty","Daniel J. Fremont", "Kuldeep S. Meel", "Sanjit A. Seshia", "Moshe Y. Vardi"]

@@ -1,6 +1,6 @@
 +++
 title = "On Computing Minimal Independent Support and Its Applications to Sampling and Counting "
-#date = 2017-01-01T00:00:00
+date = 2015-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Alexander Ivrii", "Sharad Malik", "Kuldeep S. Meel", "Moshe Y. Vardi" ]
