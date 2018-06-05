@@ -1,6 +1,6 @@
 +++
 title = "On Parallel Scalable Uniform SAT Witness Generator"
-#date = 2017-01-01T00:00:00
+date = 2015-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Supratik Chakraborty","Daniel J. Fremont", "Kuldeep S. Meel","Sanjit A. Seshia", "Moshe Y. Vardi"]
@@ -17,8 +17,7 @@ authors = ["Supratik Chakraborty","Daniel J. Fremont", "Kuldeep S. Meel","Sanjit
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2015.*"
-publication_short = "In *TACS*"
+publication = "In *Proceedings of Tools and Algorithms for the Construction and Analysis of Systems (TACAS)*"
 
 
 # Featured image thumbnail (optional)
@@ -59,10 +58,6 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
+abstract = "Constrained-random verification (CRV) is widely used in industry for validating hardware designs. The effectiveness of CRV depends on the uniformity of test stimuli generated from a given set of constraints. Most existing techniques sacrifice either uniformity or scalability when generating stimuli. While recent work based on random hash functions has shown that it is possible to generate almost uniform stimuli from constraints with 100,000+ variables, the performance still falls short of today's industrial requirements. In this paper, we focus on pushing the performance frontier of uniform stimulus generation further. We present a random hashing-based, easily parallelizable algorithm, UniGen2, for sampling solutions of propositional constraints. UniGen2 provides strong and relevant theoretical guarantees in the context of CRV, while also offering significantly improved performance compared to existing almost-uniform generators. Experiments on a diverse set of benchmarks show that UniGen2 achieves an average speedup of about 20X over a state-of-the-art sampling algorithm, even when running on a single core. Moreover, experiments with multiple cores show that UniGen2 achieves a near-linear speedup in the number of cores, thereby boosting performance even further."
 
 +++
-<button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_Tacas15">
-Abstract</button>
-<div id="abstract_Tacas15" class="collapse">
-Constrained-random verification (CRV) is widely used in industry for validating hardware designs. The effectiveness of CRV depends on the uniformity of test stimuli generated from a given set of constraints. Most existing techniques sacrifice either uniformity or scalability when generating stimuli. While recent work based on random hash functions has shown that it is possible to generate almost uniform stimuli from constraints with 100,000+ variables, the performance still falls short of today's industrial requirements. In this paper, we focus on pushing the performance frontier of uniform stimulus generation further. We present a random hashing-based, easily parallelizable algorithm, UniGen2, for sampling solutions of propositional constraints. UniGen2 provides strong and relevant theoretical guarantees in the context of CRV, while also offering significantly improved performance compared to existing almost-uniform generators. Experiments on a diverse set of benchmarks show that UniGen2 achieves an average speedup of about 20X over a state-of-the-art sampling algorithm, even when running on a single core. Moreover, experiments with multiple cores show that UniGen2 achieves a near-linear speedup in the number of cores, thereby boosting performance even further.
-</div>

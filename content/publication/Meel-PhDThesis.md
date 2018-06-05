@@ -1,6 +1,6 @@
 +++
 title = "Constrained Counting and Sampling: Bridging the Gap between Theory and Practice "
-#date = 2017-01-01T00:00:00
+date = 2017-09-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel"] 
@@ -14,11 +14,10 @@ authors = ["Kuldeep S. Meel"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PhD Thesis, Rice University, September 2017.*"
-#publication_short = "In *AAAI*"
+publication = "*PhD Thesis, Rice University*"
 
 
 # Featured image thumbnail (optional)

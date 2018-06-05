@@ -1,6 +1,6 @@
 +++
 title = "Approximate Probabilistic Inference via Word-Level Counting "
-#date = 2017-01-01T00:00:00
+date = 2016-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Supratik Chakraborty", "Kuldeep S. Meel", "Rakesh Mistry", "Moshe Y. Vardi"]
@@ -17,8 +17,7 @@ authors = ["Supratik Chakraborty", "Kuldeep S. Meel", "Rakesh Mistry", "Moshe Y.
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2016.*"
-publication_short = "In *AAAI*"
+publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI)*"
 
 
 # Featured image thumbnail (optional)
@@ -60,9 +59,6 @@ highlight = true
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
 
+abstract = "Hashing-based model counting has emerged as a promising approach for large-scale probabilistic inference on graphical models. A key component of these techniques is the use of xor-based 2-universal hash functions that operate over Boolean domains. Many counting problems arising in probabilistic inference are, however, naturally encoded over fi- nite discrete domains. Techniques based on bit-level (or Boolean) hash functions require these problems to be propositionalized, making it impossible to leverage the remarkable progress made in SMT (Satisfiability Modulo Theory) solvers that can reason directly over words (or bit-vectors). In this work, we present the first approximate model counter that uses word-level hashing functions, and can directly leverage the power of sophisticated SMT solvers. Empirical evaluation over an extensive suite of benchmarks demonstrates the promise of the approach."
+
 +++
-<button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
-Abstract</button>
-<div id="abstract_DMPV17" class="collapse">
-Hashing-based model counting has emerged as a promising approach for large-scale probabilistic inference on graphical models. A key component of these techniques is the use of xor-based 2-universal hash functions that operate over Boolean domains. Many counting problems arising in probabilistic inference are, however, naturally encoded over fi- nite discrete domains. Techniques based on bit-level (or Boolean) hash functions require these problems to be propositionalized, making it impossible to leverage the remarkable progress made in SMT (Satisfiability Modulo Theory) solvers that can reason directly over words (or bit-vectors). In this work, we present the first approximate model counter that uses word-level hashing functions, and can directly leverage the power of sophisticated SMT solvers. Empirical evaluation over an extensive suite of benchmarks demonstrates the promise of the approach.
-</div>
