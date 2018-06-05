@@ -17,8 +17,7 @@ authors = ["Kuldeep S. Meel","Fabrizio Biondi", "Michael Enescu", "Annelie Heuse
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International Conference on Verification, Model Checking, and Abstract Interpretation, 2018.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of International Conference on Verification, Model Checking, and Abstract Interpretation*"
 
 
 # Featured image thumbnail (optional)

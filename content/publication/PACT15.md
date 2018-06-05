@@ -17,8 +17,7 @@ authors = ["Karthik","Murthy","Sri Raj","Paul","Kuldeep S. Meel", "Tiago Cogumbr
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International European Conference on Parallel and Distributed Computing (Euro-Par), 2016.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of International European Conference on Parallel and Distributed Computing (Euro-Par)*"
 
 
 # Featured image thumbnail (optional)

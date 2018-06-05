@@ -1,6 +1,6 @@
 +++
 title = "Constrained Sampling and Counting: Universal Hashing meets SAT Solving"
-date = 2016-01-01T00:00:00
+date = 2016-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi","Daniel J. Fremont", "Sanjit A. Seshia", "Dror Fried","Alexander Ivrii", "Sharad Malik"]
@@ -14,10 +14,10 @@ authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi","Daniel J
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of Workshop on Beyond NP(BNP), 2016.*"
+publication = "In *Proceedings of Workshop on Beyond NP(BNP).*"
 #publication_short = "In *AAAI*"
 
 

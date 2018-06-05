@@ -1,6 +1,6 @@
 +++
 title = "From Weighted to Unweighted Model Counting "
-date = 2015-01-01T00:00:00
+date = 2015-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dror Fried","Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi"]
@@ -17,8 +17,7 @@ authors = ["Dror Fried","Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Var
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2015.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)*"
 
 
 # Featured image thumbnail (optional)

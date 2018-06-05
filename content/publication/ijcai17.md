@@ -17,8 +17,7 @@ authors = ["Kuldeep S. Meel", "Jeffrey Dudek", "Moshe Y. Vardi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2017.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)*"
 
 
 # Featured image thumbnail (optional)

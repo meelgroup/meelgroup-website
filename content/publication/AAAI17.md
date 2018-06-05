@@ -1,6 +1,6 @@
 +++
 title = "Counting-Based Reliability Estimation for Power-Transmission Grids"
-date = 2017-01-01T00:00:00
+date = 2017-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Leonardo Duenas-Osorio", "Kuldeep S. Meel", "Roger Paredes", "Moshe Y. Vardi"]
@@ -18,7 +18,6 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI).*"
-#publication_short = "In *IEEE*"
 
 
 # Featured image thumbnail (optional)

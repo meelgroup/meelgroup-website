@@ -22,7 +22,12 @@ Prerequisites:
   
 4. Commit and Push your changes to this repository
 
-5. To deploy, run:
+5. While running for the first time, do this
+        
+        rm -rf public
+        git submodule add --force  -b master git@github.com:meelgroup/meelgroup.github.io.git public        
+
+6. To deploy, run:
        
        
        chmod +x deploy.sh

@@ -1,6 +1,6 @@
 +++
 title = "Approximate Probabilistic Inference via Word-Level Counting "
-date = 2016-01-01T00:00:00
+date = 2016-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Supratik Chakraborty", "Kuldeep S. Meel", "Rakesh Mistry", "Moshe Y. Vardi"]
@@ -17,8 +17,7 @@ authors = ["Supratik Chakraborty", "Kuldeep S. Meel", "Rakesh Mistry", "Moshe Y.
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2016.*"
-publication_short = "In *AAAI*"
+publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI).*"
 
 
 # Featured image thumbnail (optional)

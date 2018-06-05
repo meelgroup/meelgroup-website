@@ -17,8 +17,7 @@ authors = ["Supratik Chakraborty","Daniel J. Fremont", "Kuldeep S. Meel","Sanjit
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2015.*"
-publication_short = "In *TACS*"
+publication = "In *Proceedings of Tools and Algorithms for the Construction and Analysis of Systems (TACAS)*"
 
 
 # Featured image thumbnail (optional)

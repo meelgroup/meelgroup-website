@@ -1,6 +1,6 @@
 +++
 title = "On Computing Minimal Independent Support and Its Applications to Sampling and Counting "
-date = 2015-01-01T00:00:00
+date = 2015-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Alexander Ivrii", "Sharad Malik", "Kuldeep S. Meel", "Moshe Y. Vardi" ]
@@ -17,8 +17,7 @@ authors = ["Alexander Ivrii", "Sharad Malik", "Kuldeep S. Meel", "Moshe Y. Vardi
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International Conference on Constraint Programming (CP), 2015.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of International Conference on Constraint Programming (CP) *"
 
 
 # Featured image thumbnail (optional)
