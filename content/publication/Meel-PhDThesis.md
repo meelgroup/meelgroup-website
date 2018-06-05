@@ -17,7 +17,7 @@ authors = ["Kuldeep S. Meel"]
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PhD Thesis, Rice University*"
+publication = "*PhD Thesis, Rice University*"
 
 
 # Featured image thumbnail (optional)

@@ -17,7 +17,7 @@ authors = ["Kuldeep S. Meel","Roger Paredes", "Leonardo Duenas-Osorio","Moshe Y.
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Submitted to Reliability Engineering and System Safety*"
+publication = "*Submitted to Reliability Engineering and System Safety*"
 
 
 # Featured image thumbnail (optional)
