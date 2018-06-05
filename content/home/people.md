@@ -16,8 +16,8 @@ weight = 60
 +++
 
 # **Faculty**
+ <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
  [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
-  <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
 
 # **Postdocs** 
  
@@ -42,8 +42,8 @@ body
 <div class="row">
 
 <div class="column">
-<a href=http://www.msoos.org> Mate Soos  </a>
 <img src="/img/Mate.jpg" alt="Mate" style="width: 200px;"/>
+<a href=http://www.msoos.org> Mate Soos  </a>
 </div>
 </div>
 </body>
@@ -72,8 +72,8 @@ body
 <div class="row">
 
 <div class="column">
-<a href=https://sites.google.com/view/bishwamittra-ghosh> Bishwamittra Ghosh </a>
 <img src="/img/bGhosh.jpg" alt="Mate" style="width: 200px; height: 200px"/>
+<a href=https://sites.google.com/view/bishwamittra-ghosh> Bishwamittra Ghosh </a>
 </div>
 </div>
 </body>
@@ -102,12 +102,12 @@ body
 <div class="row">
 
 <div class="column">
-<a href=http://home.iitk.ac.in/~smsharma/> Shubham Sharma  </a>
 <img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px; height: 200px"/>
+<a href=http://home.iitk.ac.in/~smsharma/> Shubham Sharma  </a>
 </div>
 <div class="column">
-<a href=http://home.iitk.ac.in/~grahul/> Rahul Gupta  </a>
 <img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
+<a href=http://home.iitk.ac.in/~grahul/> Rahul Gupta  </a>
 </div>
 </div>
 </body>
@@ -136,8 +136,8 @@ body
 <div class="row">
 
 <div class="column">
-<a href=http://home.iitk.ac.in/~bhavish/ > Bhavishya </a>
 <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px; height: 200px"/>
+<a href=http://home.iitk.ac.in/~bhavish/ > Bhavishya </a>
 </div>
 </div>
 </body>
