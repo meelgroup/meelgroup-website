@@ -28,7 +28,7 @@ weight = 60
 <img src="/img/Mate.jpg" alt="Mate" style="width: 200px;"/>
 
 # **Masters Students**
-1. [Shubham Sharma](http://home.iitk.ac.in/~smsharma/)
+1. [Shubham Sharma](https://smsharma1.github.io/)
 
 
 <img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px;"/>
