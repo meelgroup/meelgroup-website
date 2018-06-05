@@ -42,7 +42,9 @@ weight = 60
 
 
 # **Past visitors**
-1.
+- Prof. Sourav Chakraborty, CMI
+
+- Prof. Vijay Ganesh, Waterloo
 
 
 
