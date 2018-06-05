@@ -1,7 +1,12 @@
 +++
 title = "Distribution-Aware Sampling and Weighted Model Counting for SAT"
+<<<<<<< HEAD
 date = 2014-01-01T00:00:00
 
+=======
+#date = 2017-01-01T00:00:00
+date = 2014-07-01T00:00:00
+>>>>>>> 49ba35b1a94bae996ea184afa262f4ca4c7ed3bd
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Supratik Chakraborty","Daniel J. Fremont", "Kuldeep S. Meel", "Sanjit A. Seshia", "Moshe Y. Vardi"]
 
@@ -17,7 +22,7 @@ authors = ["Supratik Chakraborty","Daniel J. Fremont", "Kuldeep S. Meel", "Sanji
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2014.*"
+publication = "In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2014."
 publication_short = "In *AAAI*"
 
 

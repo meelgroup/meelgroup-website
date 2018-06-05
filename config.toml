@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Meelgroup"
+title = "MeelGroup"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -229,10 +229,6 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:meel@comp.nus.edu.sg"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/goldykuldeep"
 
   [[params.social]]
     icon = "google-scholar"

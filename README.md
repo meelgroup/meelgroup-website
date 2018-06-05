@@ -7,7 +7,7 @@ Prerequisites:
 
 1. Clone the repo: 
 
-       `git clone https://github.com/meelgroup/meelgroup-website`
+       git clone git@github.com:meelgroup/meelgroup-website.git
     
 2. Initialize the theme:
 

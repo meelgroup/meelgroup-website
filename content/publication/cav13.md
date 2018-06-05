@@ -1,6 +1,10 @@
 +++
 title = "A Scalable and Nearly Uniform Generator of SAT Witnesses"
+<<<<<<< HEAD
 date = 2013-01-01T00:00:00
+=======
+date = 2013-07-01T00:00:00
+>>>>>>> 49ba35b1a94bae996ea184afa262f4ca4c7ed3bd
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi"]
@@ -17,8 +21,8 @@ authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International Conference on Computer-Aided Verification (CAV), 2013.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of International Conference on Computer-Aided Verification (CAV)*"
+#publication_short = "In *CAV*"
 
 
 # Featured image thumbnail (optional)
