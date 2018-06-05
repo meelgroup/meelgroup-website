@@ -1,6 +1,6 @@
 +++
 title = "Combining the k-CNF and XOR Phase-Transitions "
-date = 2016-01-01T00:00:00
+date = 2016-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel", "Jeffrey Dudek", "Moshe Y. Vardi"]
@@ -17,8 +17,7 @@ authors = ["Kuldeep S. Meel", "Jeffrey Dudek", "Moshe Y. Vardi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2016.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)*"
 
 
 # Featured image thumbnail (optional)
@@ -59,10 +58,6 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
+abstract = "The runtime performance of modern SAT solvers on random k-CNF formulas is deeply connected with the `phase-transition' phenomenon seen empirically in the satisfiability of random k-CNF formulas. Recent universal hashing-based approaches to sampling and counting crucially depend on the runtime performance of SAT solvers on formulas expressed as the conjunction of both k-CNF and XOR constraints (known as k-CNF-XOR formulas), but the behavior of random k-CNF-XOR formulas is unexplored in prior work. In this paper, we present the first study of the satisfiability of random k-CNF-XOR formulas. We show empirical evidence of a surprising phase-transition that follows a linear trade-off between k-CNF and XOR constraints. Furthermore, we prove that a phase-transition for k-CNF-XOR formulas exists for k = 2 and (when the number of k-CNF constraints is small) for k > 2."
 
 +++
-<button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
-Abstract</button>
-<div id="abstract_DMPV17" class="collapse">
-The runtime performance of modern SAT solvers on random k-CNF formulas is deeply connected with the `phase-transition' phenomenon seen empirically in the satisfiability of random k-CNF formulas. Recent universal hashing-based approaches to sampling and counting crucially depend on the runtime performance of SAT solvers on formulas expressed as the conjunction of both k-CNF and XOR constraints (known as k-CNF-XOR formulas), but the behavior of random k-CNF-XOR formulas is unexplored in prior work. In this paper, we present the first study of the satisfiability of random k-CNF-XOR formulas. We show empirical evidence of a surprising phase-transition that follows a linear trade-off between k-CNF and XOR constraints. Furthermore, we prove that a phase-transition for k-CNF-XOR formulas exists for k = 2 and (when the number of k-CNF constraints is small) for k > 2.
-</div>

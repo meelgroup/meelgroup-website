@@ -1,6 +1,6 @@
 +++
 title = "Algorithmic Improvements in Approximate Counting for Probabilistic Inference: From Linear to Logarithmic SAT Calls  "
-date = 2016-01-01T00:00:00
+date = 2016-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi"]
@@ -18,7 +18,6 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2016.*"
-#publication_short = "In *AAAI*"
 
 
 # Featured image thumbnail (optional)
@@ -59,10 +58,6 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
+abstract = "Probabilistic inference via model counting has emerged as a scalable technique with strong formal guarantees, thanks to recent advances in hashing-based approximate counting. State-of-the-art hashing-based counting algorithms use an {\NP} oracle, such that the number of oracle invocations grows linearly in the number of variables n in the input constraint. We present a new approach to hashing-based approximate model counting in which the number of oracle invocations grows logarithmically in $n$, while still providing strong theoretical guarantees. Our experiments show that the new approach outperforms state-of-the-art techniques for approximate counting by 1-2 orders of magnitude in running time."
 
 +++
-<button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
-Abstract</button>
-<div id="abstract_DMPV17" class="collapse">
-Probabilistic inference via model counting has emerged as a scalable technique with strong formal guarantees, thanks to recent advances in hashing-based approximate counting. State-of-the-art hashing-based counting algorithms use an {\NP} oracle, such that the number of oracle invocations grows linearly in the number of variables n in the input constraint. We present a new approach to hashing-based approximate model counting in which the number of oracle invocations grows logarithmically in $n$, while still providing strong theoretical guarantees. Our experiments show that the new approach outperforms state-of-the-art techniques for approximate counting by 1-2 orders of magnitude in running time.
-</div>

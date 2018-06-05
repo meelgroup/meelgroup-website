@@ -181,7 +181,8 @@ enableGitInfo = false
     'Report',  # 4
     'Book',  # 5
     'Book section' , # 6
-    'Workshop Papers' #7
+    'Workshop Papers', #7
+    'PhD Thesis' #8
   ]
 
   # Configuration of talk pages.
