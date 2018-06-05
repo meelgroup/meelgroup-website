@@ -14,7 +14,7 @@ authors = ["Kuldeep S. Meel","Roger Paredes", "Leonardo Duenas-Osorio","Moshe Y.
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Submitted to Reliability Engineering and System Safety*"
