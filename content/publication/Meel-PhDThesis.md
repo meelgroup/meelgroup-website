@@ -1,10 +1,6 @@
 +++
 title = "Constrained Counting and Sampling: Bridging the Gap between Theory and Practice "
-<<<<<<< HEAD
-date = 2017-01-01T00:00:00
-=======
 date = 2017-09-29T00:00:00
->>>>>>> 49ba35b1a94bae996ea184afa262f4ca4c7ed3bd
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel"] 
