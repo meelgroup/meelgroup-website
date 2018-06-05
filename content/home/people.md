@@ -35,6 +35,8 @@ weight = 60
   <img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px;"/>
 2. [Rahul Gupta](http://home.iitk.ac.in/~grahul/)
   <img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
+3. Alexis de Colnet
+  <img src="/img/Alexis.jpg" alt="Alexis" style="width: 200px;"/>
 
 # **Undergraduates**
 1. [Bhavishya](http://home.iitk.ac.in/~bhavish/)
