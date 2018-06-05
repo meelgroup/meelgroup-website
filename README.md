@@ -20,7 +20,10 @@ Prerequisites:
 
     Now you can go to [localhost:1313](http://localhost:1313).
   
-4. To deploy, run:
+4. Commit and Push your changes to this repository
+
+5. To deploy, run:
+       
        
        chmod +x deploy.sh
        ./deploy.sh 
