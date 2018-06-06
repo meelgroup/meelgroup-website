@@ -3,7 +3,7 @@ title = "Constrained Sampling and Counting: Universal Hashing meets SAT Solving"
 date = 2016-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kuldeep S. Meel", "Moshe Y. Vardi","Supratik Chakraborty", "Daniel J. Fremont", "Sanjit A. Seshia", "Dror Fried","Alexander Ivrii", "Sharad Malik"]
+authors = ["Kuldeep S. Meel", "Moshe Y. Vardi", "Supratik Chakraborty","Daniel J. Fremont", "Sanjit A. Seshia", "Dror Fried","Alexander Ivrii", "Sharad Malik"]
 
 # Publication type.
 # Legend:
