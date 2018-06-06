@@ -46,12 +46,9 @@ body
 <a href=http://www.msoos.org> Mate Soos  </a>
 </div>
 </div>
-</body>
-</html>
 
 # **PhD Students**
 
-<html>
 
 <style>
 body
@@ -76,16 +73,13 @@ body
 <a href=https://sites.google.com/view/bishwamittra-ghosh> Bishwamittra Ghosh </a>
 </div>
 </div>
-</body>
-</html>
 
 # **Masters Students**
 
 
-<html>
 
 <style>
-body
+<body>
 .column {
   float: left;
   width: 33.33%;
@@ -115,15 +109,11 @@ body
 Alexis de Colnet 
 </div>
 </div>
-</body>
-</html>
 
 # **Undergraduates**
 
-<html>
-
+</body>
 <style>
-body
 .column {
   float: left;
   width: 33.33%;
@@ -137,7 +127,6 @@ body
   display: table;
 }
 </style>
-<body>
 <div class="row">
 
 <div class="column">
@@ -152,7 +141,6 @@ body
 
 </div>
 </body>
-</html>
 
 # **Past visitors**
 - Prof. Sourav Chakraborty, CMI
