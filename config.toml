@@ -54,8 +54,8 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Kuldeep S. Meel"
-  role = "Assistant Professor"
+  name = "MeelGroup"
+  role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -63,7 +63,7 @@ enableGitInfo = false
    url = "http://www.comp.nus.edu.sg/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Kuldeep.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+#avatar = "group.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "meel@comp.nus.edu.sg"
   address = "COM2-03-41"
 #office_hours = "Please consult  [my calendar](https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg) before suggesting a meeting time."
@@ -226,10 +226,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:meel@comp.nus.edu.sg"
+  #[[params.social]]
+    #icon = "envelope"
+    #icon_pack = "fa"
+    #link = "mailto:meel@comp.nus.edu.sg"
 
 
   [[params.social]]
