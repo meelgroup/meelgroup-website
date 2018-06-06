@@ -144,6 +144,12 @@ body
 <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px; height: 200px"/>
 <a href=http://home.iitk.ac.in/~bhavish/ > Bhavishya </a>
 </div>
+
+<div class="column">
+<img src="/img/Andre.jpg" alt="Andre" style="width: 200px; height: 200px"/>
+<a> Andre </a>
+</div>
+
 </div>
 </body>
 </html>
