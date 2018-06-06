@@ -11,7 +11,7 @@ title = "Openings"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 80
 
 +++
 <p> <font color="red">I am looking for highly motivated Ph.D. students, postdocs, and interns (with time commitment of at least 6 months) in our group.</font> 
