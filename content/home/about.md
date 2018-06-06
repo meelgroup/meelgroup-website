@@ -19,8 +19,8 @@ weight = 5
 +++
 # Meel Group
 
-Welcome to the Group. 
+Welcome to the Meel Group's web page. We are situated at National
+University of Singapore.  
 
-Our main research focus is Sampling, SAT solving, Constraint Counting.
 
 <img src="/img/group.jpg" alt="Meelgroup">
