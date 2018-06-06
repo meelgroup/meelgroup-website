@@ -3,7 +3,7 @@ title = "Combining the k-CNF and XOR Phase-Transitions "
 date = 2016-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kuldeep S. Meel", "Jeffrey Dudek", "Moshe Y. Vardi"]
+authors = [ "Jeffrey Dudek", "Kuldeep S. Meel","Moshe Y. Vardi"]
 
 # Publication type.
 # Legend:

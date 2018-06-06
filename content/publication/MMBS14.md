@@ -1,9 +1,9 @@
 +++
-title = "The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas  "
-date = 2017-08-01T00:00:00
+title = "ADHA: Automatic Data layout framework for Heterogeneous Architectures"
+date = 2014-08-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Jeffrey Dudek", "Kuldeep S. Meel","Moshe Y. Vardi"]
+authors = ["Deepak Majeti", "Kuldeep S. Meel", "Raj Barik", "Vivek Sarkar"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = [ "Jeffrey Dudek", "Kuldeep S. Meel","Moshe Y. Vardi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)*"
+publication = "In *Proceedings of Parallel Architecture and Compilation Techniques (PACT)*"
 
 
 # Featured image thumbnail (optional)
@@ -33,7 +33,7 @@ selected = true
 
 
 # Links (optional).
-url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/ijcai17.pdf"
+url_pdf = "https://arxiv.org/pdf/1407.4859.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
@@ -58,6 +58,6 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
-abstract = "Recent universal-hashing based approaches to sampling and counting crucially depend on the runtime performance of SAT~solvers on formulas expressed as the conjunction of both CNF constraints and variable-width XOR constraintsints (known as CNF-XOR formulas). In this paper, we present the first study of the runtime behavior of SAT~solvers equipped with XOR-reasoning techniques on random CNF-XOR formulas. We empirically demonstrate that a state-of-the-art SAT~solver scales exponentially on random CNF-XOR formulas across a wide range of XOR-clause densities, peaking around the empirical phase-transition location. On the theoretical front, we prove that the solution space of a random CNF-XOR formula `shatters' at all nonzero XOR-clause densities into well-separated components, similar to the behavior seen in random CNF formulas known to be difficult for many SAT-solving algorithms."
+abstract = "Data layouts play a crucial role in determining the performance of a given application running on a given architecture. Existing parallel programming frameworks for both multicore and heterogeneous systems leave the onus of selecting a data layout to the programmer. Therefore, shifting the burden of data layout selection to optimizing compilers can greatly enhance programmer productivity and application performance. In this work, we introduce ADHA: a two-level hierarchal formulation of the data layout problem for modern heterogeneous architectures. We have created a reference implementation of ADHA in the Heterogeneous Habanero-C (H2C) parallel programming system. ADHA shows significant performance benefits of up to 6.92X compared to manually specified layouts for two benchmark programs running on a CPU+GPU heterogeneous platform."
 
 +++

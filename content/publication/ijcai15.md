@@ -3,7 +3,7 @@ title = "From Weighted to Unweighted Model Counting "
 date = 2015-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dror Fried","Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi"]
+authors = ["Supratik Chakraborty","Dror Fried","Kuldeep S. Meel",  "Moshe Y. Vardi"]
 
 # Publication type.
 # Legend:

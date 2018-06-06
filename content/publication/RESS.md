@@ -3,7 +3,7 @@ title = "Network Reliability Estimation in Theory and Practice "
 date = 2018-05-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kuldeep S. Meel","Roger Paredes", "Leonardo Duenas-Osorio","Moshe Y. Vardi"] 
+authors = ["Roger Paredes", "Leonardo Duenas-Osorio","Kuldeep S. Meel","Moshe Y. Vardi"] 
 
 # Publication type.
 # Legend:
