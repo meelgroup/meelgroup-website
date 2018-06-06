@@ -16,35 +16,142 @@ weight = 60
 +++
 
 # **Faculty**
-1. [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
-  <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
+ <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
+ [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
 
 # **Postdocs** 
  
-1. [Mate Soos](http://www.msoos.org/)
-  <img src="/img/Mate.jpg" alt="Mate" style="width: 200px;"/>
+<html>
+
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<img src="/img/Mate.jpg" alt="Mate" style="width: 200px;"/>
+<a href=http://www.msoos.org> Mate Soos  </a>
+</div>
+</div>
+</body>
+</html>
 
 # **PhD Students**
 
-1. [Bishwamittra Ghosh](https://sites.google.com/view/bishwamittra-ghosh/)
+<html>
 
-<img src="/img/bGhosh.jpg" alt="Bishwamittra" style="width: 200px;"/>
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<img src="/img/bGhosh.jpg" alt="Mate" style="width: 200px; height: 200px"/>
+<a href=https://sites.google.com/view/bishwamittra-ghosh> Bishwamittra Ghosh </a>
+</div>
+</div>
+</body>
+</html>
 
 # **Masters Students**
-1. [Shubham Sharma](http://home.iitk.ac.in/~smsharma/)
-  <img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px;"/>
-2. [Rahul Gupta](http://home.iitk.ac.in/~grahul/)
-  <img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
-3. Alexis de Colnet
-  <img src="/img/Alexis.jpg" alt="Alexis" style="width: 200px;"/>
+
+
+<html>
+
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px; height: 200px"/>
+<a href=http://home.iitk.ac.in/~smsharma/> Shubham Sharma  </a>
+</div>
+<div class="column">
+<img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
+<a href=http://home.iitk.ac.in/~grahul/> Rahul Gupta  </a>
+</div>
+<div class="column">
+<img src="/img/Alexis.jpg" alt="Alexis" style="width: 200px; height: 200px"/>
+Alexis de Colnet 
+</div>
+</div>
+</body>
+</html>
 
 # **Undergraduates**
-1. [Bhavishya](http://home.iitk.ac.in/~bhavish/)
-  <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px;"/>
 
+<html>
+
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px; height: 200px"/>
+<a href=http://home.iitk.ac.in/~bhavish/ > Bhavishya </a>
+</div>
+</div>
+</body>
+</html>
 
 # **Past visitors**
-1.
+- Prof. Sourav Chakraborty, CMI
+
+- Prof. Vijay Ganesh, Waterloo
 
 
 

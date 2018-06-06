@@ -12,6 +12,8 @@ weight = 70
 
 # Automatically link email and phone?
 autolink = true
+
 	
 +++
 
+Please consult <a href="https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg"> my calendar </a> before suggesting a meeting time.

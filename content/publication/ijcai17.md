@@ -1,6 +1,6 @@
 +++
 title = "The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas  "
-#date = 2017-01-01T00:00:00
+date = 2017-08-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel", "Jeffrey Dudek", "Moshe Y. Vardi"]
@@ -17,8 +17,7 @@ authors = ["Kuldeep S. Meel", "Jeffrey Dudek", "Moshe Y. Vardi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2017.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)*"
 
 
 # Featured image thumbnail (optional)
@@ -59,10 +58,6 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
+abstract = "Recent universal-hashing based approaches to sampling and counting crucially depend on the runtime performance of SAT~solvers on formulas expressed as the conjunction of both CNF constraints and variable-width XOR constraintsints (known as CNF-XOR formulas). In this paper, we present the first study of the runtime behavior of SAT~solvers equipped with XOR-reasoning techniques on random CNF-XOR formulas. We empirically demonstrate that a state-of-the-art SAT~solver scales exponentially on random CNF-XOR formulas across a wide range of XOR-clause densities, peaking around the empirical phase-transition location. On the theoretical front, we prove that the solution space of a random CNF-XOR formula `shatters' at all nonzero XOR-clause densities into well-separated components, similar to the behavior seen in random CNF formulas known to be difficult for many SAT-solving algorithms."
 
 +++
-<button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
-Abstract</button>
-<div id="abstract_DMPV17" class="collapse">
-Recent universal-hashing based approaches to sampling and counting crucially depend on the runtime performance of \SAT~solvers on formulas expressed as the conjunction of both CNF constraints and variable-width XOR constraintsints (known as CNF-XOR formulas). In this paper, we present the first study of the runtime behavior of \SAT~solvers equipped with XOR-reasoning techniques on random CNF-XOR formulas. We empirically demonstrate that a state-of-the-art \SAT~solver scales exponentially on random CNF-XOR formulas across a wide range of XOR-clause densities, peaking around the empirical phase-transition location. On the theoretical front, we prove that the solution space of a random CNF-XOR formula `shatters' at \emph{all} nonzero XOR-clause densities into well-separated components, similar to the behavior seen in random CNF formulas known to be difficult for many \SAT-solving algorithms.
-</div>

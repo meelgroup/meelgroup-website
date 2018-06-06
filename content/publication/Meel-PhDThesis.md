@@ -14,11 +14,10 @@ authors = ["Kuldeep S. Meel"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PhD Thesis, Rice University.*"
-publication_short = "In *PhD Thesis, Rice University*"
+publication = "*PhD Thesis, Rice University*"
 
 
 # Featured image thumbnail (optional)

@@ -1,6 +1,6 @@
 +++
 title = "Constrained Sampling and Counting: Universal Hashing meets SAT Solving"
-#date = 2017-01-01T00:00:00
+date = 2016-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi","Daniel J. Fremont", "Sanjit A. Seshia", "Dror Fried","Alexander Ivrii", "Sharad Malik"]
@@ -14,11 +14,10 @@ authors = ["Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi","Daniel J
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of Workshop on Beyond NP(BNP), 2016.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of Workshop on Beyond NP(BNP)*"
 
 
 # Featured image thumbnail (optional)
@@ -60,9 +59,6 @@ highlight = true
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
 
+abstract = "Constrained sampling and counting are two fundamental problems in artificial intelligence with a diverse range of applications, spanning probabilistic reasoning and planning to constrained-random verification. While the theory of these problems was thoroughly investigated in the 1980s, prior work either did not scale to industrial size instances or gave up correctness guarantees to achieve scalability. Recently, we proposed a novel approach that combines universal hashing and SAT solving and scales to formulas with hundreds of thousands of variables without giving up correctness guarantees. This paper provides an overview of the key ingredients of the approach and discusses challenges that need to be overcome to handle larger real-world instances."
+
 +++
-<button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
-Abstract</button>
-<div id="abstract_DMPV17" class="collapse">
-Constrained sampling and counting are two fundamental problems in artificial intelligence with a diverse range of applications, spanning probabilistic reasoning and planning to constrained-random verification. While the theory of these problems was thoroughly investigated in the 1980s, prior work either did not scale to industrial size instances or gave up correctness guarantees to achieve scalability. Recently, we proposed a novel approach that combines universal hashing and SAT solving and scales to formulas with hundreds of thousands of variables without giving up correctness guarantees. This paper provides an overview of the key ingredients of the approach and discusses challenges that need to be overcome to handle larger real-world instances.
-</div>

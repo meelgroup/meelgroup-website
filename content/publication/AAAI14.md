@@ -1,6 +1,5 @@
 +++
 title = "Distribution-Aware Sampling and Weighted Model Counting for SAT"
-#date = 2017-01-01T00:00:00
 date = 2014-07-01T00:00:00
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Supratik Chakraborty","Daniel J. Fremont", "Kuldeep S. Meel", "Sanjit A. Seshia", "Moshe Y. Vardi"]
@@ -17,9 +16,9 @@ authors = ["Supratik Chakraborty","Daniel J. Fremont", "Kuldeep S. Meel", "Sanji
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2014."
-publication_short = "In *AAAI*"
+publication = "*In Proceedings of AAAI Conference on Artificial Intelligence (AAAI)*"
 
+abstract = "Given a CNF formula and a weight for each assignment of values to variables, two natural problems are weighted model counting and distribution-aware sampling of satisfying assignments. Both problems have a wide variety of important applications. Due to the inherent complexity of the exact versions of the problems, interest has focused on solving them approximately. Prior work in this area scaled only to small problems in practice, or failed to provide strong theoretical guarantees, or employed a computationally-expensive maximum a posteriori probability (MAP) oracle that assumes prior knowledge of a factored representation of the weight distribution. We present a novel approach that works with a black-box oracle for weights of assignments and requires only an {NP}-oracle (in practice, a SAT-solver) to solve both the counting and sampling problems. Our approach works under mild assumptions on the distribution of weights of satisfying assignments, provides strong theoretical guarantees, and scales to problems involving several thousand variables. We also show that the assumptions can be significantly relaxed while improving computational efficiency if a factored representation of the weights is known."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -61,8 +60,3 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
-<button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
-Abstract</button>
-<div id="abstract_DMPV17" class="collapse">
-Given a CNF formula and a weight for each assignment of values to variables, two natural problems are weighted model counting and distribution-aware sampling of satisfying assignments. Both problems have a wide variety of important applications. Due to the inherent complexity of the exact versions of the problems, interest has focused on solving them approximately. Prior work in this area scaled only to small problems in practice, or failed to provide strong theoretical guarantees, or employed a computationally-expensive maximum a posteriori probability (MAP) oracle that assumes prior knowledge of a factored representation of the weight distribution. We present a novel approach that works with a black-box oracle for weights of assignments and requires only an {\NP}-oracle (in practice, a SAT-solver) to solve both the counting and sampling problems. Our approach works under mild assumptions on the distribution of weights of satisfying assignments, provides strong theoretical guarantees, and scales to problems involving several thousand variables. We also show that the assumptions can be significantly relaxed while improving computational efficiency if a factored representation of the weights is known.
-</div>

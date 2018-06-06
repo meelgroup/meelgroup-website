@@ -1,6 +1,6 @@
 +++
 title = "From Weighted to Unweighted Model Counting "
-#date = 2017-01-01T00:00:00
+date = 2015-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dror Fried","Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Vardi"]
@@ -17,8 +17,7 @@ authors = ["Dror Fried","Kuldeep S. Meel", "Supratik Chakraborty", "Moshe Y. Var
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2015.*"
-#publication_short = "In *AAAI*"
+publication = "In *Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)*"
 
 
 # Featured image thumbnail (optional)
@@ -59,10 +58,6 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
+abstract = "The recent surge of interest in reasoning about probabilistic graphical models has led to the development of various techniques for probabilistic reasoning. Of these, techniques based on weighted model counting are particularly interesting since they can potentially leverage recent advances in unweighted model counting and in propositional satisfiability solving. In this paper, we present a new approach to weighted model counting via reduction to unweighted model counting. Our reduction, which is polynomial-time and preserves the normal form (CNF/DNF) of the input formula, allows us to exploit advances in unweighted model counting to solve weighted model counting instances. Experiments with weighted model counters built using our reduction indicate that these counters performs much better than a state-of-the-art weighted model counter."
 
 +++
-<button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#abstract_DMPV17">
-Abstract</button>
-<div id="abstract_DMPV17" class="collapse">
-The recent surge of interest in reasoning about probabilistic graphical models has led to the development of various techniques for probabilistic reasoning. Of these, techniques based on weighted model counting are particularly interesting since they can potentially leverage recent advances in unweighted model counting and in propositional satisfiability solving. In this paper, we present a new approach to weighted model counting via reduction to unweighted model counting. Our reduction, which is polynomial-time and preserves the normal form (CNF/DNF) of the input formula, allows us to exploit advances in unweighted model counting to solve weighted model counting instances. Experiments with weighted model counters built using our reduction indicate that these counters performs much better than a state-of-the-art weighted model counter.
-</div>
