@@ -281,6 +281,10 @@ enableGitInfo = false
   url = "#contact"
   weight = 6
 
+[[menu.main]]
+  name = "Openings"
+  url = "#openings"
+  weight = 7
 # Taxonomies.
 [taxonomies]
   tag = "tags"
