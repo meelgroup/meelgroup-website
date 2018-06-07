@@ -143,9 +143,9 @@ Alexis de Colnet
 </body>
 
 # **Past visitors**
-- Prof. Sourav Chakraborty, CMI
+- [Prof. Sourav Chakraborty, CMI](http://www.cmi.ac.in/~sourav/)
 
-- Prof. Vijay Ganesh, Waterloo
+- [Prof. Vijay Ganesh, Waterloo](https://ece.uwaterloo.ca/~vganesh/)
 
 
 
