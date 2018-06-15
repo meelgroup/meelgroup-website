@@ -139,6 +139,11 @@ Alexis de Colnet
 <a> Andre </a>
 </div>
 
+<div class="column">
+<img src="/img/Suwei.jpg" alt="Suwei" style="width: 200px; height: 200px"/>
+<a> Suwei </a>
+</div>
+
 </div>
 </body>
 
