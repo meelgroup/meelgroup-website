@@ -110,6 +110,35 @@ Alexis de Colnet
 </div>
 </div>
 
+# **Intern** 
+ 
+<html>
+
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<img src="/img/Yash.jpeg" alt="Yash" style="width: 200px;"/>
+Yash Pote 
+</div>
+</div>
+
+
 # **Undergraduates**
 
 </body>
