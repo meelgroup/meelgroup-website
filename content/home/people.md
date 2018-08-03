@@ -19,33 +19,6 @@ weight = 60
  <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
  [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
 
-# **Postdocs** 
- 
-<html>
-
-<style>
-body
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-<body>
-<div class="row">
-
-<div class="column">
-<img src="/img/Mate.jpg" alt="Mate" style="width: 200px;"/>
-<a href=http://www.msoos.org> Mate Soos  </a>
-</div>
-</div>
 
 # **PhD Students**
 
@@ -75,7 +48,6 @@ body
 </div>
 
 # **Masters Students**
-
 
 
 <style>
@@ -175,6 +147,39 @@ Yash Pote
 
 </div>
 </body>
+
+# **Alumni**
+
+</body>
+<style>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<div class="row">
+
+<div class="column">
+<img src="/img/Mate.jpg" alt="Mate" style="width: 200px; height: 200px"/>
+<a href=http://www.msoos.org> Mate Soos  </a>
+</div>
+
+<div class="column">
+<img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px; height: 200px"/>
+<a href=http://home.iitk.ac.in/~bhavish/ > Bhavishya </a>
+</div>
+
+</div>
+</body>
+
 
 # **Past visitors**
 - [Prof. Sourav Chakraborty, CMI](http://www.cmi.ac.in/~sourav/)
