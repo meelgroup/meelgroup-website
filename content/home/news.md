@@ -35,42 +35,15 @@ IJCAI on July 13.</p>
 </li>
 
 #
--->    
-
+--> 
 <div id="news" class="container-fluid">
 <ul class="news list-unstyled">
 <li class="shortnews">
-            <span class="date text-muted">20 June 2018</span>
-            <p>I will be at IJCAI from July 12 – July 19 and at Leiden University on
-July 20. I will be co-presenting <a href="http://www.comp.nus.edu.sg/~meel/Tutorials/ijcai18.html">tutorial</a> with Supratik Chakraborty at
-IJCAI on July 13.</p>
+            <span class="date text-muted">13 August 2018</span>
+            <p>There will be a weekly group seminar every Monday at 4pm in MR5 at SOC(NUS), starting from Aug 13. <a href="https://rahulguptakota.github.io/">     Rahul Gupta</a> will present his work in the first such session. 
+		Slides will be uploaded soon after the session.</p>
 </li>
-    
-
-    
-<li class="shortnews">
-            <span class="date text-muted">16 June 2018</span>
-            <p>I am visiting MPI-SWS and INRIA Rennes for the next two weeks (i.e. June
-16 – June 30).</p>
-
-
-</li>
-    
-
-    
-<li class="shortnews">
-            <span class="date text-muted">04 June 2018</span>
-            <p>Submitted our paper <a href="http://arxiv.org/abs/1806.00917">Network Reliability Estimation in Theory and Practice</a> to the journal: Reliability Engineering &amp; System Safety</p>
-
-</li>
-
-
-    
-<li class="shortnews">
-            <span class="date text-muted">01 June 2018</span>
-            <p>2 Papers accepted at <a href="http://cp2018.a4cp.org/">CP-2018</a>. The first paper is on FPRAS for DNF-Counting while the second paper is on interpretable rule learning using MaxSAT</p>
-</li>
-    
+       
 
 </ul>
 </div>
