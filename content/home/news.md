@@ -27,23 +27,41 @@ list_format = 2
 <!--- 
 News item template. Copy all lines between # and paste.
 #
-<li class="shortnews">
+
             <span class="date text-muted">20 June 2018</span>
             <p>I will be at IJCAI from July 12 – July 19 and at Leiden University on
 July 20. I will be co-presenting <a href="http://www.comp.nus.edu.sg/~meel/Tutorials/ijcai18.html">tutorial</a> with Supratik Chakraborty at
 IJCAI on July 13.</p>
-</li>
+
 
 #
 --> 
 <div id="news" class="container-fluid">
 <ul class="news list-unstyled">
 <li class="shortnews">
-            <span class="date text-muted">13 August 2018</span>
-            <p>There will be a weekly group seminar every Monday at 4pm in MR5 at SOC(NUS), starting from Aug 13. <a href="https://rahulguptakota.github.io/">     Rahul Gupta</a> will present his work in the first such session. 
-		Slides will be uploaded soon after the session.</p>
-</li>
+            <span class="date text-muted">12 August 2018</span>
+            <p>We will be presenting three papers at CP 2018. The first talk on network reliability is on Monday 27th Aug while the second talk on <a href="https://www.comp.nus.edu.sg/~meel/Papers/CP2018msv.pdf"> FPRAS for DNF</a> is on Wed, 29th Aug. The third talk on interpretable classification rules is on Thursday, 30th Aug. </p>
+
        
+
+
+            <span class="date text-muted">8 August 2018</span>
+            <p>Kuldeep Meel has been appointed <a href="http://giving.nus.edu.sg/prof-s/#sung_kah_kay">Sung Kah Kay Assistant Professor</a> </p>
+
+     
+
+
+
+            <span class="date text-muted">30 July 2018</span>
+            <p> <a href="http://home.iitk.ac.in/~bhavish/"> Bhavishya</a> finished a successful summer internship and will be returning to IIT Kanpur for his third year. </p>
+
+
+
+
+
+            <span class="date text-muted">23 July 2018</span>
+            <p>Yash Pote has joined as a Research assistant. Welcome Yash! </p>
+</li>
 
 </ul>
 </div>
