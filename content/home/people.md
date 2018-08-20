@@ -82,7 +82,7 @@ Alexis de Colnet
 </div>
 </div>
 
-# **Intern** 
+# **Research Assistant** 
  
 <html>
 
