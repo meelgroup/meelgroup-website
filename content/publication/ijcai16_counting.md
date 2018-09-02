@@ -35,7 +35,7 @@ selected = true
 # Links (optional).
 url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/ijcai16_counting.pdf"
 #url_preprint = ""
-#url_code = ""
+url_code = "https://bitbucket.org/kuldeepmeel/approxmc/src/master/"
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""
