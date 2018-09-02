@@ -14,7 +14,7 @@ subtitle = ""
 weight = 80
 
 +++
-<p> <font color="red">We are looking for highly motivated Ph.D. students, postdocs, and interns (with time commitment of at least 6 months) in our group.</font> 
+<p> <font color="red">We are looking for highly motivated Ph.D. students, postdocs, and interns (with time commitment of at least 6 months) in our group.<br \> Two post-doc positions available in the broad area of applying machine learning to SAT solvers, approximate counting techniques, and CP.  </font> <a href="files\advertisement.html" >Details</a> 
 <ul style="list-style-type:square">
 <li> If you are a student at NUS, feel free to drop by 
 Kuldeep's office or schedule a meeting with him. (See <a href="https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg" target="_top">his calendar</a>). </li> 
