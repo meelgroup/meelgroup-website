@@ -39,6 +39,9 @@ IJCAI on July 13.</p>
 <div id="news" class="container-fluid">
 <ul class="news list-unstyled">
 <li class="shortnews">
+           <span class="date text-muted">29 August 2018</span>
+            <p>Kuldeep's PhD thesis was awarded Honorable mention for ACP (Association of Constraint Programming) Doctoral Dissertation award at its annual conference CP 2018. </p>
+
             <span class="date text-muted">12 August 2018</span>
             <p>We will be presenting three papers at CP 2018. The first talk on network reliability is on Monday 27th Aug while the second talk on <a href="https://www.comp.nus.edu.sg/~meel/Papers/CP2018msv.pdf"> FPRAS for DNF</a> is on Wed, 29th Aug. The third talk on interpretable classification rules is on Thursday, 30th Aug. </p>
 
