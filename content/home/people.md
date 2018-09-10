@@ -43,7 +43,7 @@ body
 
 <div class="column">
 <img src="/img/bGhosh.jpg" alt="Mate" style="width: 200px; height: 200px"/>
-<a href=https://sites.google.com/view/bishwamittra-ghosh> Bishwamittra Ghosh </a>
+<a href=https://bishwamittra.github.io/> Bishwamittra Ghosh </a>
 </div>
 </div>
 
