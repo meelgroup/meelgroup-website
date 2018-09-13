@@ -181,5 +181,5 @@ Yash Pote
 
 - [Prof. Vijay Ganesh, Waterloo](https://ece.uwaterloo.ca/~vganesh/)
 
-
+- Aditya Shrotri, Rice
 
