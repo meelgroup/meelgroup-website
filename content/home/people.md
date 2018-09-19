@@ -143,6 +143,34 @@ Yash Pote
 </div>
 </body>
 
+# **Undergraduate Intern** 
+ 
+<html>
+
+<style>
+body
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body>
+<div class="row">
+
+<div class="column">
+<img src="/img/Mahi.jpg" alt="Mahi" style="width: 200px;"/>
+Mohimenul Kabir
+</div>
+</div>
+
 # **Alumni**
 
 </body>
