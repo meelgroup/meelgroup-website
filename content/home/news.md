@@ -39,6 +39,8 @@ IJCAI on July 13.</p>
 <div id="news" class="container-fluid">
 <ul class="news list-unstyled">
 <li class="shortnews">
+<span class="date text-muted">24 September 2018</span>
+            <p> Our paper on uniform sampling based on knowledge compilation is accepted at LPAR-22. Authors: Shubham Sharma, Rahul Gupta, Subhajit Roy, and Kuldeep S. Meel  </p>
            <span class="date text-muted">29 August 2018</span>
             <p>Kuldeep's PhD thesis was awarded Honorable mention for ACP (Association of Constraint Programming) Doctoral Dissertation award at its annual conference CP 2018. </p>
 
