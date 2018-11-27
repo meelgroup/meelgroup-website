@@ -33,12 +33,12 @@ selected = true
 
 
 # Links (optional).
-url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/BNP16.pdf"
+url_pdf = "https://www.comp.nus.edu.sg/~meel/Papers/aaai19-cm.pdf"
 #url_preprint = ""
-url_code = "https://bitbucket.org/kuldeepmeel/unigen/src/master/"
+#url_code = ""
 #url_dataset = ""
 #url_project = ""
-url_slides = "files/slides/BNP Talk.pdf"
+#url_slides = ""
 #url_video = ""
 #url_poster = ""
 #url_source = ""
