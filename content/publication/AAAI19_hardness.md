@@ -1,6 +1,6 @@
 +++
 title = "On the Hardness of Probabilistic Inference Relaxations"
-date = 2018-11-11T00:00:00
+date = 2019-1-1T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Supratik Chakraborty", "Kuldeep S. Meel", "Moshe Y. Vardi"]

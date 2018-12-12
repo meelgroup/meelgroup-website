@@ -1,6 +1,6 @@
 +++
 title = "BIRD: Engineering an Efficient CNF-XOR SAT Solver and its Applications to Approximate Model Counting"
-date = 2018-11-11T00:00:00
+date = 2019-1-1T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Mate Soos", "Kuldeep S. Meel"]

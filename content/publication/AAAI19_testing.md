@@ -1,6 +1,6 @@
 +++
 title = "On testing of Uniform Samplers "
-date = 2019-11-11T00:00:00
+date = 2019-1-1T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sourav Chakraborty", "Kuldeep S. Meel"]
