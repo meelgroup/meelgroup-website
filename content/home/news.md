@@ -40,6 +40,9 @@ IJCAI on July 13.</p>
 <ul class="news list-unstyled">
 <li class="shortnews">
 
+<span class="date text-muted">6 December 2019</span>
+            <p> Our paper on interpretable classification rules is accepted for publication at AIES 2019. Congratulations Bishwa on his first paper during PhD! Authors: Bishwamittra Ghosh  and Kuldeep S. Meel  </p>
+
             <span class="date text-muted">30 November 2018</span>
             <p>The next version of ApproxMC is here: <a href="https://github.com/meelgroup/approxmc">ApproxMC3</a> is faster and better than ever before. Do read <a href="https://www.msoos.org/2018/11/approxmcv3-a-modern-approximate-model-counter/">Mate’s post</a> for quick synopsys of the magic sauce behind ApproxMC’s performance.  </p>
             <span class="date text-muted">30 November 2018</span>
@@ -50,17 +53,8 @@ Kuldeep was awarded Distinguished Program Committee Member for <a href="https://
 The third paper shows that several relaxations of probabilsitic inference do not give any computational advantage, raising concerns about the motivations behind their usage.</p>
 <span class="date text-muted">24 September 2018</span>
             <p> Our paper on uniform sampling based on knowledge compilation is accepted at LPAR-22. Authors: Shubham Sharma, Rahul Gupta, Subhajit Roy, and Kuldeep S. Meel  </p>
-           <span class="date text-muted">29 August 2018</span>
-            <p>Kuldeep's PhD thesis was awarded Honorable mention for ACP (Association of Constraint Programming) Doctoral Dissertation award at its annual conference CP 2018. </p>
-
-            <span class="date text-muted">12 August 2018</span>
-            <p>We will be presenting three papers at CP 2018. The first talk on network reliability is on Monday 27th Aug while the second talk on <a href="https://www.comp.nus.edu.sg/~meel/Papers/CP2018msv.pdf"> FPRAS for DNF</a> is on Wed, 29th Aug. The third talk on interpretable classification rules is on Thursday, 30th Aug. </p>
-
-       
 
 
-            <span class="date text-muted">8 August 2018</span>
-            <p>Kuldeep Meel has been appointed <a href="http://giving.nus.edu.sg/prof-s/#sung_kah_kay">Sung Kah Kay Assistant Professor</a> </p>
 
      
 </li>

@@ -42,10 +42,17 @@ body
 <div class="row">
 
 <div class="column">
+<img src="/img/Yash.jpeg" alt="Yash" style="width: 200px; height: 200px"/>
+<a> Yash Pote </a>
+
+</div>
+
+<div class="column">
 <img src="/img/bGhosh.jpg" alt="Mate" style="width: 200px; height: 200px"/>
 <a href=https://bishwamittra.github.io/> Bishwamittra Ghosh </a>
 </div>
 </div>
+
 
 # **Masters Students**
 
@@ -76,10 +83,7 @@ body
 <img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
 <a href=http://home.iitk.ac.in/~grahul/> Rahul Gupta  </a>
 </div>
-<div class="column">
-<img src="/img/Alexis.jpg" alt="Alexis" style="width: 200px; height: 200px"/>
-Alexis de Colnet 
-</div>
+
 </div>
 
 # **Research Assistant** 
@@ -103,11 +107,6 @@ body
 </style>
 <body>
 <div class="row">
-
-<div class="column">
-<img src="/img/Yash.jpeg" alt="Yash" style="width: 200px;"/>
-Yash Pote 
-</div>
 
 <div class="column">
 <img src="/img/Mahi.jpg" alt="Mahi" style="width: 200px;"/>
@@ -174,6 +173,11 @@ Mohimenul Kabir
 <div class="column">
 <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px; height: 200px"/>
 <a href=http://home.iitk.ac.in/~bhavish/ > Bhavishya </a>
+</div>
+
+<div class="column">
+<img src="/img/Alexis.jpg" alt="Alexis" style="width: 200px; height: 200px"/>
+Alexis de Colnet 
 </div>
 
 </div>
