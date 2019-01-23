@@ -46,7 +46,11 @@ body
 <a> Yash Pote </a>
 
 </div>
+<div class="column">
+<img src="/img/priyanka.jpg" alt="priya" style="width: 200px; height: 200px"/>
+<a href=https://priyanka-golia.github.io/> Priyanka Golia </a>
 
+</div>
 <div class="column">
 <img src="/img/bGhosh.jpg" alt="Mate" style="width: 200px; height: 200px"/>
 <a href=https://bishwamittra.github.io/> Bishwamittra Ghosh </a>
@@ -172,7 +176,7 @@ Mohimenul Kabir
 
 <div class="column">
 <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px; height: 200px"/>
-<a href=http://home.iitk.ac.in/~bhavish/ > Bhavishya </a>
+<a href=http://bhavishyagopesh.github.io > Bhavishya </a>
 </div>
 
 <div class="column">

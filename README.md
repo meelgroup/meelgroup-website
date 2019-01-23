@@ -52,6 +52,8 @@ Prerequisites:
 **So you may want to confirm your changes before running the script. 
  Hence it's recommended that after making the changes you first run it on localhost using `hugo server`**
 
+- Since the website rebuilds from the repo, never make changes directly to the [website](https://github.com/meelgroup/meelgroup.github.io), else they will be overwritten in the next build.
+
 - In case you have pushed the wrong code, you can do a `git reset HEAD~1` , push back again and rerun the script to reach back to the initial state.
 
 
