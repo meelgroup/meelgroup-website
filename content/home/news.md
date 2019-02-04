@@ -40,6 +40,9 @@ IJCAI on July 13.</p>
 <ul class="news list-unstyled">
 <li class="shortnews">
 
+<span class="date text-muted">26 January 2019</span>
+            <p>Our paper on weighted and project sampling is accepted at <a href="https://conf.researchr.org/track/etaps-2019/tacas-2019-papers">TACAS 2019</a>. Authors: Shubham Sharma, Rahul Gupta, and Kuldeep S. Meel  </p>
+
 <span class="date text-muted">6 December 2019</span>
             <p> Our paper on interpretable classification rules is accepted for publication at AIES 2019. Congratulations Bishwa on his first paper during PhD! Authors: Bishwamittra Ghosh  and Kuldeep S. Meel  </p>
 
