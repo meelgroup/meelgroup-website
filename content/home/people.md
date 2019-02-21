@@ -116,6 +116,11 @@ body
 <img src="/img/Mahi.jpg" alt="Mahi" style="width: 200px;"/>
 Mohimenul Kabir
 </div>
+<div class="column">
+<img src="/img/himanshu.jpg" alt="Himanshu" style="width: 200px;"/>
+Himanshu Arora
+</div>
+
 </div>
 
 # **Undergraduates**
