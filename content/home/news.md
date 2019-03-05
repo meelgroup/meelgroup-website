@@ -40,6 +40,12 @@ IJCAI on July 13.</p>
 <ul class="news list-unstyled">
 <li class="shortnews">
 
+<span class="date text-muted">11 February 2019</span>
+            <p> Kuldeep  is appointed Visiting Assistant Professor in the  <a href="https://www.cse.iitb.ac.in/">Department of Computer Science and Engineering</a>  at IIT Bombay  </p>
+
+<span class="date text-muted">2 February 2019</span>
+            <p> Kuldeep's  paper on network reliability is accepted to <a href="https://www.icasp13.snu.ac.kr/">The 13th International Conference on Applications of Statistics and Probability in Civil Engineering </a> </p>
+
 <span class="date text-muted">26 January 2019</span>
             <p>Our paper on weighted and projected sampling is accepted at <a href="https://conf.researchr.org/track/etaps-2019/tacas-2019-papers">TACAS 2019</a>. Authors: Shubham Sharma, Rahul Gupta,Subhajit Roy and Kuldeep S. Meel  </p>
 
@@ -54,8 +60,7 @@ IJCAI on July 13.</p>
 Kuldeep was awarded Distinguished Program Committee Member for <a href="https://www.ijcai-18.org/distinguished-members/"> IJCAI 2018</a>.</p>
 <span class="date text-muted">01 Novemeber 2018</span><p>3 Papers accepted at AAAI-19!<br \> The first paper describes a new architecture for CNF-XOR formulas, which has allowed us to have a new approximate counter that is at least 100 times faster than ApproxMC2 – credit to <a href=http://www.msoos.org> Mate Soos  </a> for his breakthrough engineering that enabled this project!<br \> The second paper proposes the first algorithmic framework to test the distribution of a sampler.We show that several samplers output distributions far from what they claim!<br \>
 The third paper shows that several relaxations of probabilsitic inference do not give any computational advantage, raising concerns about the motivations behind their usage.</p>
-<span class="date text-muted">24 September 2018</span>
-            <p> Our paper on uniform sampling based on knowledge compilation is accepted at LPAR-22. Authors: Shubham Sharma, Rahul Gupta, Subhajit Roy, and Kuldeep S. Meel  </p>
+
 
 
 

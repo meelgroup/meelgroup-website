@@ -14,7 +14,7 @@ authors = ["Sourav Chakraborty", "Kuldeep S. Meel"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["7"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI-19).*"
