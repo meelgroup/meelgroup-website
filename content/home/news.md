@@ -44,7 +44,7 @@ IJCAI on July 13.</p>
             <p> Kuldeep  is appointed Visiting Assistant Professor in the  <a href="https://www.cse.iitb.ac.in/">Department of Computer Science and Engineering</a>  at IIT Bombay  </p>
 
 <span class="date text-muted">2 February 2019</span>
-            <p> Kuldeep's  paper on network reliability is accepted to <a href="https://www.icasp13.snu.ac.kr/">The 13th International Conference on Applications of Statistics and Probability in Civil Engineering </a> </p>
+            <p> Paper on network reliability is accepted to <a href="https://www.icasp13.snu.ac.kr/">The 13th International Conference on Applications of Statistics and Probability in Civil Engineering </a> Authors: Roger Paredes, Leonardo Duenas-Osorio, Kuldeep S. Meel, and Moshe Y. Vardi </p>
 
 <span class="date text-muted">26 January 2019</span>
             <p>Our paper on weighted and projected sampling is accepted at <a href="https://conf.researchr.org/track/etaps-2019/tacas-2019-papers">TACAS 2019</a>. Authors: Shubham Sharma, Rahul Gupta,Subhajit Roy and Kuldeep S. Meel  </p>
