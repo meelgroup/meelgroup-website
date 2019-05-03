@@ -289,6 +289,24 @@ enableGitInfo = false
   name = "Openings"
   url = "#openings"
   weight = 7
+
+
+# Search.
+[params.search]
+  # Search provider:
+  #   0: No search engine
+  #   1: Built-in (Fuse)
+  #   2: Algolia (https://www.algolia.com)
+  engine = 1
+
+  # Configuration of Algolia search engine.
+  # Paste the values from your Algolia dashboard.
+  [params.search.algolia]
+    app_id = ""
+    api_key = ""
+    index_name = ""
+    show_logo = false
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"
