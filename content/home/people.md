@@ -152,6 +152,11 @@ Himanshu Arora
 <a> Suwei </a>
 </div>
 
+<div class="column">
+<img src="/img/Durgesh.jpg" alt="Durgesh" style="width: 200px; height: 200px"/>
+<a href=https://durgeshra.github.io/> Durgesh Agrawal  </a>
+</div>
+
 </div>
 </body>
 
