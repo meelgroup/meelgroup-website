@@ -35,7 +35,7 @@ selected = true
 # Links (optional).
 url_pdf = "https://bishwamittra.github.io/publication/imli-ghosh.pdf"
 #url_preprint = ""
-#url_code = ""
+url_code = "https://github.com/meelgroup/mlic"
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""
