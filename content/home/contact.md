@@ -15,8 +15,7 @@ autolink = true
 
 	
 +++
-
-			Kuldeep S. Meel<br />
+Kuldeep S. Meel <br />
       Assistant Professor<br />
       Computer Science Department, School of Computing<br />
       National University of Singapore<br />  
