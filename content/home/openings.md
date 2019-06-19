@@ -15,9 +15,9 @@ weight = 80
 
 +++
 <ul style="list-style-type:square">
-<li> Looking for  candidates with strong background in CS/Mathematics/Physics for post-doc for the project: Beyond NP Revolution. Read <a href="files/theory-postdoc.html">advertisement</a> for more details. 
+<li> We have multiple post-doc positions and long term (>= 6 months) internship positions available.
+</li><li> Looking for  candidates with strong background in CS/Mathematics/Physics for post-doc for the project: Beyond NP Revolution. Read <a href="files/theory-postdoc.html">advertisement</a> for more details. 
 </li><li> Two post-doc positions available in the broad area of applying machine learning to SAT solvers, approximate counting techniques, and CP. Read <a href="files/sat-postdoc.html">advertisement</a> for more details.
-</li><li> We have multiple post-doc positions and long term (>= 6 months) internship positions available.
 </li></ul>
 <font color="olive">We are always looking for highly motivated Ph.D. students, research assistants and summer internship for exceptional undergraduate interns in our group. We work at the intersection of algorithmic design and systems; therefore, an ideal candidate should have deeper expertise in one area and willingness to learn the other. A strong background in statistics, algorithms/formal methods and prior experience in coding is crucial to make a significant contribution to our research.
 Read below for the application process:
