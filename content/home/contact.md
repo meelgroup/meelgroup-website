@@ -16,8 +16,8 @@ autolink = true
 	
 +++
 
-			Kuldeep S. Meel<br />
-      Assistant Professor<br />
-      Computer Science Department, School of Computing<br />
-      National University of Singapore<br />  
-      Please consult <a href="https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg"> Kuldeep's calendar </a> before suggesting a meeting time.
+Kuldeep S. Meel<br />
+Assistant Professor<br />
+Computer Science Department, School of Computing<br />
+National University of Singapore<br />  
+Please consult <a href="https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg"> Kuldeep's calendar </a> before suggesting a meeting time.
