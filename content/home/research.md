@@ -38,9 +38,9 @@ Constrained sampling and counting are two fundamental problems in data analysis.
 
 We are focused on
 
-1. Algorithmic advances in sampling and counting.
-2. Application of sampling and counting to problems arising in different domains.
-3. Revisiting theoretical foundations in light of existence of solvers but not oracles. 
+1. Algorithmic advances in sampling and counting [[aaai19]]({{<ref "/publication/aaai19_hardness.md">}}).
+2. Application of sampling and counting to problems arising in different domains [[sat19]]({{<ref "/publication/sat19_heu.md">}}).
+3. Revisiting theoretical foundations in light of existence of solvers but not oracles [[sat19]]({{<ref "/publication/sat19_cball.md">}}).  
 
 
 ## <u> Theme 3: Verification of AI Systems </u>
