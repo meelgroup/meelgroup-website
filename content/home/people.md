@@ -55,7 +55,13 @@ body
 <img src="/img/bGhosh.jpg" alt="Mate" style="width: 200px; height: 200px"/>
 <a href=https://bishwamittra.github.io/> Bishwamittra Ghosh </a>
 </div>
+
+<div class="column">
+<img src="/img/Suwei.jpg" alt="Suwei" style="width: 200px; height: 200px"/>
+<a> Suwei </a>
 </div>
+</div>
+
 
 
 # **Masters Students**
@@ -87,7 +93,6 @@ body
 <img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
 <a href=http://home.iitk.ac.in/~grahul/> Rahul Gupta  </a>
 </div>
-
 </div>
 
 # **Research Assistant** 
@@ -120,7 +125,6 @@ Mohimenul Kabir
 <img src="/img/himanshu.jpg" alt="Himanshu" style="width: 200px;"/>
 Himanshu Arora
 </div>
-
 </div>
 
 # **Undergraduates**
@@ -143,22 +147,12 @@ Himanshu Arora
 <div class="row">
 
 <div class="column">
-<img src="/img/Andre.jpg" alt="Andre" style="width: 200px; height: 200px"/>
-<a> Andre </a>
-</div>
-
-<div class="column">
-<img src="/img/Suwei.jpg" alt="Suwei" style="width: 200px; height: 200px"/>
-<a> Suwei </a>
-</div>
-
-<div class="column">
 <img src="/img/Durgesh.jpg" alt="Durgesh" style="width: 200px; height: 200px"/>
 <a href=https://durgeshra.github.io/> Durgesh Agrawal  </a>
 </div>
 
 </div>
-</body>
+
 
 # **Alumni**
 
@@ -192,6 +186,11 @@ Himanshu Arora
 <div class="column">
 <img src="/img/Alexis.jpg" alt="Alexis" style="width: 200px; height: 200px"/>
 Alexis de Colnet 
+</div>
+
+<div class="column">
+<img src="/img/Andre.jpg" alt="Andre" style="width: 200px; height: 200px"/>
+<a> Andre </a>
 </div>
 
 </div>
