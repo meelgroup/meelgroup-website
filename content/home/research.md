@@ -58,7 +58,7 @@ transportation, it becomes increasingly important to allow human domain experts 
 understand and interact with ML solutions. Providing meaningful explanations for automated
 decisions is an increasingly important task. In this research theme, we are investigating techniques for two categories of explanations:
 
-1. Interpretable explanations such as those specified using small set of rules/formulas , and
+1. Interpretable explanations such as those specified using small set of rules/formulas [[cp18]]({{<ref "/publication/mm18.md">}}) [[aies19]]({{<ref "/publication/aies19.md">}}) , and
 2. In settings where the cognitive burden of complete explanations is too high, people often do not seek to know why
 a particular event happened, but rather why an alternative one
 didn’t . Providing a satisfactory answer to such
