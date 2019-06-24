@@ -10,11 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Constrained Sampling and Counting",
-    "Knowledge Representation and Reasoning",
-    "Formal Methods",
-    "Interpretable Models"
+
   ]
 +++
 # Meel Group
@@ -24,3 +20,12 @@ University of Singapore.
 
 
 <img src="/img/group.jpg" alt="Meelgroup">
+
+
+<ul style="list-style-type:disc">
+<li> Artificial Intelligence
+</li><li> Constrained Sampling and Counting
+</li><li> Knowledge Representation and Reasoning
+</li><li> Formal Methods
+</li><li> Interpretable Models
+</li></ul>
