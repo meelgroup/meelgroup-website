@@ -8,10 +8,10 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
+# [interests]
+#   interests = [
 
-  ]
+#   ]
 +++
 # Meel Group
 
@@ -20,7 +20,7 @@ University of Singapore.
 
 
 <img src="/img/group.jpg" alt="Meelgroup">
-
+<h3>Interests</h3>
 
 <ul style="list-style-type:disc">
 <li> Artificial Intelligence
