@@ -17,7 +17,7 @@ authors = [ "Davin Choo"," Mate Soos", "Kian Ming A. Chai", "Kuldeep S. Meel"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of Design, Automation, and Test in Europe(DATE),*"
+publication = "In *Proceedings of Design, Automation, and Test in Europe (DATE)*"
 
 
 # Featured image thumbnail (optional)

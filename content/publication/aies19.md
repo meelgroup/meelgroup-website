@@ -17,7 +17,7 @@ authors = ["Bishwamittra Ghosh", "Kuldeep S. Meel"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of AAAI/ACM Conference on AI, Ethics, and Society(AIES).*"
+publication = "In *Proceedings of AAAI/ACM Conference on AI, Ethics, and Society (AIES)*"
 
 
 # Featured image thumbnail (optional)

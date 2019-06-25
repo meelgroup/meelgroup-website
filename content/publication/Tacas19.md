@@ -17,7 +17,7 @@ authors = ["Rahul Gupta"," Shubham Sharma", "Kuldeep S. Meel"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2019.*"
+publication = "In *Proceedings of Tools and Algorithms for the Construction and Analysis of Systems (TACAS)*"
 
 
 # Featured image thumbnail (optional)
