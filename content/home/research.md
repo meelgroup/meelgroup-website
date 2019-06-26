@@ -38,7 +38,7 @@ Constrained sampling and counting are two fundamental problems in data analysis.
 
 We are focused on
 
-1. Algorithmic advances in sampling and counting [[aaai19]]({{<ref "/publication/aaai19_hardness.md">}}).
+1. Algorithmic advances in sampling and counting [[aaai19]]({{<ref "/publication/AAAI19_hardness.md">}}).
 2. Application of sampling and counting to problems arising in different domains [[sat19]]({{<ref "/publication/sat19_heu.md">}}).
 3. Revisiting theoretical foundations in light of existence of solvers but not oracles [[sat19]]({{<ref "/publication/sat19_cball.md">}}).  
 
@@ -58,7 +58,7 @@ transportation, it becomes increasingly important to allow human domain experts 
 understand and interact with ML solutions. Providing meaningful explanations for automated
 decisions is an increasingly important task. In this research theme, we are investigating techniques for two categories of explanations:
 
-1. Interpretable explanations such as those specified using small set of rules/formulas. In particular, we have designed a MaxSAT based formulation for learning interpretable rules in CNF/DNF [[cp18]]({{<ref "/publication/MM18.md">}}) and later extended this formulation by incorporating incremental learning of small rules [[aies19]]({{<ref "/publication/AIES19.md">}}).
+1. Interpretable explanations such as those specified using small set of rules/formulas. In particular, we have designed a MaxSAT based formulation for learning interpretable rules in CNF/DNF [[cp18]]({{<ref "/publication/MM18.md">}}) and later extended this formulation by incorporating incremental learning of small rules [[aies19]]({{<ref "/publication/aies19.md">}}).
 2. In settings where the cognitive burden of complete explanations is too high, people often do not seek to know why
 a particular event happened, but rather why an alternative one
 didn’t . Providing a satisfactory answer to such
