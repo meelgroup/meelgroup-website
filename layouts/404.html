@@ -40,7 +40,7 @@
   <h2>{{ i18n "news" }}</h2>
   {{ range first 5 (sort (where .Site.RegularPages "Type" "news") ".Params.time_start" "desc") }}
   <ul>
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <li>{{ .Title | markdownify }}</a></li>
   </ul>
   {{ end }}
   {{ end }}
