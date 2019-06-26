@@ -93,10 +93,14 @@ body
 <img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
 <a href=http://home.iitk.ac.in/~grahul/> Rahul Gupta  </a>
 </div>
+<div class="column">
+<img src="/img/Remi.jpg" alt="Rémi" style="width: 200px;"/>
+Rémi Delannoy
+</div>
 </div>
 
-# **Research Assistant** 
- 
+# **Research Assistant**
+
 <html>
 
 <style>
@@ -185,7 +189,7 @@ Himanshu Arora
 
 <div class="column">
 <img src="/img/Alexis.jpg" alt="Alexis" style="width: 200px; height: 200px"/>
-Alexis de Colnet 
+Alexis de Colnet
 </div>
 
 <div class="column">
@@ -203,4 +207,3 @@ Alexis de Colnet
 - [Prof. Vijay Ganesh, Waterloo](https://ece.uwaterloo.ca/~vganesh/)
 
 - Aditya Shrotri, Rice
-
