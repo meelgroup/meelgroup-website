@@ -58,7 +58,7 @@ transportation, it becomes increasingly important to allow human domain experts 
 understand and interact with ML solutions. Providing meaningful explanations for automated
 decisions is an increasingly important task. In this research theme, we are investigating techniques for two categories of explanations:
 
-1. Interpretable explanations such as those specified using small set of rules/formulas [[cp18]]({{<ref "/publication/mm18.md">}}) [[aies19]]({{<ref "/publication/aies19.md">}}) , and
+1. Interpretable explanations such as those specified using small set of rules/formulas. In particular, we have designed a MaxSAT based formulation for learning interpretable rules in CNF/DNF [[cp18]]({{<ref "/publication/MM18.md">}}) and later extended this formulation by incorporating incremental learning of small rules [[aies19]]({{<ref "/publication/AIES19.md">}}).
 2. In settings where the cognitive burden of complete explanations is too high, people often do not seek to know why
 a particular event happened, but rather why an alternative one
 didn’t . Providing a satisfactory answer to such
