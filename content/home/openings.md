@@ -19,9 +19,8 @@ weight = 80
 </font>
 
 <ul style="list-style-type:square">
-<li> We have multiple post-doc positions and long term (>= 6 months) internship positions available.
-</li><li> Looking for  candidates with strong background in CS/Mathematics/Physics for post-doc for the project: Beyond NP Revolution. Read <a href="files/theory-postdoc.html">advertisement</a> for more details. 
-</li><li> Two post-doc positions available in the broad area of applying machine learning to SAT solvers, approximate counting techniques, and CP. Read <a href="files/sat-postdoc.html">advertisement</a> for more details.
+<li> We have multiple post-doc positions in the project on Provably Verified and Explainable Probabilistic Reasoning. Read  <a href="files/postdoc.html">advertisement</a> for more details. 
+<li> We have Multiple long term (>= 6 months) internship positions available.
 </li></ul>
 
 
@@ -39,3 +38,9 @@ Kuldeep's office or schedule a meeting with him. (See <a href="https://calendar.
  
 <li> PhD positions: Admissions to School of Computing@NUS are handled via a central admission procedure: You can either apply via Department of Computer Science or the Institute of Data Science. </li>
 </ul>
+
+NUS is a world-class university that provides an outstanding and 
+supportive research environment. Its School of Computing is highly 
+ranked (within the top 15) among the computer science departments in the 
+world. Singapore is a vibrant, well-connected city with low taxes and 
+research hub in Asia.
