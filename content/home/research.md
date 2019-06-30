@@ -23,6 +23,7 @@ Broadly, our research group is focused on the development of a rigorous mathemat
 This research theme is motivated by two observations:
 
 O1: The success of SAT/SMT/MaxSAT solvers has allowed researchers to employ them as "oracles" inside larger algorithmic components, which give rise to rich structure in the queries to the SAT solvers, and
+
 O2: Modern SAT/SMT solvers achieve scalability and robustness with complex heuristics that are challenging to understand and explain. 
 
 O1 necessitates design of solvers that can exploit the rich structures of queries without losing the generality offered by CNF. Our recent work has proposed new paradigms for CNF+XOR constraints
