@@ -40,8 +40,8 @@ Our focus in on the development of new algorithmic techniques for constrained sa
 
 We are focused on
 
-1. Algorithmic advances in sampling and counting [[aaai19]]({{<ref "/publication/aaai19_bird.md">}}).
-2. Application of sampling and counting to problems arising in different domains [[sat19]]({{<ref "/publication/sat19_heu.md">}}) [[vmcai19]]({{<ref "/publications/vmcai18.md">}}).
+1. Algorithmic advances in sampling and counting [[aaai19]]({{<ref "/publication/AAAI19_BIRD.md">}}).
+2. Application of sampling and counting to problems arising in different domains [[sat19]]({{<ref "/publication/sat19_heu.md">}}) [[vmcai19]]({{<ref "/publication/vmcai18.md">}}).
 3. Revisiting theoretical foundations in light of existence of solvers but not oracles.  
 
 
@@ -57,7 +57,7 @@ testing for traditional hardware and software systems, where one trace
 is sufficient to prove the existence of a bug; such is not the case for
 samplers as one sample is typically not sufficient to prove
 non-conformity of the underlying systems. Our recent work
-[[aaai19]]({{<ref "/publication/aaai19_testing.md">}}) showcased, to the best of our knowledge, the first algorithmic framework, Barbarik, to test whether the distribution generated is close to the uniform distribution. 
+[[aaai19]]({{<ref "/publication/AAAI19_testing.md">}}) showcased, to the best of our knowledge, the first algorithmic framework, Barbarik, to test whether the distribution generated is close to the uniform distribution. 
 ## <u> Theme 4: Interpretable and Actionable Explanations for AI Systems </u>
 
 Interpretability has become a central thread in ML research. As ML algorithms
