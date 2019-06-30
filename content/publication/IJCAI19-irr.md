@@ -14,7 +14,8 @@ authors = ["Bishwamittra Ghosh", "Dmitry Malioutov", "Kuldeep S. Meel"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+# 7 = workshop
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "IJCAI  workshop on XAI (Explainable Artificial Intelligence) and DSO (Data Science meets Optimization)"
