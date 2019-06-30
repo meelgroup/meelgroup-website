@@ -53,7 +53,9 @@ The modern AI systems significantly differ from traditional systems in
 their reliance on probabilistic reasoning.  Often statistical tests are
 employed to argue for the accuracy/robustness of these systems, but such
 statistical tests are usually performed on a tiny number of samples for
-which no theoretical guarantees exist for their accuracy. In contrast to
+which no theoretical guarantees exist for their accuracy. 
+
+In contrast to
 testing for traditional hardware and software systems, where one trace
 is sufficient to prove the existence of a bug; such is not the case for
 samplers as one sample is typically not sufficient to prove
@@ -68,6 +70,8 @@ understand and interact with ML solutions. Providing meaningful explanations for
 decisions is an increasingly important task. In this research theme, we are investigating techniques for two categories of explanations:
 
 1. Interpretable explanations such as those specified using small set of rules/formulas. In particular, we have designed a MaxSAT based formulation for learning interpretable rules in CNF/DNF [[cp18]]({{<ref "/publication/MM18.md">}}) and later extended this formulation by incorporating incremental learning of small rules [[aies19]]({{<ref "/publication/aies19.md">}}).
+
+
 2. In settings where the cognitive burden of complete explanations is too high, people often do not seek to know why
 a particular event happened, but rather why an alternative one
 didn’t . Due to the heuristic nature of explanations produced by
