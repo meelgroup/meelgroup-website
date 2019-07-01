@@ -19,12 +19,12 @@ Prerequisites:
        hugo server
 
     Now you can go to [localhost:1313](http://localhost:1313).
+  
+4. Commit and Push your changes to this repository
 
-4. Remove the public folder
+5. Remove the public folder
 
         rm -rf public
-  
-5. Commit and Push your changes to this repository
 
 6. While running for the first time, do this
         
