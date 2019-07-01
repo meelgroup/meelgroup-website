@@ -19,6 +19,10 @@ weight = 60
  <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
  [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
 
+# **Postdoctoral Researchers**
+
+<img src="/img/Mate.jpg" alt="Mate" style="width: 200px; height: 200px"/>
+<a href=http://www.msoos.org> Mate Soos  </a>
 
 # **PhD Students**
 
@@ -43,7 +47,7 @@ body
 
 <div class="column">
 <img src="/img/Yash.jpeg" alt="Yash" style="width: 200px; height: 200px"/>
-<a> Yash Pote </a>
+<a href=https://yashpote.com> Yash Pote </a>
 
 </div>
 <div class="column">
@@ -148,10 +152,7 @@ Himanshu Arora
 </style>
 <div class="row">
 
-<div class="column">
-<img src="/img/Mate.jpg" alt="Mate" style="width: 200px; height: 200px"/>
-<a href=http://www.msoos.org> Mate Soos  </a>
-</div>
+
 
 <div class="column">
 <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px; height: 200px"/>
