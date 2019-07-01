@@ -35,7 +35,7 @@ A consequence of O2 is that the development of new algorithmic insights has been
 
  
 
-## <u> Theme 2: Beyond NP Revolution: Constrained Sampling and Integration/Counting </u>
+## <u> Theme 2: Constrained Sampling and Integration/Counting </u>
 
 Constrained sampling and counting are two fundamental problems in data analysis. In constrained sampling, the task is to sample randomly, subject to a given weighting function, from the set of solutions to a set of given constraints while for constrained counting, the task is to count the total weight, subject to a given weighting function, of the set of solutions of the given constraints. Both of these problems have applications in machine learning, probabilistic reasoning, planning, hardware, and software testing, among other areas. 
 
