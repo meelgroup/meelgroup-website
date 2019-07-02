@@ -1,6 +1,6 @@
 +++
 title = "Network Reliability Estimation in Theory and Practice "
-date = 2018-05-01T00:00:00
+date = 2019-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Roger Paredes", "Leonardo Duenas-Osorio","Kuldeep S. Meel","Moshe Y. Vardi"] 
@@ -17,7 +17,7 @@ authors = ["Roger Paredes", "Leonardo Duenas-Osorio","Kuldeep S. Meel","Moshe Y.
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Submitted to Reliability Engineering and System Safety*"
+publication = "*Journal of Reliability Engineering and System Safety(RESS), 2019.*"
 
 
 # Featured image thumbnail (optional)
