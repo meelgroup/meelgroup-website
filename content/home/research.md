@@ -29,7 +29,7 @@ O1: The success of SAT/SMT/MaxSAT solvers has allowed researchers to employ them
 O2: Modern SAT/SMT solvers achieve scalability and robustness with sophisticated heuristics that are challenging to understand and explain.
 
 O1 necessitates design of solvers that can exploit the rich structures of queries without losing the generality offered by CNF. Our recent work has proposed new paradigms for CNF+XOR constraints
-[[aaai19]]({{<ref "/publication/AAAI19_BIRD.md">}}) and CNF+ANF constraints [[date19]]({{<ref "/publication/DATE-CSCM19.md">}}).
+[[aaai19]]({{<ref "/publication/AAAI19_BIRD.md">}}) and CNF+ANF constraints [[date19]]({{<ref "/publication/DATE_CSCM19.md">}}).
 
 A consequence of O2 is that the development of new algorithmic insights has been largely restricted to expert intuitions and evaluation of the new insights have been restricted to performance measurement in terms of the runtime of solvers or a proxy for the runtime of solvers. In this project, our focus is to enable data-driven design and understanding of SAT Solvers. In particular, we view modern conflict-driven clause learning (CDCL) solvers as a composition of classifiers and regressors for different tasks such as branching, clause memory management, and restarting. We will employ supervised learning and uses extensive, multi-gigabyte data extracted from runs of a single SAT solver to perform predictive analytics. Our [[SAT-19]]({{<ref "/publication/SAT19_cball.md">}}) paper presents the first version of the system, called CrystalBall, that we are building.
 
