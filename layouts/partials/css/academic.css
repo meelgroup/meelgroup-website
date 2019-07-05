@@ -650,6 +650,14 @@ article {
   color: #888;
 }
 
+.software-article-metadata {
+  margin-bottom: 15px;
+  overflow: hidden;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  color: #888;
+}
+
 /* For article page only, not lists. */
 article .article-metadata {
   margin-bottom: 20px;
