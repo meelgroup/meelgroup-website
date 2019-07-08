@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2014-07-27T00:00:00
 
 # Project title.
 title = "WeightGen"
 
 # Project summary to display on homepage.
-summary = "A sampler for weighted CNF formulas."
+summary = "A hashing-based approximate sampler for weighted CNF formulas."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "WeightGen.jpg"
