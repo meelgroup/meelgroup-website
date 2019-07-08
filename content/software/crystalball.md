@@ -9,7 +9,7 @@ title = "CrystalBall"
 summary = "A hashing-based approximate sampler for weighted CNF formulas."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-# image_preview = "WeightGen.jpg"
+image_preview = "CrystalBall.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "sampling-and-counting"]`
@@ -30,7 +30,7 @@ code_link = "https://github.com/msoos/cryptominisat/tree/crystalball"
 
 +++
 
-Boolean satisfiability is a fundamental problem in computerscience with a wide range of applications including planning, configurationmanagement, design and verification of software/hardware systems. Modern SAT solvers achieve scalability and ro-bustness with sophisticated heuristics that are challenging to understandand explain. We propose to view modern conflict-driven clause learning (CDCL) solvers as a composition of classifiers and regressors for different tasks such as branching, clause memory management, and restarting. The current version of CrystalBall focuses on deriving a classifier to keep or throw away a learned clause. In a departure from recent machine learning based techniques, CrystalBall employs supervised learning anduses extensive, multi-gigabyte data extracted from runs of a single SAT solver to perform predictive analytics.
+Boolean satisfiability is a fundamental problem in computerscience with a wide range of applications including planning, configurationmanagement, design and verification of software/hardware systems. Modern SAT solvers achieve scalability and ro-bustness with sophisticated heuristics that are challenging to understandand explain. We propose to view modern conflict-driven clause learning (CDCL) solvers as a composition of classifiers and regressors for different tasks such as branching, clause memory management, and restarting. The current version of CrystalBall focuses on deriving a classifier to keep or throw away a learned clause. In a departure from recent machine learning based techniques, CrystalBall employs supervised learning anduses extensive, multi-gigabyte data extracted from runs of a single SAT solver to perform predictive analytics. Read this [blog post](https://www.msoos.org/2019/06/crystalball-sat-solving-data-gathering-and-machine-learning/) for more details.
 
 **Relevant Papers:**
 
