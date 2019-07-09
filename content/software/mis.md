@@ -6,7 +6,7 @@ date = 2016-09-05T00:00:00
 title = "MIS"
 
 # Project summary to display on homepage.
-summary = "An algorithm for discrete integration over finite domains."
+summary = "An algorithm to compute minimal independent support for a given CNF formula."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "MIS.jpg"
@@ -26,7 +26,7 @@ math = false
 #image = "headers/MIS.jpg"
 #caption = "My caption :smile:"
 
-code_link = "https://bitbucket.org/kuldeepmeel/weightgen"
+code_link = "https://github.com/meelgroup/mis"
 
 +++
 
