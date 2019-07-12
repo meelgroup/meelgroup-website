@@ -6,7 +6,7 @@ date = 2019-07-07T00:00:00
 title = "CrystalBall"
 
 # Project summary to display on homepage.
-summary = "A hashing-based approximate sampler for weighted CNF formulas."
+summary = "A framework to provide white-box access to the execution of SAT solver."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "CrystalBall.png"
