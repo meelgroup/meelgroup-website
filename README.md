@@ -3,7 +3,9 @@
 Prerequisites:
 
 * [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
+* [Download and install Hugo](https://gohugo.io/getting-started/installing/#fetch-from-github)
+
+Important: At present, the website is compatible with Hugo v0.55.6 (*extended*). Make sure you are using the correct version. It is recommended to [install from source](https://gohugo.io/getting-started/installing/#fetch-from-github). Using apt-get may install an older version.
 
 1. Clone the repo: 
 
