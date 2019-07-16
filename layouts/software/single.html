@@ -1,8 +1,9 @@
-{{- define "main" -}}
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
 
 <article class="article" itemscope itemtype="http://schema.org/Article">
 
-  {{ partial "page_header.html" . }}
+  {{ partial "header_image.html" . }}
 
   <div class="article-container">
     <h1 itemprop="name">{{ .Title }}</h1>
@@ -13,21 +14,6 @@
       {{ .Content }}
     </div>
 
-<!--     {{ partial "tags.html" . }}
- -->
-<!--     {{ $related := .Site.RegularPages.Related . | first 5 }}
-    {{ with $related }}
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>{{ i18n "related" }}</h3>
-      <ul>
-        {{ range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-      </ul>
-    </div>
-    {{ end }} -->
-    
     <img src="/img/{{ .Params.image_preview }}" alt="" class="img-responsive">
 
     <a class="btn btn-info" href="{{ .Params.code_link }}">Code</a>
@@ -44,4 +30,5 @@
 
 </article>
 
-{{- end -}}
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
