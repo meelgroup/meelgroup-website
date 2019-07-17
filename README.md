@@ -52,6 +52,10 @@ Important: At present, the website is compatible with Hugo v0.55.6 (*extended*).
 
 - Add your name (if you happen to have a homepage you can link your name to that url) under appropriate group and `jpg/png` image in `/static/img/` directory. After that add html(see existing entries) with `src` changed to your image location.
 
+# What to do if you see strange errors in the News or Software section
+
+These sections are not a part of the Academic theme by default and hence, any updates to the theme will not be reflected in these sections by default. This may break the website. To solve this, you must identify what changes have been made to other secions of the theme, and replicate them in corresponding files of the custom sections.
+
 ## NOTE:
 - The *md* files also take plain html. So if you want, you can hack html to make small changes.
 
