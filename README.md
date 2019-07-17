@@ -39,6 +39,8 @@ Important: At present, the website is compatible with Hugo v0.55.6 (*extended*).
        
        chmod +x deploy.sh
        ./deploy.sh 
+       
+   If you have made changes and running the `deploy.sh` script still says that no changes were made, run the command in Point 6 again, and then run `./deploy.sh`.
 
 # Instruction for adding Papers
 - To add a new paper(*<name_of_paper>*). Add *<name_of_paper.md>* like other md files and for adding bib information add *<name_of_paper.bib>* in `static/files/citations/`.
