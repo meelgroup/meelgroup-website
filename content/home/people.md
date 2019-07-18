@@ -132,7 +132,7 @@ Himanshu Arora
 
 <div class="column">
 <img src="/img/arijit.jpg" alt="Arijit" style="width: 200px; height: 200px"/>
-<a> Arijit Shaw </a>
+Arijit Shaw
 </div>
 
 </div>
