@@ -122,14 +122,13 @@ body
 Mohimenul Kabir
 </div>
 <div class="column">
-<img src="/img/himanshu.jpg" alt="Himanshu" style="width: 200px;"/>
-Himanshu Arora
-</div>
-<div class="column">
 <img src="/img/Durgesh.jpg" alt="Durgesh" style="width: 200px; height: 200px"/>
 <a href=https://durgeshra.github.io/> Durgesh Agrawal  </a>
 </div>
-
+<div class="column">
+<img src="/img/himanshu.jpg" alt="Himanshu" style="width: 200px;"/>
+Himanshu Arora
+</div>
 <div class="column">
 <img src="/img/arijit.jpg" alt="Arijit" style="width: 200px; height: 200px"/>
 Arijit Shaw
