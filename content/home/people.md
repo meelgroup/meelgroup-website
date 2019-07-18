@@ -130,6 +130,11 @@ Himanshu Arora
 <a href=https://durgeshra.github.io/> Durgesh Agrawal  </a>
 </div>
 
+<div class="column">
+<img src="/img/arijit.jpg" alt="Arijit" style="width: 200px; height: 200px"/>
+<a> Arijit Shaw </a>
+</div>
+
 </div>
 
 
