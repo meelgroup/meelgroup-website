@@ -17,7 +17,7 @@ authors = ["Roger Paredes", "Leonardo Duenas-Osorio","Kuldeep S. Meel","Moshe Y.
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Reliability Engineering and System Safety(RESS), 2019.*"
+publication = "*Journal of Reliability Engineering and System Safety(RESS)*"
 
 
 # Featured image thumbnail (optional)
