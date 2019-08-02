@@ -62,7 +62,7 @@ body
 
 <div class="column">
 <img src="/img/Suwei.jpg" alt="Suwei" style="width: 200px; height: 200px"/>
-<a> Suwei </a>
+ Suwei 
 </div>
 </div>
 
@@ -170,12 +170,12 @@ Alexis de Colnet
 
 <div class="column">
 <img src="/img/Andre.jpg" alt="Andre" style="width: 200px; height: 200px"/>
-<a> Andre </a>
+ Andre 
 </div>
 
 <div class="column">
 <img src="/img/Shubham.jpg" alt="Shubham" style="width: 200px; height: 200px"/>
-<a href=http://home.iitk.ac.in/~smsharma/> Shubham Sharma  </a>
+<a href=https://smsharma1.github.io/> Shubham Sharma  </a>
 </div>
 
 <div class="column">
