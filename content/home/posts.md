@@ -5,7 +5,7 @@ widget = "posts"
 active = true
 date = 2019-05-03T00:00:00
 
-title = "Recent Posts"
+title = "Blog Posts"
 subtitle = ""
 
 # Order that this section will appear in.

@@ -22,7 +22,7 @@ caption = ""
 preview = true
 
 +++
-This blogpost talks about our tool [GANAK](https://github.com/meelgroup/ganak) that inherits current advancements in SAT solving and model counting, improves upon them and contributes new ideas, thereby outperforming state-of-the-art exact and approximate model counters. The source code of GANAK is available [here](https://github.com/meelgroup/ganak) and the paper is available [here](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19srsm.pdf). The main result is that we can solve a lot more problems than before: ![alt text](cactus.png)
+This blogpost talks about our tool [GANAK](https://github.com/meelgroup/ganak) that inherits current advancements in SAT solving and model counting, improves upon them and contributes new ideas, thereby outperforming state-of-the-art model counters. The source code of GANAK is available [here](https://github.com/meelgroup/ganak) and the paper is available [here](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19srsm.pdf). The main result is that we can solve a lot more problems than before: ![alt text](cactus.png)
 
 
 
@@ -35,8 +35,7 @@ Given a Boolean formula $F$, over a set of variable $X$, model counting (aka \#S
 Given $F$, the problem of exact model counting is to compute the number of solutions of $F$.
 <h4> Probabilistic Exact Model Counting </h4>
 Given $F$ and $\delta \in (0,1]$, probabilistic exact model counting estimates $\texttt{count}$ and guarantees that: $\mathsf{Pr}\big[|Solutions(F)| = \texttt{count}\big]\geq 1-\delta$. A recent study of different relaxations of model counting shows that probabilistic exact model counting is almost as hard as exact model counting
-<h4> Approximate Model Counting </h4>
-Given $F$, a tolerance $\epsilon > 0$ and a confidence  $1 - \delta \in (0,1]$, approximate model counting estimates $\texttt{count}$ and guarantees that:  $\mathsf{Pr}\Big[\frac{|Solutions(F)|}{(1 + \epsilon)} \leq \texttt{count} \leq (1 +\epsilon)|Solutions(F)|\Big] \geq 1 - \delta$.
+
 
 Let's see some of the applications of model counting
 <h3> Applications of Model Counting </h3>
@@ -60,7 +59,7 @@ Detailed discussion about each of these heuristic can be found [here](https://ww
 <h3> Results </h3>
 ***
 
-We evaluate the runtime performance of GANAK on $2031$ publicly available benchmarks arising from a wide range of applications of model counting. Our experiments demonstrate that GANAK performs best when all the heuristics describe in the previous section (except EDR) are enabled. GANAK outperforms state-of-the-art exact and approximate model counters, both in terms of PAR-2 score and the number of instances solved. Finally, in our experiments, the model count returned by GANAK was equal to the exact model count for all the benchmarks.
+We evaluate the runtime performance of GANAK on $2031$ publicly available benchmarks arising from a wide range of applications of model counting. Our experiments demonstrate that GANAK performs best when all the heuristics describe in the previous section (except EDR) are enabled. GANAK outperforms state-of-the-art exact model counter, both in terms of PAR-2 score and the number of instances solved. Finally, in our experiments, the model count returned by GANAK was equal to the exact model count for all the benchmarks.
 
 
 We are thankful to the [National Supercomputing Center Singapore](https://www.nscc.sg/) for providing us computational resources to run our experiments.
