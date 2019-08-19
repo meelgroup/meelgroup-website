@@ -62,7 +62,7 @@ body
 
 <div class="column">
 <img src="/img/Suwei.jpg" alt="Suwei" style="width: 200px; height: 200px"/>
- Suwei 
+ Suwei
 </div>
 </div>
 
@@ -118,18 +118,6 @@ body
 <div class="row">
 
 <div class="column">
-<img src="/img/Mahi.jpg" alt="Mahi" style="width: 200px;"/>
-Mohimenul Kabir
-</div>
-<div class="column">
-<img src="/img/Durgesh.jpg" alt="Durgesh" style="width: 200px; height: 200px"/>
-<a href=https://durgeshra.github.io/> Durgesh Agrawal  </a>
-</div>
-<div class="column">
-<img src="/img/himanshu.jpg" alt="Himanshu" style="width: 200px;"/>
-Himanshu Arora
-</div>
-<div class="column">
 <img src="/img/arijit.jpg" alt="Arijit" style="width: 200px; height: 200px"/>
 Arijit Shaw
 </div>
@@ -156,7 +144,18 @@ Arijit Shaw
 </style>
 <div class="row">
 
-
+<div class="column">
+<img src="/img/Mahi.jpg" alt="Mahi" style="width: 200px;"/>
+Mohimenul Kabir
+</div>
+<div class="column">
+<img src="/img/Durgesh.jpg" alt="Durgesh" style="width: 200px; height: 200px"/>
+<a href=https://durgeshra.github.io/> Durgesh Agrawal  </a>
+</div>
+<div class="column">
+<img src="/img/himanshu.jpg" alt="Himanshu" style="width: 200px; height: 200px"/>
+Himanshu Arora
+</div>
 
 <div class="column">
 <img src="/img/Bhavishya.png" alt="Bhavishya" style="width: 200px; height: 200px"/>
@@ -170,7 +169,7 @@ Alexis de Colnet
 
 <div class="column">
 <img src="/img/Andre.jpg" alt="Andre" style="width: 200px; height: 200px"/>
- Andre 
+ Andre
 </div>
 
 <div class="column">
@@ -188,6 +187,8 @@ Alexis de Colnet
 
 
 # **Past visitors**
+- [Prof Roland Jie-Hong, National Taiwan University](http://cc.ee.ntu.edu.tw/~jhjiang/)
+
 - [Prof. Sourav Chakraborty, CMI](http://www.cmi.ac.in/~sourav/)
 
 - [Prof. Vijay Ganesh, Waterloo](https://ece.uwaterloo.ca/~vganesh/)
