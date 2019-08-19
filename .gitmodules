@@ -5,3 +5,7 @@
 	path = public
 	url = git@github.com:meelgroup/meelgroup.github.io.git
 	branch = master
+[submodule "content/news/public"]
+	path = content/news/public
+	url = git@github.com:meelgroup/meelgroup.github.io.git
+	branch = master
