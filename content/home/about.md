@@ -19,7 +19,7 @@ Welcome to the Meel Group's web page. We are situated at National
 University of Singapore.
 
 
-<img src="/img/group.jpeg" alt="Meelgroup">
+<img src="/img/group.jpg" alt="Meelgroup">
 <h3>Interests</h3>
 
 <ul style="list-style-type:disc">
