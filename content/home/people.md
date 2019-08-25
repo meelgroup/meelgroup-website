@@ -24,7 +24,7 @@ weight = 60
 <img src="/img/Mate.jpg" alt="Mate" style="width: 200px; height: 200px"/>
 <a href=http://www.msoos.org> Mate Soos  </a>
 
-<img src="/img/yong.jpg" alt="Yong Lai" style="width: 200px; height: 200px"/>
+<img src="/img/Yong.jpg" alt="Yong" style="width: 200px; height: 200px"/>
 Yong Lai
 
 # **PhD Students**
