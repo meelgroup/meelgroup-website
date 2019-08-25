@@ -75,6 +75,11 @@ Yong Lai
 <img src="/img/Suwei.jpg" alt="Suwei" style="width: 200px; height: 200px"/>
  Suwei
 </div>
+
+<div class="column">
+<img src="/img/Teodora.jpg" alt="Teo" style="width: 200px; height: 200px"/>
+ Teodora
+</div>
 </div>
 
 
@@ -198,14 +203,20 @@ Alexis de Colnet
 
 
 # **Past visitors**
+2019
+
 - [Jan Elferrs, KTH](http://www.csc.kth.se/~elffers/)
 
 - [Stephan Gocht, KTH](https://people.kth.se/~gocht/)
 
+- [Prof Pavan Aduri, Iowa State](https://www.cs.iastate.edu/people/pavan-aduri)
+
 - [Prof Roland Jie-Hong, National Taiwan University](http://cc.ee.ntu.edu.tw/~jhjiang/)
 
-- [Prof. Sourav Chakraborty, CMI](http://www.cmi.ac.in/~sourav/)
+2018
 
-- [Prof. Vijay Ganesh, Waterloo](https://ece.uwaterloo.ca/~vganesh/)
+- [Prof Sourav Chakraborty, CMI](http://www.cmi.ac.in/~sourav/)
 
-- Aditya Shrotri, Rice
+- [Prof Vijay Ganesh, Waterloo](https://ece.uwaterloo.ca/~vganesh/)
+
+- [Aditya Shrotri, Rice](https://www.cs.rice.edu/~as128/)

@@ -3,7 +3,7 @@ title = "Assessing Heuristic Machine Learning Explanations with Model Counting  
 date = 2019-05-05T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nina Narodytska","Aditya Shrotri","Kuldeep S. Meel","Alexey Ignatiev","Joao Marques Silva"] 
+authors = ["Nina Narodytska","Aditya Shrotri","Kuldeep S. Meel","Alexey Ignatiev","Joao Marques Silva"]
 
 # Publication type.
 # Legend:
@@ -33,7 +33,7 @@ selected = true
 
 
 # Links (optional).
-#url_pdf = "https://bishwamittra.github.io/publication/imli-ghosh.pdf"
+url_pdf = "https://www.comp.nus.edu.sg/~meel/Papers/sat19nsmis.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""

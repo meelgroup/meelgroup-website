@@ -33,9 +33,9 @@ selected = true
 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.comp.nus.edu.sg/~meel/Papers/ijcai19srsm.pdf"
 #url_preprint = ""
-#url_code = "https://github.com/meelgroup/ganak"
+url_code = "https://github.com/meelgroup/ganak"
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""
