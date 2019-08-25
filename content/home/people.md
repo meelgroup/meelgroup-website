@@ -19,17 +19,6 @@ weight = 60
  <img src="/img/Kuldeep.jpg" alt="Kuldeep" style="width: 200px;"/>
  [Kuldeep Meel](http://www.comp.nus.edu.sg/~meel/)
 
-# **Postdoctoral Researchers**
-
-<img src="/img/Mate.jpg" alt="Mate" style="width: 200px; height: 200px"/>
-<a href=http://www.msoos.org> Mate Soos  </a>
-
-<img src="/img/yong.jpg" alt="Yong" style="width: 200px; height: 200px"/>
-Yong Lai
-
-# **PhD Students**
-
-
 <style>
 body
 .column {
@@ -45,6 +34,25 @@ body
   display: table;
 }
 </style>
+
+# **Postdoctoral Researchers**
+<div class="row">
+
+<div class="column">
+<img src="/img/Mate.jpg" alt="Mate" style="width: 200px; height: 200px"/>
+<a href=http://www.msoos.org> Mate Soos  </a>
+</div>
+
+
+<div class="column">
+<img src="/img/yong.jpg" alt="Yong" style="width: 200px; height: 200px"/>
+Yong Lai
+</div>
+</div>
+
+# **PhD Students**
+
+
 <body>
 <div class="row">
 
@@ -190,6 +198,10 @@ Alexis de Colnet
 
 
 # **Past visitors**
+- [Jan Elferrs, KTH](http://www.csc.kth.se/~elffers/)
+
+- [Stephan Gocht, KTH](https://people.kth.se/~gocht/)
+
 - [Prof Roland Jie-Hong, National Taiwan University](http://cc.ee.ntu.edu.tw/~jhjiang/)
 
 - [Prof. Sourav Chakraborty, CMI](http://www.cmi.ac.in/~sourav/)
