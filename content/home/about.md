@@ -18,8 +18,25 @@ weight = 5
 Welcome to the Meel Group's web page. We are situated at National
 University of Singapore.
 
+<style type="text/css">
+    .card {
+    position: relative;
+    }
 
-<img src="/img/group.jpg" alt="Meelgroup">
+    .card .img-top {
+        display: none;
+        position: absolute;
+    }
+    .card:hover .img-top {
+        display: inline;
+
+    }
+</style>
+
+<div class = "card">
+<img src="/img/group.jpg" class="img-top" alt="Meelgroup">
+<img src="/img/flip.jpg"  alt="flipside">
+</div>
 <h3>Interests</h3>
 
 <ul style="list-style-type:disc">

@@ -78,7 +78,7 @@ Yong Lai
 
 <div class="column">
 <img src="/img/Teodora.jpg" alt="Teo" style="width: 200px; height: 200px"/>
- Teodora
+ <a href = https://comp.nus.edu.sg/~teodorab>Teodora</a>
 </div>
 </div>
 
@@ -136,6 +136,13 @@ body
 <div class="column">
 <img src="/img/arijit.jpg" alt="Arijit" style="width: 200px; height: 200px"/>
 Arijit Shaw
+</div>
+
+<div class="row">
+
+<div class="column">
+<img src="/img/Kurt.jpg" alt="Kurt" style="width: 200px; height: 200px"/>
+Kurt Warren
 </div>
 
 </div>
