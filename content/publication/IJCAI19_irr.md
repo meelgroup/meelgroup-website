@@ -3,7 +3,7 @@ title = " Interpretable Classification Rules in Relaxed Logical Form "
 date = 2019-06-23T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bishwamittra Ghosh", "Dmitry Malioutov", "Kuldeep S. Meel"] 
+authors = ["Bishwamittra Ghosh", "Dmitry Malioutov", "Kuldeep S. Meel"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Bishwamittra Ghosh", "Dmitry Malioutov", "Kuldeep S. Meel"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "IJCAI  workshop on XAI (Explainable Artificial Intelligence) and DSO (Data Science meets Optimization)"
+publication = "In *IJCAI  workshop on XAI (Explainable Artificial Intelligence) and DSO (Data Science meets Optimization)*"
 
 
 # Featured image thumbnail (optional)

@@ -3,7 +3,7 @@ title = "CrystalBall: Gazing in the Black Box of SAT Solving "
 date = 2019-05-05T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mate Soos","Raghav Kulkarni","Kuldeep S. Meel"] 
+authors = ["Mate Soos","Raghav Kulkarni","Kuldeep S. Meel"]
 
 # Publication type.
 # Legend:
@@ -33,9 +33,9 @@ selected = true
 
 
 # Links (optional).
-#url_pdf = "https://bishwamittra.github.io/publication/imli-ghosh.pdf"
+url_pdf = "https://www.comp.nus.edu.sg/~meel/Papers/sat19skm.pdf"
 #url_preprint = ""
-#url_code = ""
+url_code = "https://github.com/msoos/cryptominisat/tree/crystalball"
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""

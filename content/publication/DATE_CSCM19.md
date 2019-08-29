@@ -1,6 +1,6 @@
 +++
 title = "BOSPHORUS: Bridging ANF and CNF Solvers "
-date = 2019-01-01T00:00:00
+date = 2019-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "Davin Choo"," Mate Soos", "Kian Ming A. Chai", "Kuldeep S. Meel"]
