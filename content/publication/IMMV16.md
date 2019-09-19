@@ -17,7 +17,7 @@ authors = ["Alexander Ivrii", "Sharad Malik", "Kuldeep S. Meel", "Moshe Y. Vardi
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Constraints 21(1)*" 
+publication = "*Constraints 21(1)*"
 
 
 # Featured image thumbnail (optional)
@@ -35,10 +35,10 @@ selected = true
 # Links (optional).
 url_pdf = "http://www.comp.nus.edu.sg/~meel/Papers/constraints16.pdf"
 #url_preprint = ""
-#url_code = ""
+url_code = "https://bitbucket.org/kuldeepmeel/mis/src/master/"
 #url_dataset = ""
 #url_project = ""
-#url_slides = ""
+url_slides = "files/slides/KSMCP15Talk.pdf"
 #url_video = ""
 #url_poster = ""
 #url_source = ""
