@@ -38,10 +38,7 @@ body
 # **Postdoctoral Researchers**
 <div class="row">
 
-<div class="column">
-<img src="/img/Mate.jpg" alt="Mate" style="width: 200px; height: 200px"/>
-<a href=http://www.msoos.org> Mate Soos  </a>
-</div>
+
 
 
 <div class="column">
@@ -111,7 +108,7 @@ Rémi Delannoy
 </div>
 </div>
 
-# **Research Assistants**
+# **Research Interns**
 
 <html>
 
@@ -199,13 +196,18 @@ Alexis de Colnet
 </div>
 
 <div class="column">
-<img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;"/>
+<img src="/img/Rahul.jpg" alt="Rahul" style="width: 200px;height: 200px"/>
 <a href=http://home.iitk.ac.in/~grahul/> Rahul Gupta  </a>
 </div>
 
 <div class="column">
 <img src="/img/Kurt.jpg" alt="Kurt" style="width: 200px; height: 200px"/>
 Kurt Warren
+</div>
+
+<div class="column">
+<img src="/img/Mate.jpg" alt="Mate" style="width: 200px; height: 200px"/>
+<a href=http://www.msoos.org> Mate Soos  </a>
 </div>
 
 </div>
