@@ -33,7 +33,7 @@ selected = true
 
 
 # Links (optional).
-url_pdf = "https://www.comp.nus.edu.sg/~meel/Papers/ijcai19pjm.pdf"
+url_pdf = "https://arxiv.org/abs/1910.09755"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
