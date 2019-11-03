@@ -135,11 +135,6 @@ body
 <a href="https://arijits17.github.io/"> Arijit Shaw </a>
 </div>
 
-<div class="column">
-<img src="/img/oliver.jpg" alt="Oliver" style="width: 200px; height: 200px"/>
-<a href="https://linkedin.com/in/oliver-edholm-293950118/"> Oliver Edholm </a>
-</div>
-
 </div>
 
 
