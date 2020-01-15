@@ -36,7 +36,7 @@ selected = true
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/1906.10395"
 #url_preprint = ""
-url_code = "https://github.com/meelgroup/irr"
+url_code = "https://github.com/teobaluta/NPAQ"
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""
