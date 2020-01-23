@@ -71,7 +71,7 @@ transportation, it becomes increasingly important to allow human domain experts 
 understand and interact with ML solutions. Providing meaningful explanations for automated
 decisions is an increasingly important task. In this research theme, we are investigating techniques for two categories of explanations:
 
-1. Interpretable explanations such as those specified using a small set of rules/formulas. In particular, we have designed a MaxSAT based formulation for learning interpretable rules in CNF/DNF [[cp18]]({{<ref "/publication/MM18.md">}}) and later extended this formulation by incorporating incremental learning of small rules [[aies19]]({{<ref "/publication/AIES19.md">}}).
+1. Interpretable explanations such as those specified using a small set of rules/formulas. In particular, we have designed a MaxSAT based formulation for learning interpretable rules in CNF/DNF [[cp18]]({{<ref "/publication/MM18.md">}}) and later extended this formulation by incorporating incremental learning of small rules [[aies19]]({{<ref "/publication/AIES19.md">}}). In the [[ecai20]]({{<ref "/publication/ECAI20.md">}})  we have proposed an efficient incremental learning procedure for learning classification rules in a more expressible Boolean representation, namely relaxed-CNF.
 
 
 2. In settings where the cognitive burden of complete explanations is too high, people often do not seek to know why
