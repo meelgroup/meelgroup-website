@@ -70,17 +70,17 @@ Yong Lai
 
 <div class="column">
 <img src="/img/Suwei.jpg" alt="Suwei" style="width: 200px; height: 200px"/>
- Suwei
+ <a href="https://github.com/swxsw"> Suwei Yang </a>
 </div>
 
 <div class="column">
 <img src="/img/Teodora.jpg" alt="Teo" style="width: 200px; height: 200px"/>
- <a href = https://comp.nus.edu.sg/~teodorab>Teodora</a>
+ <a href = https://comp.nus.edu.sg/~teodorab>Teodora Baluta</a>
 </div>
 </div>
 
 
-
+<!--
 # **Masters Students**
 
 
@@ -100,13 +100,8 @@ Yong Lai
 }
 </style>
 <body>
-<div class="row">
-
-<div class="column">
-<img src="/img/Remi.jpg" alt="Rémi" style="width: 200px;"/>
-Rémi Delannoy
-</div>
-</div>
+</body>
+-->
 
 # **Research Interns**
 
@@ -205,12 +200,18 @@ Kurt Warren
 <a href=http://www.msoos.org> Mate Soos  </a>
 </div>
 
+<div class="column">
+<img src="/img/Remi.jpg" alt="Rémi" style="width: 200px;"/>
+Rémi Delannoy
+</div>
 </div>
 </body>
 
 
 # **Past visitors**
 2019
+
+- [Prof Sourav Chakraborty, CMI](http://www.cmi.ac.in/~sourav/)
 
 - [Jan Elferrs, KTH](http://www.csc.kth.se/~elffers/)
 
