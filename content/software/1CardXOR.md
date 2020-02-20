@@ -9,7 +9,7 @@ title = "1-CARD-XOR"
 summary = "Phase Transition Behavior of Cardinality and XOR Constraints"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ApproxMC.jpg"
+image_preview = "CardXOR.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "sampling-and-counting"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 #[header]
-#image = "headers/ApproxMC.jpg"
+image = "CardXOR.png"
 #caption = "My caption :smile:"
 
 code_link = "https://github.com/meelgroup/1-CARD-XOR/"
