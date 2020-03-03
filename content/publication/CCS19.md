@@ -1,5 +1,5 @@
 +++
-title = " Quantitative Verification of Neural Networks And its Security Applications  "
+title = " Quantitative Verification of Neural Networks And Its Security Applications  "
 date = 2019-08-16T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
