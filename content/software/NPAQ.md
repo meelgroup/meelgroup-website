@@ -19,7 +19,7 @@ tags = ["machine-learning", "counting"]
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = true
+math = false
 
 # Optional featured image (relative to `static/img/` folder).
 #[header]
