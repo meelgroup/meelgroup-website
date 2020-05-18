@@ -130,6 +130,11 @@ body
 <a href="https://arijits17.github.io/"> Arijit Shaw </a>
 </div>
 
+<div class="column">
+<img src="/img/Chaman.jpg" alt="Chaman" style="width: 200px; height: 200px"/>
+Chaman Agrawal
+</div>
+
 </div>
 
 
