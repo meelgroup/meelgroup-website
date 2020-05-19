@@ -1,10 +1,6 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
-[submodule "public"]
-	path = public
-	url = git@github.com:meelgroup/meelgroup.github.io.git
-	branch = master
 [submodule "content/news/public"]
 	path = content/news/public
 	url = git@github.com:meelgroup/meelgroup.github.io.git
