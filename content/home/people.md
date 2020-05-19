@@ -127,7 +127,7 @@ body
 
 <div class="column">
 <img src="/img/arijit.jpg" alt="Arijit" style="width: 200px; height: 200px"/>
-<a href="https://arijits17.github.io/"> Arijit Shaw </a>
+<a href="https://arijitsh.github.io/"> Arijit Shaw </a>
 </div>
 
 <div class="column">

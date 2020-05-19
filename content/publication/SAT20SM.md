@@ -1,6 +1,6 @@
 +++
 title = "Designing New Phase Selection Heuristics"
-date = 2020-05-18T00:00:00
+date = 2020-05-19T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "Arijit Shaw", "Kuldeep S. Meel"]
@@ -33,10 +33,10 @@ selected = true
 
 
 # Links (optional).
-url_pdf = "files/papers/sat20_lsids.pdf"
-#url_preprint = "https://arxiv.org/abs/2005.04850"
-#url_code = "https://github.com/meelgroup/duriansat"
-#url_dataset = "https://doi.org/10.5281/zenodo.3817476"
+url_pdf = "https://www.comp.nus.edu.sg/~meel/Papers/sat20-sm.pdf"
+url_preprint = "https://arxiv.org/abs/2005.04850"
+url_code = "https://github.com/meelgroup/duriansat"
+url_dataset = "https://doi.org/10.5281/zenodo.3817476"
 #url_project = ""
 #url_slides = ""
 #url_video = ""
