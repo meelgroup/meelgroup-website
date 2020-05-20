@@ -135,6 +135,11 @@ body
 Chaman Agrawal
 </div>
 
+<div class="column">
+<img src="/img/alex.jpg" alt="Alex" style="width: 200px; height: 200px"/>
+<a href="https://github.com/alexandru-dinu/"> Alexandru Dinu </a>
+</div>
+
 </div>
 
 
