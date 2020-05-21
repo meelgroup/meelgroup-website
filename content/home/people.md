@@ -140,6 +140,11 @@ Chaman Agrawal
 <a href="https://github.com/alexandru-dinu/"> Alexandru Dinu </a>
 </div>
 
+<div class="column">
+<img src="/img/pang.jpg" alt="Pang" style="width: 200px; height: 200px"/>
+<a href="https://github.com/pangzhan27/"> Zhanzhong Pang </a>
+</div>
+
 </div>
 
 
