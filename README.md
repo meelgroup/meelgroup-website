@@ -1,3 +1,7 @@
+# Current Website In Charge
+
+Teodora Baluta. If you mess up and push something that breaks the website, you must immediately inform Teodora. But first you should follow all the instructions below to ensure that you don't break things in the first place. 
+
 # Instruction to install dependencies
 
 Prerequisites:
