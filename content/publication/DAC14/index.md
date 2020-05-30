@@ -1,0 +1,28 @@
+---
+abstract: 'Constrained-random simulation is the predominant approach used in the industry
+  for functional verification of complex digital designs. The effectiveness of this
+  approach depends on two key factors: the quality of constraints used to generate
+  test vectors, and the randomness of solutions generated from a given set of constraints.
+  In this paper, we focus on the second problem, and present an algorithm that significantly
+  improves the state-of-the-art of (almost-)uniform generation of solutions of large
+  Boolean constraints. Our algorithm provides strong theoretical guarantees on the
+  uniformity of generated solutions and scales to problems involving hundreds of thousands
+  of variables.'
+authors:
+- Supratik Chakraborty
+- Kuldeep S. Meel
+- Moshe Y. Vardi
+date: 2014-06-01 00:00:00
+highlight: true
+image_preview: ''
+math: true
+publication: In *Proceedings of Design Automation Conference (DAC)*
+publication_types:
+- '1'
+selected: true
+title: 'Balancing Scalability and Uniformity in SAT-Witness Generator '
+url_code: https://bitbucket.org/kuldeepmeel/unigen/src/master/
+url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/DAC2014.pdf
+url_slides: files/slides/DAC-Talk-June 03.pdf
+---
+

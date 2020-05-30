@@ -1,0 +1,39 @@
+---
+abstract: Given a Boolean formula, the problem of counting seeks to estimate the number
+  of solutions of F while the problem of uniform sampling seeks to sample solutions
+  uniformly at random. Counting and uniform sampling are fundamental problems in computer
+  science with a wide range of applications ranging from constrained random simulation,
+  probabilistic inference to network reliability and beyond. Despite intense theoretical
+  and empirical investigations, development of scalable techniques for sampling and
+  counting without sacrificing theoretical guarantees remains the holy grail. The
+  past few years have witnessed the rise of hashing-based approaches that use XOR-based
+  hashing and employ SAT solvers to solve the resulting CNF formulas conjuncted with
+  XOR constraints. Since over 99 percent of the runtime of hashing-based techniques
+  is spent inside the SAT queries, improving CNF-XOR solvers has emerged as a key
+  challenge. In this paper, we identify the key performance bottlenecks in the recently
+  proposed BIRD architecture, and we focus on overcoming these bottlenecks by accelerating
+  the XOR handling within the SAT solver and on improving the solver integration through
+  a smarter use of (partial) solutions. We integrate BIRD2 with the state of the art
+  approximate model counter, ApproxMC3, and the state of the art almost-uniform model
+  sampler UniGen2. Through an extensive evaluation over a large benchmark set of over
+  1896 instances, we observe that BIRD2 leads to consistent speed up for both counting
+  and sampling, and in particular, we solve 77 and 51 more instances for counting
+  and sampling respectively.
+authors:
+- Mate Soos
+- Stephan Gocht
+- Kuldeep S. Meel
+date: 2020-05-18 00:00:00
+highlight: true
+image_preview: ''
+math: true
+publication: In *Proceedings of 32nd International Conference on Computer-Aided Verification
+  (CAV)*
+publication_types:
+- '1'
+selected: true
+title: Accelerating Approximate Techniques for Counting and Sampling Models Through
+  Refined CNF-XOR Solving
+url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/cav20-sgm.pdf
+---
+
