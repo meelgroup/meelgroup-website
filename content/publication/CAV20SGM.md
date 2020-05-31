@@ -1,5 +1,5 @@
 +++
-title = "Accelerating Approximate Techniques for Counting and Sampling Models Through Refined CNF-XOR Solving"
+title = "Tinted, Detached, and Lazy CNF-XOR solving and its Applications to Counting and Sampling"
 date = 2020-05-18T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
