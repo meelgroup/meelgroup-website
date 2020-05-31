@@ -3,7 +3,7 @@ title = "A Study of Symmetry Breaking Predicates and Model Counting"
 date = 2020-04-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wenxi Wang", "Muhammad Usman", "Alyas Almaawi", "Kaiyuan Wang", "Sarfraz Khurshid", "Kuldeep S. Meel"]
+authors = ["Wenxi Wang", "Muhammad Usman", "Alyas Almaawi", "Kaiyuan Wang", "Kuldeep S. Meel", "Sarfraz Khurshid"]
 
 # Publication type.
 # Legend:
