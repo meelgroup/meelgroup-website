@@ -23,7 +23,7 @@ image_preview: ''
 math: true
 publication: In *Proceedings of Workshop on Beyond NP(BNP)*
 publication_types:
-- '7'
+- '9'
 selected: true
 title: 'Constrained Sampling and Counting: Universal Hashing meets SAT Solving'
 url_code: https://bitbucket.org/kuldeepmeel/unigen/src/master/

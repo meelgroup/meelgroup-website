@@ -30,6 +30,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Manthan: A Data-Driven Approach for Boolean Function Synthesis'
-url_pdf: files/papers/cav20_manthan.pdf
+# url_pdf: files/papers/cav20_manthan.pdf
 ---
 

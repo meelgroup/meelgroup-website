@@ -23,7 +23,7 @@ math: true
 publication: In *IJCAI  workshop on XAI (Explainable Artificial Intelligence) and
   DSO (Data Science meets Optimization)*
 publication_types:
-- '7'
+- '9'
 selected: true
 title: ' Interpretable Classification Rules in Relaxed Logical Form '
 url_code: https://github.com/meelgroup/irr
