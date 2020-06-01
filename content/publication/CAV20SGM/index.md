@@ -32,8 +32,7 @@ publication: In *Proceedings of 32nd International Conference on Computer-Aided 
 publication_types:
 - '1'
 selected: true
-title: Accelerating Approximate Techniques for Counting and Sampling Models Through
-  Refined CNF-XOR Solving
+title: Tinted, Detached, and Lazy CNF-XOR solving and its Applications to Counting and Sampling
 url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/cav20-sgm.pdf
 ---
 
