@@ -32,5 +32,6 @@ selected: true
 title: ' Quantitative Verification of Neural Networks And Its Security Applications  '
 url_code: https://github.com/teobaluta/NPAQ
 url_pdf: https://arxiv.org/abs/1906.10395
+url_slides: files/slides/NPAQ_talk.pptx
 ---
 
