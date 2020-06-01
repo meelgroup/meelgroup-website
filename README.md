@@ -9,6 +9,10 @@
 # Instruction for adding your photos
 - Create a directory in 'content\authors' and then add _index.md and your avatar in this directory, similar to others. 
 
+# Notes
+- If there is a string including char ':' in your \*.md file, it should be surrounded by double-quotes ("). For example, if the title of your paper is `Manthan: A Data-Driven Approach for Boolean Function Synthesis.`, you need to write `"Manthan: A Data-Driven Approach for Boolean Function Synthesis."` in your \*.md file. Otherwise, the colon (:) will affect the parsing of \*.md file.
+- If failing to build the website resulting from PNG checksum, you can fix it by editing and saving it as a new file. 
+
 ## Ecosystem
 
 * **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
