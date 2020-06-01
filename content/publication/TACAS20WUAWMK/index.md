@@ -25,8 +25,8 @@ authors:
 - Muhammad Usman
 - Alyas Almaawi
 - Kaiyuan Wang
-- Sarfraz Khurshid
 - Kuldeep S. Meel
+- Sarfraz Khurshid
 date: 2020-04-04 00:00:00
 highlight: true
 image_preview: ''
