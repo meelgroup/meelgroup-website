@@ -30,7 +30,7 @@ abstract: ' Given a CNF formula F on n variables, the problem of model counting,
   of approximate model counting algorithms through the usage of sparse hash functions,
   while still retaining strong theoretical guarantees (a la 2-universal hash functions). '
 authors:
-- 'Kuldeep S. Meel ⓡ S. Akshay '
+- " Kuldeep S. Meel ⓡ S. Akshay "
 date: 2020-05-18 00:00:01
 highlight: true
 image_preview: ''

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alexandru Dinu
-homepage: https://github.com/alexandru-dinu/
+title: Bishwamittra Ghosh
+homepage: https://bishwamittra.github.io
 
 # Username (this should match the folder name)
 authors:
-- alex
+- bishwamittra
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Interns
+- PhD Students
 
 # Is this the primary user of the site?
 superuser: false

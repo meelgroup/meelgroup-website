@@ -1,0 +1,22 @@
+{{/* Display author list. */}}
+
+{{- $taxonomy := "authors" }}
+{{ with .Param $taxonomy }}
+  {{ $link_authors := site.Params.link_authors | default true }}
+  {{ $len := (len .) }}
+  {{ range $index, $name_raw := . }}
+    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy .) -}}
+    {{- $name := $profile_page.Title | default $name_raw -}}
+    {{- if gt $index 0 }},&nbsp;
+      {{- if eq (add $index 1) $len }}and {{ end -}}
+    {{ end -}}
+
+    <span>
+      {{- if and $profile_page $link_authors -}}
+        <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
+      {{- else -}}
+        {{$name}}
+      {{- end -}}
+    </span>
+  {{- end -}}
+{{- end -}}
