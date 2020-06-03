@@ -29,7 +29,7 @@
   weight = 50
 
 [[main]]
-  name = "Softwares"
+  name = "Software"
   url = "#projects"
   weight = 60
 
