@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
 title = "Software"
-subtitle = ""
+subtitle = "<br>"
 
 [content]
   # Page type to display. E.g. project.
@@ -35,7 +35,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List

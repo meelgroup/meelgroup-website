@@ -8,11 +8,15 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Openings"
+title = "<center>Openings</center><br>"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 80
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
 +++
 

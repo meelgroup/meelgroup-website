@@ -7,11 +7,15 @@ active = true
 
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Research"
+title = "<center>Research</center>"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 12
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
 +++
 
