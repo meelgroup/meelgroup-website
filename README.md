@@ -13,9 +13,9 @@ If you have trouble with new website, please feel free to find Jiong.
 Prerequisites:
 
 * [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#fetch-from-github)
+* [Download Hugo v0.66 (*extended*)](https://github.com/gohugoio/hugo/releases/tag/v0.66.0) and add it to path **OR** [Download and install Hugo](https://gohugo.io/getting-started/installing/#fetch-from-github)
 
-Important: At present, the website is compatible with Hugo v0.66 (*extended*). Make sure you are using the correct version. It is recommended to [install from source](https://gohugo.io/getting-started/installing/#fetch-from-github). Using apt-get may install an older version.
+Important: At present, the website is compatible with Hugo v0.66 (*extended*). Make sure you are using the correct version. It is recommended to [download Hugo v0.66 (*extended*) directly](https://github.com/gohugoio/hugo/releases/tag/v0.66.0) or [install from source](https://gohugo.io/getting-started/installing/#fetch-from-github). Using apt-get may install an older version.
 
 1. Clone the repo: 
 
