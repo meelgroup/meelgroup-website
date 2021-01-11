@@ -1,0 +1,18 @@
+---
+abstract: 'The past two decades have seen the significant improvements of the scalability of practical model counters, which have been quite influential in many applications from artificial intelligence to formal verification. While most of exact counters fall into two categories, search-based and compilation-based, Huang and Darwiche’s remarkable observation ties these two categories: the trace of a search-based exact model counter corresponds to a Decision-DNNF formula (Huang and Darwiche 2007). Taking advantage of literal equivalences, this paper designs an efficient model counting technique such that its trace is a generalization of Decision-DNNF. We first propose a generalization of Decision-DNNF, called CCDD, to apture literal equivalences, then show that CCDD supports model counting in linear time, and finally design a model counter, called ExactMC, whose trace corresponds to CCDD. We perform an extensive experimental evaluation over a comprehensive set of benchmarks and conduct performance comparison of ExactMC vis-a-vis the state of the art counters, c2d, miniC2D, D4, ADDMC, and Ganak. Our empirical evaluation demonstrates ExactMC can solve 885 instances while the prior state of the art could solve only 843 instances, representing a significant improvement of 42 instances.'
+authors:
+- Yong Lai
+- Kuldeep S. Meel
+- Roland Yap
+date: 2021-01-11 00:00:00
+highlight: true
+image_preview: ''
+math: true
+publication: In *Proceedings of AAAI Conference on Artificial Intelligence (AAAI)*
+publication_types:
+- '1'
+selected: true
+title: The Power of Literal Equivalence in Model Counting
+url_pdf: files/publications/AAAI-21-LMY.pdf
+---
+
