@@ -27,5 +27,7 @@ publication_types:
 selected: true
 title: 'On Testing of Samplers'
 url_pdf: https://arxiv.org/pdf/2010.12918.pdf
+url_slides: files/slides/Neurips20-MPC.pdf
+url_video: https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history
 ---
 
