@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Pavan Aduri
+title: Pavan Aduri
 homepage: https://www.cs.iastate.edu/people/pavan-aduri
 
 # Username (this should match the folder name)

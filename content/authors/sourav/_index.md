@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Sourav Chakraborty 
+title: Sourav Chakraborty 
 homepage: http://www.cmi.ac.in/~sourav/
 
 # Username (this should match the folder name)

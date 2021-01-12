@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Roland Jie-Hong
+title: Roland Jie-Hong
 homepage: http://cc.ee.ntu.edu.tw/~jhjiang/
 
 # Username (this should match the folder name)

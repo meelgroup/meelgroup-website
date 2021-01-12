@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Vijay Ganesh
+title: Vijay Ganesh
 homepage: https://ece.uwaterloo.ca/~vganesh/
 
 # Username (this should match the folder name)
