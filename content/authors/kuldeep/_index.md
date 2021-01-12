@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kuldeep Meel
+title: Kuldeep S. Meel
 homepage: http://www.comp.nus.edu.sg/~meel/
 
 # Username (this should match the folder name)
