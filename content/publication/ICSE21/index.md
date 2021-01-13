@@ -25,7 +25,7 @@ date: 2021-01-13 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: International Conference on Software Engineering (ICSE)
+publication: In *IEEE/ACM 43rd International Conference on Software Engineering (ICSE)*
 publication_types:
 - '1'
 selected: true

@@ -112,7 +112,7 @@ verification framework instantiated on binarized neural networks that allows
 verification of robustness, fairness and trojan attack success properties. In
 this framework, the user can quantify how often a given property is true.
 However, often users are interested to bound the probability that a property is
-true. To this end, in our [recent work](https://arxiv.org/abs/2002.06864) we propose a sound sampling-based
+true. To this end, in our [[icse21]]({{<ref "/publication/ICSE21.md">}}) we propose a sound sampling-based
 procedure called PROVERO and apply it to verify the robustness of deep neural
 networks. We propose a new attack agnostic metric adversarial hardness to
 capture model's robustness based on our procedure.

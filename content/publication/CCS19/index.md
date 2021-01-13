@@ -25,7 +25,7 @@ date: 2019-08-16 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: ACM Conference on Computer and Communications Security (CCS).
+publication: In *Proceedings of the 2019 ACM Conference on Computer and Communications Security (CCS)*
 publication_types:
 - '1'
 selected: true
