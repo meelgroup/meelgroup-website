@@ -13,7 +13,14 @@
 
     <span>
       {{- if and $profile_page $link_authors -}}
-        <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
+        {{- $query := where (where site.Pages "Section" "authors") ".Params.title" $name -}}
+        {{- range $idx, $tmp := $query -}}
+          {{- if eq $idx (add (len $query) -1) -}}
+            {{- $link := .Params.homepage -}}
+            {{- with $link -}}<a href="{{.}}">{{- end -}} {{$name}} {{- if $link -}}</a>{{- end -}}
+          {{- end -}}
+        {{- end -}}
+        <!-- <a href="{{$profile_page.RelPermalink}}">{{$name}}</a> -->
       {{- else -}}
         {{$name}}
       {{- end -}}
