@@ -6,7 +6,7 @@ weight = 11  # Order that this section will appear.
 
 # ... Put Your Section Options Here (title etc.) ...
 title = "Meel Group"
-subtitle = "Computer Science Department, School of Computing National University of Singapore"
+subtitle = "Computer Science Department<br> School of Computing<br> National University of Singapore"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
