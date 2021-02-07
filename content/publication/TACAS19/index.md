@@ -14,7 +14,8 @@ abstract: 'Previous work on applying Knowledge compilation has focused on unifor
   spaces.'
 authors:
 - Rahul Gupta
-- ' Shubham Sharma'
+- Shubham Sharma
+- Subhajit Roy
 - Kuldeep S. Meel
 date: 2019-04-04 00:00:00
 highlight: true
