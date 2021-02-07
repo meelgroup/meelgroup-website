@@ -20,130 +20,53 @@ weight = 12
 +++
 
 # __Overview__
-
-Broadly, our research group is focused on the development of a rigorous
-mathematical framework for <b> provably verified, correct-by-construction,
-explainable probabilistic reasoning systems </b> building on recent
-breakthroughs in formal methods and symbolic reasoning; and deployment of our
-algorithmic framework in the real world including applications in reliability
-estimation of critical infrastructure and computational sustainability.
-
-At a more technical level, we work at the intersection of formal methods and
-artificial intelligence. We seek to develop formal methods for AI techniques and
-also employ advances in AI techniques for the development of formal method
-algorithmic and system frameworks.
+## Enabling Beyond NP Revolution
 
 
-## <u> Theme 1: Revisiting NP Revolution: New Paradigms for SAT/SMT/MaxSAT Solvers </u>
-
-Two observations motivate this research theme:
-
-O1: The success of SAT/SMT/MaxSAT solvers has allowed researchers to employ them
-as "oracles" inside larger algorithmic components, which give rise to rich
-structure in the queries to the SAT solvers, and
-
-O2: Modern SAT/SMT solvers achieve scalability and robustness with sophisticated
-heuristics that are challenging to understand and explain.
-
-O1 necessitates design of solvers that can exploit the rich structures of
-queries without losing the generality offered by CNF. Our recent work has
-proposed new paradigms for CNF+XOR constraints [[aaai19]]({{<ref
-"/publication/AAAI19_BIRD.md">}}) and CNF+ANF constraints [[date19]]({{<ref
-"/publication/DATE_CSCM19.md">}}).
-
-A consequence of O2 is that the development of new algorithmic insights has been
-largely restricted to expert intuitions and evaluation of the new insights have
-been restricted to performance measurement in terms of the runtime of solvers or
-a proxy for the runtime of solvers. In this project, our focus is to enable
-data-driven design and understanding of SAT Solvers. In particular, we view
-modern conflict-driven clause learning (CDCL) solvers as a composition of
-classifiers and regressors for different tasks such as branching, clause memory
-management, and restarting. We will employ supervised learning and uses
-extensive, multi-gigabyte data extracted from runs of a single SAT solver to
-perform predictive analytics. Our [[SAT-19]]({{<ref
-"/publication/SAT19_cball.md">}}) paper presents the first version of the
-system, called CrystalBall, that we are building.
+<p style=text-align:justify>
+My research program’s long-term vision is to advance automated reasoning techniques to enable computing to deal with increasingly uncertain real-world environments. From the core technical perspective, my research program is motivated by the unprecedented advances in the combinatorial solving techniques over the past three decades, often called as $NP$ $revolution$, owing to the focus on the fundamental problem in Nondeterministic Polynomial (NP) time complexity: satisfiability (SAT). The NP revolution offers us the opportunity to develop scalable techniques for problems that lie $Beyond$ $NP$. In particular, I focus on four fundamental problems that lie beyond NP: constrained counting, constrained sampling, functional synthesis, and maximum satisfiability. My research program is focused on enabling $Beyond$ $NP$ Revolution via making progress on the following critical enabling ingredients:
+</p>
 
 
-
-## <u> Theme 2: Constrained Sampling and Integration/Counting </u>
-
-Constrained sampling and counting are two fundamental problems in data analysis.
-In constrained sampling, the task is to sample randomly, subject to a given
-weighting function, from the set of solutions to a set of given constraints
-while for constrained counting, the task is to count the total weight, subject
-to a given weighting function, of the set of solutions of the given constraints.
-Both of these problems have applications in machine learning, probabilistic
-reasoning, planning, hardware, and software testing, among other areas.
-
-Our focus in on the development of new algorithmic techniques for constrained
-sampling and counting, combining the classical technique of universal hashing
-with advances in Boolean reasoning. Many of the ideas underlying the proposed
-approach were go back to the 1980s, but they have never been reduced to
-practice. Recent progress in Boolean reasoning is enabling us to reduce these
-algorithmic ideas to practice and obtain breakthrough results in constrained
-sampling and counting, providing a new algorithmic toolbox in design
-verification, machine learning, probabilistic reasoning, and the like.
-
-We are focused on
-
-1. Algorithmic advances in sampling and counting [[aaai19]]({{<ref
-   "/publication/AAAI19_BIRD.md">}}).
-2. Application of sampling and counting to problems arising in different domains
-   [[sat19]]({{<ref "/publication/SAT19_heu.md">}}) [[vmcai19]]({{<ref
-   "/publication/VMCAI18.md">}}).
-3. Revisiting theoretical foundations in light of existence of solvers but not
-   oracles.
+## <u> Theme 1: Beyond Worst-Case Algorithmic Design </u>
 
 
-## <u> Theme 3: Verification of AI Systems </u>
+<p style=text-align:justify>
+While theoreticians have studied the aforementioned problems for
+over thirty years, such studies employed the narrow lens of SAT oracles, which did not broadly allow a more
+nuanced characterization of the SAT queries’ complexity. In contrast, we focus on designing algorithms with
+SAT queries that can be efficiently solved by the underlying SAT solvers. In the context of approximate counting, we have developed a hashing-based framework, ApproxMC, that relies on sparse XORs to circumvent the
+practical hardness of queries based on dense XORs [<a href="/publication/cp18">MSV19a</a>, <a href="/publication/ijcai19_dnfcounter">MSV19b</a>, <a href="/publication/sat20abm">ABM20</a>, <a href="/publication/lics-20-am">MA20</a>, <a href="/publication/cav20bm">BM20</a>]. The LICS20 paper [<a href="/publication/lics-20-am">MA20</a>](co-authored with S. Akshay) resolved the longstanding open problem of designing a sparse XOR-based algorithmic framework that can achieve runtime improvement without losing theoretical guarantees. As a high degree of symmetry in the underlying constraints amplifies the practical hardness, we rely on domainlevel symmetry breaking for performance improvement [<a href="/publication/tacas20wuawmk">WUA+20</a>]. In the context of sampling, our framework, Waps, employs the progress in knowledge compilation to achieve scalability without losing theoretical guarantees [<a href="/publication/lpar18">SGRM18</a>, <a href="/publication/tacas19">GSRM19</a>]. In follow-up work, we improved the underlying algorithmic framework for knowledge compilation via probabilistic caching enabled via universal hashing [<a href="/publication/ijcai19_ganak">SRSM19</a>]. Building on the success of constrained sampling and machine learning techniques, we proposed a novel algorithmic framework, called Manthan, for functional synthesis that achieved significant breakthrough in the number of instances solved [<a href="/publication/cav20_manthan">GRM20a</a>].
+</p>
 
 
-The modern AI systems significantly differ from traditional systems in
-their reliance on probabilistic reasoning.  Often statistical tests are
-employed to argue for the accuracy/robustness of these systems, but such
-statistical tests are usually performed on a tiny number of samples for
-which no theoretical guarantees exist for their accuracy.
-
-In contrast to testing for traditional hardware and software systems, where one trace is sufficient to prove the existence of a bug; such is not the case for samplers as one sample is typically not sufficient to prove non-conformity of the underlying systems. Our recent work [[aaai19]]({{<ref"/publication/AAAI19_testing.md">}}),[[neurips20]]({{<ref"https://meelgroup.github.io/publication/neurips20_testing">}}) showcased, to the best of our knowledge, the first algorithmic framework, Barbarik, to test whether the distribution generated by a sampler is close to an arbitrary weighted distribution.
-
-In our [[ccs19]]({{<ref "/publication/CCS19.md">}}) we propose a quantitative
-verification framework instantiated on binarized neural networks that allows
-verification of robustness, fairness and trojan attack success properties. In
-this framework, the user can quantify how often a given property is true.
-However, often users are interested to bound the probability that a property is
-true. To this end, in our [[icse21]]({{<ref "/publication/ICSE21.md">}}) we propose a sound sampling-based
-procedure called PROVERO and apply it to verify the robustness of deep neural
-networks. We propose a new attack agnostic metric adversarial hardness to
-capture model's robustness based on our procedure.
+## <u> Theme 2: Applications </u>
 
 
-## <u> Theme 4: Interpretable and Actionable Explanations for AI Systems </u>
-
-Interpretability has become a central thread in ML research. As ML algorithms
-continue to permeate critical application domains such as medicine, legal, and
-transportation, it becomes increasingly important to allow human domain experts
-to understand and interact with ML solutions. Providing meaningful explanations
-for automated decisions is an increasingly important task. In this research
-theme, we are investigating techniques for two categories of explanations:
-
-1. Interpretable explanations such as those specified using a small set of
-   rules/formulas. In particular, we have designed a MaxSAT based formulation
-   for learning interpretable rules in CNF/DNF [[cp18]]({{<ref
-   "/publication/MM18.md">}}) and later extended this formulation by
-   incorporating incremental learning of small rules [[aies19]]({{<ref
-   "/publication/AIES19.md">}}). In the [[ecai20]]({{<ref
-   "/publication/ECAI20.md">}}) paper we have proposed an efficient incremental
-   learning procedure for learning classification rules in a more expressible
-   Boolean representation, namely relaxed-CNF.
+<p style=text-align:justify>
+A key ingredient in the NP revolution was focus on the instances arising from the real-world, allowing the design of techniques tuned to practical instances. In a similar vein, we focus on discovering new applications for the aforementioned problems and the design of efficient modeling schemes. In an interdisciplinary collaboration, we reduced the problem of reliability of power transmission grids to constrained counting [<a href="/publication/ress">PDOMV19</a>]. Furthermore, we reduce the quantitative verification of neural networks [<a href="/publication/sat19_heu">NSM+19</a>, <a href="/publication/ccs19">BSS+19</a>], and quantification of information flow [<a href="/publication/vmcai18">BEH+18</a>] to constrained counting. Building on our algorithmic progress in constrained sampling, we design efficient technique for higher $t$-wise coverage in the context of highly configurable software systems [<a href="https://www.comp.nus.edu.sg/~meel/Papers/fse20blm.pdf">BLM20</a>]. In regards to maximum satisfiability, we showed that the problem of decoding in group testing reduces to maximum satisfiability [<a href="/publication/aaai20">CGSM20</a>]. In another line of work, we design efficient provable techniques for learning interpretable classifiers via reduction to MaxSAT [<a href="/publication/mm18">MM18</a>, <a href="/publication/aies19">GM19</a>, <a href="/publication/ecai20">GMM20</a>].
+</p>
 
 
-2. In settings where the cognitive burden of complete explanations is too high,
-   people often do not seek to know why a particular event happened, but rather
-   why an alternative one didn’t. Due to the heuristic nature of explanations
-   produced by existing tools, it is necessary to validate them, and our
-   approach applies the development in formal methods to aid validation. As an
-   example, our recent work [[sat19]]({{<ref "/publication/SAT19_heu.md">}})
-   proposed a counting-based method to assess the quality of explanations
-   rigorously.
+## <u> Theme 3: Query-Driven Design of Solvers </u>
 
+
+<p style=text-align:justify>
+SAT solvers’ usage inside broader algorithmic frameworks gives rise to the rich structure of the SAT queries. We have taken a twofold approach: On one hand, our recent work on uncovering the structure of solution spaces through the lens of phase transition behavior [<a href="/publication/ijcai19_cardxor">PJM19</a>, <a href="/publication/cp20">GRM20b</a>]. As a next step, we focus on engineering the underlying architecture of the SAT solvers. Given the crucial importance of CNF-XOR solving for counting and sampling, we have proposed a novel architecture, BIRD, relying on the tight integration of CDCL and Gauss-Jordan Elimination to achieve significant improvements for CNF-XOR solving [<a href="/publication/aaai19_bird">SM19</a>, <a href="/publication/cav20sgm">SGM20</a>]. Motivated by applications in cryptography and collaboration with the Defense Service Organization (DSO), we developed a new architecture, Bosphorus, for CNF-ANF formulas [<a href="/publication/date_cscm19">CSCM19</a>], and further improved performance with phase saving [<a href="/publication/sat20sm">SM20</a>]. Our most ambitious project, CrystalBall [<a href="/publication/sat19_cball">SKM19</a>], focuses on the data-driven synthesis of SAT Solvers by combining the advances in proof systems with supervised learning.
+</p>
+
+
+## <u> Theme 4: Testing Framework </u>
+
+
+<p style=text-align:justify>
+Similar to the pivotal role played by testing frameworks in the $NP$ $revolution$, the realization of the Beyond NP revolution would need scalable testing and verification methodologies. As a first step, we have focused on testing of constrained samplers. In contrast to conventional programs, one trace/sample is typically inadequate to prove the non-conformity of the underlying samplers. We are developing an algorithmic framework, Barbarik, that sits at the intersection of property testing and symbolic reasoning [<a href="/publication/aaai19_testing">CM19</a>]. Barbarik [<a href="/publication/aaai19_testing">CM19</a>, <a href="/publication/neurips20_testing">MPC20</a>] can handle product distributions and is the first tester to require a constant number of samples, in contrast to prior work requiring exponentially many samples.
+</p>
+
+
+## <u> Open-Source Tools </u>
+
+
+<p style=text-align:justify>
+Our research has led to the release of 10 actively maintained <a href="https://meelgroup.github.io/#projects"> open source tools </a>. Our SAT solver entry won 3rd place in the Main Track of the highly prestigious and competitive SAT competition 2020 (the first instance of a top-3 finish by an entry from Singapore) while our model counting entry won 1st place in two of three tracks.
+</p>
