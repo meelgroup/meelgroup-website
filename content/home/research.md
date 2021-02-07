@@ -68,5 +68,5 @@ Similar to the pivotal role played by testing frameworks in the <i>NP revolution
 
 
 <p style=text-align:justify>
-Our research has led to the release of 10 actively maintained <a href="https://meelgroup.github.io/#projects"> open source tools </a>. Our SAT solver entry won 3rd place in the Main Track of the highly prestigious and competitive SAT competition 2020 (the first instance of a top-3 finish by an entry from Singapore) while our model counting entry won 1st place in two of three tracks.
+Our research has led to the release of 10 actively maintained <a href="https://meelgroup.github.io/#projects"> open source tools</a>. Our SAT solver entry won 3rd place in the Main Track of the highly prestigious and competitive SAT competition 2020 (the first instance of a top-3 finish by an entry from Singapore) while our model counting entry won 1st place in two of three tracks.
 </p>
