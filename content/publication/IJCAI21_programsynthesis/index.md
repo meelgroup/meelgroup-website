@@ -15,8 +15,8 @@ publication_types:
 - '1'
 selected: true
 title: 'Program Synthesis as Dependency Quantified Formula Modulo Theory'
-#url_code: https://github.com/meelgroup/ganak
-#url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/ijcai19srsm.pdf
+url_code: https://github.com/meelgroup/DeQuS
+url_pdf: https://arxiv.org/pdf/2105.09221.pdf
 #url_slides: files/slides/ganak_ijcai_pres.pdf
 ---
 
