@@ -8,7 +8,7 @@ date: 2021-05-01 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: In *Proceedings International Joint Conference on Artificial Intelligence
+publication: In *Proceedings of the  International Joint Conference on Artificial Intelligence
   (IJCAI)*
 publication_types:
 - '1'

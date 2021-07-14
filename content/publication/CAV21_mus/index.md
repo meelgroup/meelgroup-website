@@ -7,13 +7,13 @@ date: 2021-05-01 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: In *Proceedings of International Conference on Computer-Aided Verification (CAV), 2021.*
+publication: In *Proceedings of International Conference on Computer-Aided Verification (CAV)*
 publication_types:
 - '1'
 selected: true
 title: 'Counting Minimal Unsatisfiable Subsets'
 #url_code: https://github.com/meelgroup/ganak
-url_pdf: 
+#url_pdf: 
 #url_slides: files/slides/ganak_ijcai_pres.pdf
 ---
 

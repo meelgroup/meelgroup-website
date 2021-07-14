@@ -8,7 +8,7 @@ date: 2021-05-01 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: In *Proceedings of International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research* (CPAIOR), 2021.
+publication: In *Proceedings of International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research* (CPAIOR)
 publication_types:
 - '1'
 selected: true
