@@ -1,21 +1,20 @@
 ---
-abstract: 'Probabilistic graphical models have emerged as a powerful modeling tool for several real-world scenarios where one needs to reason under uncertainty. A graphical models partition function is a central quantity of interest, and its computation is key to several probabilistic reasoning tasks. Given the #P-hardness of computing the partition function, several techniques have been proposed over the years with varying guarantees on the quality of estimates and their runtime behavior. This paper seeks to present a survey of 17 techniques and a rigorous empirical study of their behavior across an extensive set of benchmarks. Our empirical study draws up a surprising observation: exact techniques are as efficient as the approximate ones, and therefore, we conclude with an optimistic view of opportunities for the design of approximate techniques with enhanced scalability. Motivated by the observation of an order of magnitude difference between the Virtual Best Solver and the best performing tool, we envision an exciting line of research focused on the development of portfolio solvers.'
+abstract: 'Linear modular constraints are a powerful class of constraints that arise naturally in cryptanalysis, checksums, hash functions, and the like. Given their importance, the past few years have witnessed the design of combinatorial solvers with native support for linear modular constraints, and the availability of such solvers has led to the emergence of new applications. While there exist global constraints in CP that consider congruence classes over domain values, linear modular arithmetic constraints have yet to appear in the global constraint catalogue despite their past investigation in the context of model counting for CSPs. In this work we seek to remedy the situation by advocating the integration of linear modular constraints in state-of-the-art CP solvers. Contrary to previous belief, we conclude from an empirical investigation that Gauss-Jordan Elimination based techniques can provide an efficient and scalable way to handle linear modular constraints. On the theoretical side, we remark on the pairwise independence offered by hash functions based on linear modular constraints, and then discuss the design of hashing-based model counters for CP, supported by empirical results showing the accuracy and computational savings that can be achieved. We further demonstrate the usefulness of native support for linear modular constraints with applications to checksums and model counting.'
 authors:
-- Durgesh Agrawal
-- Yash Pote
+- Gilles Pesant
 - Kuldeep S. Meel
+- Mahshid Mohammadalitajrishi
 date: 2021-05-01 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: In *Proceedings International Joint Conference on Artificial Intelligence
-  (IJCAI)*
+publication: In *Proceedings of International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research* (CPAIOR), 2021.
 publication_types:
 - '1'
 selected: true
-title: 'Partition Function Estimation: A Quantitative Study'
+title: 'On the Usefulness of Linear Modular Arithmetic in Constraint Programming'
 #url_code: https://github.com/meelgroup/ganak
-url_pdf: https://arxiv.org/abs/2105.11132
+url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/cpaior21-pmm.pdf
 #url_slides: files/slides/ganak_ijcai_pres.pdf
 ---
 
