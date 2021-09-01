@@ -17,6 +17,8 @@ selected: true
 title: 'Program Synthesis as Dependency Quantified Formula Modulo Theory'
 url_code: https://github.com/meelgroup/DeQuS
 url_pdf: https://arxiv.org/pdf/2105.09221.pdf
-#url_slides: files/slides/ganak_ijcai_pres.pdf
+url_poster: files/slides/ijcai21_programsynthesis.pdf
+url_video: https://recorder-v3.slideslive.com/?share=46475&s=387f015c-dba1-4d7d-8ada-7281aeb5b939
+url_teaser: https://recorder-v3.slideslive.com/?share=46502&s=af7ac96c-7e3e-4019-bffb-b96e20c01828
 ---
 
