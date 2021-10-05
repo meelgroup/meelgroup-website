@@ -17,8 +17,10 @@ publication_types:
 - '1'
 selected: true
 title: 'Designing Samplers is Easy: The Boon of Testers'
-#url_code: https://github.com/meelgroup/DeQuS
+url_code: https://github.com/meelgroup/cmsgen
 #url_pdf: https://arxiv.org/pdf/2105.09221.pdf
 url_pdf: files/publications/fmcad21_shakuni.pdf
+url_slides: files/slides/fmcad21.pdf
+url_video: https://www.youtube.com/watch?v=CKa4NmEg7Hk
 ---
 

@@ -15,7 +15,7 @@ publication_types:
 - '1'
 selected: true
 title: 'Engineering an Efficient Boolean Functional Synthesis Engine'
-#url_code: https://github.com/meelgroup/dequs
+url_code: https://github.com/meelgroup/manthan
 url_pdf: https://arxiv.org/pdf/2108.05717.pdf
 #url_slides: files/slides/ganak_ijcai_pres.pdf
 ---
