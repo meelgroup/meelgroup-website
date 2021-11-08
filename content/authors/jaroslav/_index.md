@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jaroslav Bendík
-homepage: 
+homepage: https://jar-ben.github.io/
 
 # Username (this should match the folder name)
 authors:
