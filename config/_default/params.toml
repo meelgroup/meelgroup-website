@@ -97,7 +97,7 @@ directions = "COM2-03-41"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = "Please consult  [my calendar](https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg) before suggesting a meeting time."
+# office_hours = "Please consult  [my calendar](https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg) before suggesting a meeting time."
 # office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
