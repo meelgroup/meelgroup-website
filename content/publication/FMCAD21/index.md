@@ -11,7 +11,8 @@ date: 2021-07-09 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: "Formal Methods in Computer-Aided Design, FMCAD"
+publication: "In *Proceedings of Formal Methods in Computer-Aided Design
+  (FMCAD)*"
 publication_types:
 - '1'
 selected: true

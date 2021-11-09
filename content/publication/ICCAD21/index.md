@@ -10,7 +10,7 @@ date: 2021-07-13 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: "40th International Conference On Computer Aided Design,ICCAD"
+publication: "In *Proceedings of International Conference On Computer Aided Design (ICCAD)*"
 publication_types:
 - '1'
 selected: true
