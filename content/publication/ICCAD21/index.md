@@ -10,13 +10,14 @@ date: 2021-07-13 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: "In Proceedings of International Conference On Computer Aided Design (ICCAD)"
+publication: "40th International Conference On Computer Aided Design,ICCAD"
 publication_types:
 - '1'
 selected: true
 title: 'Engineering an Efficient Boolean Functional Synthesis Engine'
 url_code: https://github.com/meelgroup/manthan
 url_pdf: https://arxiv.org/pdf/2108.05717.pdf
-#url_slides: files/slides/ganak_ijcai_pres.pdf
+url_slides: files/slides/iccad.pdf
+url_video: https://youtu.be/GhhoiiZoTQY
 ---
 

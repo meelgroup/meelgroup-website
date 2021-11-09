@@ -7,19 +7,17 @@ authors:
 - Mate Soos
 - Sourav Chakraborty
 - Kuldeep S. Meel
-date: 2021-07-11 00:00:00
+date: 2021-07-09 00:00:00
 highlight: true
 image_preview: ''
 math: true
-publication: In *Proceedings Formal Methods in Computer-Aided Design
-  (FMCAD)*
+publication: "Formal Methods in Computer-Aided Design, FMCAD"
 publication_types:
 - '1'
 selected: true
 title: 'Designing Samplers is Easy: The Boon of Testers'
 url_code: https://github.com/meelgroup/cmsgen
-#url_pdf: https://arxiv.org/pdf/2105.09221.pdf
-url_pdf: files/publications/fmcad21_shakuni.pdf
+url_pdf: files/slides/fmcad21_shakuni.pdf
 url_slides: files/slides/fmcad21.pdf
 url_video: https://www.youtube.com/watch?v=CKa4NmEg7Hk
 ---
