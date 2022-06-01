@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rakesh Mistry | MeelGroup</title>
+    <link>https://meelgroup.github.io/author/rakesh-mistry/</link>
+      <atom:link href="https://meelgroup.github.io/author/rakesh-mistry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rakesh Mistry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>Rakesh Mistry</title>
+      <link>https://meelgroup.github.io/author/rakesh-mistry/</link>
+    </image>
+    
+    <item>
+      <title>Approximate Probabilistic Inference via Word-Level Counting </title>
+      <link>https://meelgroup.github.io/publication/aaai16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/aaai16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

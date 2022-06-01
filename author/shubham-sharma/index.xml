@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shubham Sharma | MeelGroup</title>
+    <link>https://meelgroup.github.io/author/shubham-sharma/</link>
+      <atom:link href="https://meelgroup.github.io/author/shubham-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shubham Sharma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>Shubham Sharma</title>
+      <link>https://meelgroup.github.io/author/shubham-sharma/</link>
+    </image>
+    
+    <item>
+      <title>Symmetric Component Caching for Model Counting on Structured Instances</title>
+      <link>https://meelgroup.github.io/publication/aaai21_symganak/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/aaai21_symganak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANAK: A Scalable Probabilistic Exact Model Counter</title>
+      <link>https://meelgroup.github.io/publication/ijcai19_ganak/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/ijcai19_ganak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Compilation meets Uniform Sampling</title>
+      <link>https://meelgroup.github.io/post/kus/</link>
+      <pubDate>Fri, 03 May 2019 11:06:17 +0530</pubDate>
+      <guid>https://meelgroup.github.io/post/kus/</guid>
+      <description>&lt;p&gt;This blogpost is based on our 
+&lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/Papers/lpar18.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; that got published in the procedings of International Conference on Logic for Programming, Artificial Intelligence and Reasoning (LPAR), 2018. The code is available 
+&lt;a href=&#34;https://github.com/meelgroup/KUS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The primary contribution of this work is marrying knowledge compilation with uniform sampling to design a new uniform sampler KUS. The main result is that KUS is able to solve more number of benchmarks than existing state-of-the-art uniform and almost-uniform samplers beating them by orders of magnitude in terms of runtime:
+&lt;img src=&#34;cactus.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h3&gt;Uniform Sampling&lt;/h3&gt;
+***
+Given a boolean formula $F$, the idea of Uniform Sampling is to generate samples from the set of solutions of $F$ called $R_F$ using a generator $\mathcal{G}$ that guarantees:
+$$\forall y \in R_F, \mathsf{Pr}\left[\mathcal{G}(F) = y\right] = \frac{1}{|R_F|},$$
+Uniform sampling is a fundamental problem in computer science with wide range of applications ranging from bayesian analysis to software engineering and programming languages. Jerrum, Valiant, and Vazirani observed deep relationship between model counting and uniform sampling. In particular, they showed that given access to an exact model counter, one could design a uniform generator which requires only polynomially many queries to the exact model counter. On the other hand, knowledge compilation has been emerged as a vital task wherein a logical theory is compiled into a form that allows performing probabilistic inference in polynomial time. It is well known that there is a deep connection between probabilistic inference and model counting. In this context, one wonders if the recent advances in knowledge compilation can be harnessed to design a scalable uniform sampler. The primary contribution of this work is marrying knowledge compilation with uniform sampling to design a new algorithm, KUS, that performs uniform sampling, outperforming current state-of-the-art approximately uniform and uniform samplers.
+&lt;h3&gt; Knowledge Compilation and d-DNNF representation&lt;/h3&gt;
+***
+To deal with computational intractability of probabilistic reasoning, knowledge compilation seeks to compile a knowledge base, often represented as a propositional formula in CNF, to a target language. Thereafter, probabilistic reasoning tasks, which are often expressed as sequence of queries, are performed by querying the knowledge base in the target language. Deterministic Decomposable Negation Normal Form (d-DNNF) have emerged as a central target language in knowledge compilation community since several probabilistic reasoning tasks such as probabilistic inference, maximum a posteriori (MAP) can be answered in polynomial time in the size of d-DNNF. A boolean formula in Negation Normal Form (NNF) is said to be in d-DNNF if it satisfes the following properties:
+&lt;ul&gt;
+&lt;li&gt; Deterministic: We refer to an NNF as deterministic if the operands of OR in all wellformed Boolean formula in the NNF are mutually inconsistent.&lt;/li&gt;
+&lt;li&gt;Decomposable: We refer to an NNF as decomposable if the operands of AND in all wellformed Boolean formula in the NNF are expressed in a mutually disjoint set of variables.&lt;/li&gt;
+&lt;/ul&gt;
+![alt_text](ddnnf.png)
+&lt;p&gt;d-DNNF of a boolean formula $F$ represent the set of satisfying assignment $R_F$&lt;/p&gt;
+&lt;h3&gt;The algorithm&lt;/h3&gt;
+***
+The central idea behind KUS is to first employ the state-of-the-art knowledge compilation approaches to compile a given CNF formula into d-DNNF form, and then performing only two passes over the d-DNNF representation to generate as many identically and independently distributed samples as specified by the user denoted by $s$.
+![alt_text](kus.png)
+&lt;p&gt;KUS takes in a CNF formula $F$ and required number of samples s and returns a set of $s$ samples such that each sample is uniformly and independently drawn from the uniform distribution over the set of solutions $R_F$. KUS first invokes a d-DNNF compiler over the formula F to obtain its d-DNNF. Then, the subroutine Annotate is invoked that annotates d-DNNF by annotating each node with a tuple consisting of the number of solutions and the set of variables in the node&amp;rsquo;s corresponding sub-formula. Then, the subroutine Sampler is invoked that returns s uniformly and independently drawn samples using the properties of d-DNNF. Finally, KUS gives random assignment to the unassigned variables for each sample in the SampleList to account for unconstrained variables that do not appear in d-DNNF by invoking the subroutine RandomAssignment.&lt;/p&gt;
+&lt;h3&gt;The Results&lt;/h3&gt;
+Our experiments demonstrated that KUS outperformed both SPUR and UniGen2 state-of-the-art uniform and almost-uniform samplers by a factor of up to $3$ orders of magnitude in terms of runtime in some cases while achieving a geometric speedup of $1.7\times$ and $8.3\times$ over SPUR and UniGen2 respectively. The distribution generated by KUS is statistically indistinguishable from that generated by an ideal uniform sampler. Moreover, KUS is almost oblivious to the number of samples requested. Finally, we observe that KUS can benefit from different d-DNNF compilers, therefore suggesting development of portfolio samplers in future. One of the biggest advantage of KUS is in incremental sampling--fetching multiple, relatively small-sized samples, repeatedly. The typical use case of iterative sampling can be in repeated invocation of a sampling tool until the objective (such as desired coverage or violation of property) is achieved. In incremental-sampling KUS achieves speedups of upto 3 orders of magnitude.
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+***
+&lt;ul&gt;
+&lt;li&gt;In this work, we have proposed a new approach for uniform sampling that builds on breakthrough progress in knowledge compilation&lt;/li&gt;
+&lt;li&gt;Experimentally we have demonstrated that KUS outperformed state-of-the-art uniform and almost-uniform samplers&lt;/li&gt;
+&lt;li&gt;We believe that the success of KUS will motivate researchers in verification and knowledge compilation communities to investigate a broader set of logical forms amenable to efficient uniform generation&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>WAPS: Weighted and Projected Sampling </title>
+      <link>https://meelgroup.github.io/publication/tacas19/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/tacas19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANAK: A Scalable Probabilistic Exact Model Counter</title>
+      <link>https://meelgroup.github.io/post/ganak/</link>
+      <pubDate>Wed, 03 Apr 2019 11:06:17 +0530</pubDate>
+      <guid>https://meelgroup.github.io/post/ganak/</guid>
+      <description>&lt;p&gt;This blogpost talks about our tool 
+&lt;a href=&#34;https://github.com/meelgroup/ganak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GANAK&lt;/a&gt; that inherits current advancements in SAT solving and model counting, improves upon them and contributes new ideas, thereby outperforming state-of-the-art model counters. The source code of GANAK is available 
+&lt;a href=&#34;https://github.com/meelgroup/ganak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and the paper is available 
+&lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/Papers/ijcai19srsm.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The main result is that we can solve a lot more problems than before: &lt;img src=&#34;cactus.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s first define Model Counting.&lt;/p&gt;
+&lt;h3&gt;Model Counting&lt;/h3&gt;
+***
+Given a Boolean formula $F$, over a set of variable $X$, model counting (aka \#SAT) seeks to compute the number of solutions of $F$. In 1979 Valiant showed that \#SAT is \#P-complete problem and in 1989 Toda proved that every problem in the polynomial hierarchy could be solved by just one call to a \#P oracle. Following types of model counting has been studied in the literature:
+&lt;h4&gt;Exact Model Counting&lt;/h4&gt;
+Given $F$, the problem of exact model counting is to compute the number of solutions of $F$.
+&lt;h4&gt; Probabilistic Exact Model Counting &lt;/h4&gt;
+Given $F$ and $\delta \in (0,1]$, probabilistic exact model counting estimates $\texttt{count}$ and guarantees that: $\mathsf{Pr}\big[|Solutions(F)| = \texttt{count}\big]\geq 1-\delta$. A recent study of different relaxations of model counting shows that probabilistic exact model counting is almost as hard as exact model counting
+&lt;p&gt;Let&amp;rsquo;s see some of the applications of model counting&lt;/p&gt;
+&lt;h3&gt; Applications of Model Counting &lt;/h3&gt;
+***
+Model counting is a fundamental problem with a wide variety of applications ranging from machine learning, quantified information flow, network reliability, planning, probabilistic reasoning, and many other related fields. For example, given a graph $G$ such that each of its edges fails with some probability and two nodes, $s$ and $t$, the problem of computing probability of existence of a path from $s$ to $t$ can be reduced to that of propositional model counting.
+&lt;p&gt;Let&amp;rsquo;s talk about GANAK&lt;/p&gt;
+&lt;h3&gt; GANAK &lt;/h3&gt;
+***
+GANAK is a scalable probabilistic exact model counter that inherits the strength of a state-of-the-art exact model counter, sharpSAT, and is equipped with the following new algorithmic advances
+&lt;ul&gt;
+&lt;li&gt;Probabilistic component caching (PCC)&lt;/li&gt;
+&lt;li&gt;New variable branching heuristic (CSVSADS)&lt;/li&gt;
+&lt;li&gt;New phase selection heuristic (PC)&lt;/li&gt;
+&lt;li&gt;Independent support heuristic (IS)&lt;/li&gt;
+&lt;li&gt;Exponentially decaying randomness heuristic (EDR)&lt;/li&gt;
+&lt;li&gt;Learn and start over heuristic (LSO)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Detailed discussion about each of these heuristic can be found 
+&lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/Papers/ijcai19srsm.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt; Results &lt;/h3&gt;
+***
+&lt;p&gt;We evaluate the runtime performance of GANAK on $2031$ publicly available benchmarks arising from a wide range of applications of model counting. Our experiments demonstrate that GANAK performs best when all the heuristics describe in the previous section (except EDR) are enabled. GANAK outperforms state-of-the-art exact model counter, both in terms of PAR-2 score and the number of instances solved. Finally, in our experiments, the model count returned by GANAK was equal to the exact model count for all the benchmarks.&lt;/p&gt;
+&lt;p&gt;We are thankful to the 
+&lt;a href=&#34;https://www.nscc.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Supercomputing Center Singapore&lt;/a&gt; for providing us computational resources to run our experiments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Compilation meets Uniform Sampling</title>
+      <link>https://meelgroup.github.io/publication/lpar18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/lpar18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

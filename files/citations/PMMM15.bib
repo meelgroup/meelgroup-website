@@ -1,0 +1,8 @@
+@proceedings{PMMM15,
+author={Paul, Sri Raj and  Murthy, Karthik and  Meel, Kuldeep S. and  Mellor-Crummey, John},
+title={Distributed Phasers},
+year={2015},
+month={10},
+booktitle={Proceedings of Parallel Architecture and Compilation Techniques (PACT)},
+abstract={A phaser is an expressive synchronization construct that uni- fies collective and point-to-point coordination with dynamic task parallelism. Each task can participate in a phaser as a signaler, a waiter, or both. The participants in a phaser may change over time as dynamic tasks are added and deleted. In this poster, we present a highly concurrent and scalable design of phasers for a distributed memory environment that is suitable for use with asynchronous partitioned global address space programming models. Our design for a distributed phaser employs a pair of skip lists augmented with the ability to collect and propagate synchronization signals. To enable a high degree of concurrency, addition and deletion of participant tasks are performed in two phases: a "fast single-link-modify" step followed by multiple hand-overhand "lazy multi-link-modify" steps. We show that the cost of synchronization and structural operations on a distributed phaser scales logarithmically, even in the presence of concurrent structural modifications. To verify the correctness of our design for distributed phasers, we employ the SPIN model checker. To address this issue of state space explosion, we describe how we decompose the state space to separately verify correct handling for different kinds of messages, which enables complete model checking of our phaser design.},
+}

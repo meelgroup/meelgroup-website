@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhavishya | MeelGroup</title>
+    <link>https://meelgroup.github.io/author/bhavishya/</link>
+      <atom:link href="https://meelgroup.github.io/author/bhavishya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bhavishya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/author/bhavishya/avatar_hu4d2d50a26f26147f748ad478ecffd382_50472_270x270_fill_lanczos_center_2.png</url>
+      <title>Bhavishya</title>
+      <link>https://meelgroup.github.io/author/bhavishya/</link>
+    </image>
+    
+    <item>
+      <title>On the Sparsity of XORs in Approximate Model Counting</title>
+      <link>https://meelgroup.github.io/publication/sat20abm/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/sat20abm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

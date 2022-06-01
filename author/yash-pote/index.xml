@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yash Pote | MeelGroup</title>
+    <link>https://meelgroup.github.io/author/yash-pote/</link>
+      <atom:link href="https://meelgroup.github.io/author/yash-pote/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yash Pote</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>Yash Pote</title>
+      <link>https://meelgroup.github.io/author/yash-pote/</link>
+    </image>
+    
+    <item>
+      <title>Testing Probabilistic Circuits</title>
+      <link>https://meelgroup.github.io/publication/neurips21_teq/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/neurips21_teq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partition Function Estimation: A Quantitative Study</title>
+      <link>https://meelgroup.github.io/publication/ijcai21_partition/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/ijcai21_partition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Testing of Samplers</title>
+      <link>https://meelgroup.github.io/publication/neurips20_testing/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/neurips20_testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase Transition Behavior of Cardinality and XOR Constraints  </title>
+      <link>https://meelgroup.github.io/publication/ijcai19_cardxor/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/ijcai19_cardxor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffrey M. Dudek | MeelGroup</title>
+    <link>https://meelgroup.github.io/author/jeffrey-m.-dudek/</link>
+      <atom:link href="https://meelgroup.github.io/author/jeffrey-m.-dudek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeffrey M. Dudek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>Jeffrey M. Dudek</title>
+      <link>https://meelgroup.github.io/author/jeffrey-m.-dudek/</link>
+    </image>
+    
+    <item>
+      <title>Taming Discrete Integration via the Boon of Dimensionality</title>
+      <link>https://meelgroup.github.io/publication/neurips20_taming/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/neurips20_taming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

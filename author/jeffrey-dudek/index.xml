@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffrey Dudek | MeelGroup</title>
+    <link>https://meelgroup.github.io/author/jeffrey-dudek/</link>
+      <atom:link href="https://meelgroup.github.io/author/jeffrey-dudek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeffrey Dudek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>Jeffrey Dudek</title>
+      <link>https://meelgroup.github.io/author/jeffrey-dudek/</link>
+    </image>
+    
+    <item>
+      <title>The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas  </title>
+      <link>https://meelgroup.github.io/publication/ijcai17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/ijcai17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining the k-CNF and XOR Phase-Transitions </title>
+      <link>https://meelgroup.github.io/publication/ijcai16_cnfxor/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/ijcai16_cnfxor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

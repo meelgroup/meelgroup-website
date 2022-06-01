@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanjit A. Seshia | MeelGroup</title>
+    <link>https://meelgroup.github.io/author/sanjit-a.-seshia/</link>
+      <atom:link href="https://meelgroup.github.io/author/sanjit-a.-seshia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sanjit A. Seshia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>Sanjit A. Seshia</title>
+      <link>https://meelgroup.github.io/author/sanjit-a.-seshia/</link>
+    </image>
+    
+    <item>
+      <title>Constrained Sampling and Counting: Universal Hashing meets SAT Solving</title>
+      <link>https://meelgroup.github.io/publication/bnp16/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/bnp16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Parallel Scalable Uniform SAT Witness Generator</title>
+      <link>https://meelgroup.github.io/publication/tacas15/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/tacas15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution-Aware Sampling and Weighted Model Counting for SAT</title>
+      <link>https://meelgroup.github.io/publication/aaai14/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/aaai14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

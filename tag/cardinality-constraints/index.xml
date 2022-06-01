@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cardinality-constraints | MeelGroup</title>
+    <link>https://meelgroup.github.io/tag/cardinality-constraints/</link>
+      <atom:link href="https://meelgroup.github.io/tag/cardinality-constraints/index.xml" rel="self" type="application/rss+xml" />
+    <description>cardinality-constraints</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 10 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>cardinality-constraints</title>
+      <link>https://meelgroup.github.io/tag/cardinality-constraints/</link>
+    </image>
+    
+    <item>
+      <title>1-CARD-XOR</title>
+      <link>https://meelgroup.github.io/project/1cardxor/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/project/1cardxor/</guid>
+      <description>&lt;p&gt;The runtime performance of modern SAT solvers is deeply connected to the phase transition behavior of CNF formulas. While CNF solving has witnessed significant runtime improvement over the past two decades, the same does not hold for several other classes such as the conjunction of cardinality and XOR constraints, denoted as CARD-XOR formulas. The problem of determining satisfiability of CARDXOR formulas is a fundamental problem with wide variety of applications ranging from discrete integration in the field of artificial intelligence to maximum likelihood decoding in coding theory. The runtime behavior of random CARD-XOR formulas is unexplored in prior work. In this paper, we present the first rigorous empirical study to characterize the runtime behavior of 1-CARD-XOR formulas. We show empirical evidence of a surprising phase-transition that follows a non-linear tradeoff between CARD and XOR constraints.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

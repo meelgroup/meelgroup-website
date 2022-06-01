@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sampling-and-counting | MeelGroup</title>
+    <link>https://meelgroup.github.io/tag/sampling-and-counting/</link>
+      <atom:link href="https://meelgroup.github.io/tag/sampling-and-counting/index.xml" rel="self" type="application/rss+xml" />
+    <description>sampling-and-counting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>sampling-and-counting</title>
+      <link>https://meelgroup.github.io/tag/sampling-and-counting/</link>
+    </image>
+    
+    <item>
+      <title>ApproxMC</title>
+      <link>https://meelgroup.github.io/project/approxmc/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/project/approxmc/</guid>
+      <description>&lt;p&gt;ApproxMC is a hashing-based algorithm for approximate discrete integration over finite domains and provides ($\epsilon$,$\delta$) guarantees. This implementation handles the case when the function is implicitely defined by SAT formula. To the best of our knowledge, the current implementation has the best runtime performance among approximate counting algorithms. We are actively improving algorithm as well as implementation and would love to hear your feedback.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CrystalBall</title>
+      <link>https://meelgroup.github.io/project/crystalball/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/project/crystalball/</guid>
+      <description>&lt;p&gt;Boolean satisfiability is a fundamental problem in computerscience with a wide range of applications including planning, configurationmanagement, design and verification of software/hardware systems. Modern SAT solvers achieve scalability and ro-bustness with sophisticated heuristics that are challenging to understandand explain. We propose to view modern conflict-driven clause learning (CDCL) solvers as a composition of classifiers and regressors for different tasks such as branching, clause memory management, and restarting. The current version of CrystalBall focuses on deriving a classifier to keep or throw away a learned clause. In a departure from recent machine learning based techniques, CrystalBall employs supervised learning and uses extensive, multi-gigabyte data extracted from runs of a single SAT solver to perform predictive analytics. Read this 
+&lt;a href=&#34;https://www.msoos.org/2019/06/crystalball-sat-solving-data-gathering-and-machine-learning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UniGen</title>
+      <link>https://meelgroup.github.io/project/unigen/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/project/unigen/</guid>
+      <description>&lt;p&gt;UniGen is a hashing-based algorithm to generate uniform samples subject to given set of constraints. The primary application of UniGen is in random stimuli generation for hardware and software verification. The current version of the tool has been developed over the years and is parallelizable without losing theoretical guarantees.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bosphorus</title>
+      <link>https://meelgroup.github.io/project/bosphorus/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/project/bosphorus/</guid>
+      <description>&lt;p&gt;Algebraic Normal Form (ANF) and Conjunctive Normal Form (CNF) are commonly used to encode problems in Boolean algebra. ANFs are typically solved via Gröbner basis algorithms, often using more memory than is feasible; while CNFs are solved using SAT solvers, which cannot exploit the algebra of polynomials naturally. We propose a paradigm that bridges between ANF and CNF solving techniques: the techniques are applied in an iterative manner to learn facts to augment the original problems. Experiments on over 1,100 benchmarks arising from four different applications domains demonstrate that learnt facts can significantly improve runtime and enable more benchmarks to be solved.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIS</title>
+      <link>https://meelgroup.github.io/project/mis/</link>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/project/mis/</guid>
+      <description>&lt;p&gt;MIS computes minimal Independent Support for a given CNF formula. The implementation is based on MIS algorithm proposed in our CP&amp;rsquo;15 paper, which also won the Best Student Paper Award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SMTApproxMC</title>
+      <link>https://meelgroup.github.io/project/smtapproxmc/</link>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/project/smtapproxmc/</guid>
+      <description>&lt;p&gt;SMTApproxMC is an approximate model counter for Bitvector theory. Given a set of constraints and weight function over assignments, WeightGen outputs samples that satisfy constraints according to weight function.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WeightGen</title>
+      <link>https://meelgroup.github.io/project/weightgen/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/project/weightgen/</guid>
+      <description>&lt;p&gt;WeightGen is hashing-based approximate weighted sampling for weighted CNF formulas. Given a set of constraints and weight function over assignments, WeightGen outputs samples that satisfy constraints according to weight function.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WeightMC</title>
+      <link>https://meelgroup.github.io/project/weightmc/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/project/weightmc/</guid>
+      <description>&lt;p&gt;WeightMC is hashing-based algorithm for weighted counting (discrete integration) over Boolean domains. It takes a CNF formula and weight function as inputs and returns weighted count. In contrast to previous attempts to develop weighted counting that rely on use of Optimization oracles, WeightMC only uses feasibility oracle. A simple reworking of this algorithm was used by Belle et al to predicate delays in UK transportation network.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

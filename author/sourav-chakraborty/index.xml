@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sourav Chakraborty | MeelGroup</title>
+    <link>https://meelgroup.github.io/author/sourav-chakraborty/</link>
+      <atom:link href="https://meelgroup.github.io/author/sourav-chakraborty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sourav Chakraborty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>Sourav Chakraborty</title>
+      <link>https://meelgroup.github.io/author/sourav-chakraborty/</link>
+    </image>
+    
+    <item>
+      <title>On Quantitative Testing of Samplers</title>
+      <link>https://meelgroup.github.io/publication/cp22/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/cp22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Samplers is Easy: The Boon of Testers</title>
+      <link>https://meelgroup.github.io/publication/fmcad21/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/fmcad21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Size of Unions of Sets in Streaming Models</title>
+      <link>https://meelgroup.github.io/publication/pods21_union/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/pods21_union/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Testing of Samplers</title>
+      <link>https://meelgroup.github.io/publication/neurips20_testing/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/neurips20_testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On testing of Uniform Samplers </title>
+      <link>https://meelgroup.github.io/publication/aaai19_testing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/aaai19_testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

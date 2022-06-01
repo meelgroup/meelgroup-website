@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger Paredes | MeelGroup</title>
+    <link>https://meelgroup.github.io/author/roger-paredes/</link>
+      <atom:link href="https://meelgroup.github.io/author/roger-paredes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roger Paredes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meelgroup.github.io/images/icon_hu1dd832c4da814f17fe02e3737f0ae144_14882_512x512_fill_lanczos_center_2.png</url>
+      <title>Roger Paredes</title>
+      <link>https://meelgroup.github.io/author/roger-paredes/</link>
+    </image>
+    
+    <item>
+      <title>Network Reliability Estimation in Theory and Practice </title>
+      <link>https://meelgroup.github.io/publication/ress/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/ress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counting-Based Reliability Estimation for Power-Transmission Grids</title>
+      <link>https://meelgroup.github.io/publication/aaai17/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://meelgroup.github.io/publication/aaai17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
