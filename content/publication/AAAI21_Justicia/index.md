@@ -13,6 +13,7 @@ publication_types:
 - '1'
 selected: true
 title: 'Justicia A Stochastic SAT Approach to Formally Verify Fairness'
+url_code: https://github.com/meelgroup/justicia
 url_pdf: https://arxiv.org/pdf/2009.06516.pdf
 ---
 
