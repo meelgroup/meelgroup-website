@@ -17,7 +17,7 @@ selected: true
 title: 'On Quantitative Testing of Samplers'
 url_pdf: files/publications/cp22_shakuni.pdf
 #url_dataset: https://doi.org/10.5281/zenodo.5526835
-#url_code: https://github.com/meelgroup/linpb
+url_code: https://github.com/meelgroup/scalbarbarik
 # url_video: https://www.youtube.com/watch?v=vCc6jpOm04Y&feature=youtu.be
 ---
 
