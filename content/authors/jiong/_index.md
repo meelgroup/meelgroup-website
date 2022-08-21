@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jiong Yang
-homepage: https://github.com/AL-JiongYang
+homepage: https://al-jiongyang.github.io/
 
 # Username (this should match the folder name)
 authors:
