@@ -16,5 +16,6 @@ publication_types:
 selected: true
 title: 'INC: A Scalable Incremental Weighted Sampler'
 url_code: https://github.com/grab/inc-weighted-sampler
+url_pdf: https://www.comp.nus.edu.sg/~suwei/papers/inc.pdf
 ---
 
