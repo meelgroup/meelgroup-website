@@ -16,7 +16,7 @@ user_groups:
 superuser: false
 
 # Role/position
-# role: Professor of Artificial Intelligence
+# role: Intern
 
 # Organizations/Affiliations
 # organizations:
