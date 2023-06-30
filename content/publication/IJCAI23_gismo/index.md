@@ -23,5 +23,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Solving the Identifying Code Set Problem with Grouped Independent Support'
+url_code: https://github.com/meelgroup/gismo
 url_pdf: https://github.com/latower/latower.github.io/raw/master/files/papers/LatEtAl23.pdf
 ---
