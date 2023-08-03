@@ -10,6 +10,6 @@ publication_types:
 - '7'
 selected: true
 title: 'Constrained Counting and Sampling: Bridging the Gap between Theory and Practice '
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/Meel-PhDThesis.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/Meel-PhDThesis.pdf
 ---
 

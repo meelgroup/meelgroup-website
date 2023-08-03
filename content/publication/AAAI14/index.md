@@ -30,7 +30,7 @@ publication_types:
 selected: true
 title: Distribution-Aware Sampling and Weighted Model Counting for SAT
 url_code: https://bitbucket.org/kuldeepmeel/weightmc/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/AAAI14.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/AAAI14.pdf
 url_slides: files/slides/AAAI-Talk-July 31.pdf
 ---
 

@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "Meel Group"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Computer Science Department, School of Computing National University of Singapore"
+description = "Department of Computer Science, University of Toronto"
 
 ############################
 ## Site Features
@@ -81,34 +81,29 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "meel@comp.nus.edu.sg"
+email = "meel@cs.toronto.edu"
 phone = "+65-651 61422 "
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "15 Computing Dr", city = "", region = "Singapore", postcode = "117418", country = "Singapore", country_code = "65"}
+address = {street = "6 King's College Rd", city = "Toronto", region = "ON", postcode = "M5S 3G8", country = "Canada", country_code = "1"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "1.294412", longitude = "103.774096"}
+coordinates = {latitude = "43.659670", longitude = "-79.394620"}
 
 # Directions for visitors to locate you.
-directions = "COM2-03-41"
+directions = "398B, D.L. Pratt Building"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-# office_hours = "Please consult  [my calendar](https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg) before suggesting a meeting time."
 # office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-# appointment_url = "Computer Science Department, School of Computing National University of Singapore, http://www.comp.nus.edu.sg/"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "github", icon_pack = "fab", name = "Kuldeep Meel", link = "https://github.com/meelgroup"},
-  #{icon = "envelope", icon_pack = "fas", name = "Kuldeep Meel", link = "mailto:meel@comp.nus.edu.sg"},
   {icon = "google-scholar", icon_pack = "ai", name = "Kuldeep Meel", link = "https://scholar.google.com/citations?user=bvW5Hs8AAAAJ&hl=en"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]

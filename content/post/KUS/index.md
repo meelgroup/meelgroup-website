@@ -22,7 +22,7 @@ caption = ""
 preview = true
 
 +++
-This blogpost is based on our [paper](https://www.comp.nus.edu.sg/~meel/Papers/lpar18.pdf) that got published in the procedings of International Conference on Logic for Programming, Artificial Intelligence and Reasoning (LPAR), 2018. The code is available [here](https://github.com/meelgroup/KUS). The primary contribution of this work is marrying knowledge compilation with uniform sampling to design a new uniform sampler KUS. The main result is that KUS is able to solve more number of benchmarks than existing state-of-the-art uniform and almost-uniform samplers beating them by orders of magnitude in terms of runtime:
+This blogpost is based on our [paper](https://www.cs.toronto.edu/~meel/Papers/lpar18.pdf) that got published in the procedings of International Conference on Logic for Programming, Artificial Intelligence and Reasoning (LPAR), 2018. The code is available [here](https://github.com/meelgroup/KUS). The primary contribution of this work is marrying knowledge compilation with uniform sampling to design a new uniform sampler KUS. The main result is that KUS is able to solve more number of benchmarks than existing state-of-the-art uniform and almost-uniform samplers beating them by orders of magnitude in terms of runtime:
 ![alt text](cactus.png)
 
 <h3>Uniform Sampling</h3>

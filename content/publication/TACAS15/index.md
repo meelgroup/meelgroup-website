@@ -32,7 +32,7 @@ publication_types:
 selected: true
 title: On Parallel Scalable Uniform SAT Witness Generator
 url_code: https://bitbucket.org/kuldeepmeel/unigen/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/Tacas15.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/Tacas15.pdf
 url_slides: files/slides/Talk_TACAS.pdf
 ---
 

@@ -24,7 +24,7 @@ publication_types:
 - '1'
 selected: true
 title: 'Combining the k-CNF and XOR Phase-Transitions '
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/ijcai16-cnfxor.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/ijcai16-cnfxor.pdf
 url_slides: files/slides/ijcai16_presentation.pdf
 ---
 

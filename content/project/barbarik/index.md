@@ -17,7 +17,7 @@ links:
 - icon: file
   icon_pack: far
   name: AAAI 2019
-  url: https://www.comp.nus.edu.sg/~meel/Papers/aaai19-cm.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/aaai19-cm.pdf
 url_code: "https://github.com/meelgroup/barbarik"
 url_pdf: ""
 url_slides: ""

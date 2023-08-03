@@ -39,6 +39,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Automatic Data Layout Generation and Kernel Mapping for CPU+GPU Architectures '
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/CC2016.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/CC2016.pdf
 ---
 

@@ -16,7 +16,7 @@ links:
 - icon: file
   icon_pack: far
   name: AAAI 2016
-  url: https://www.comp.nus.edu.sg/~meel/Papers/AAAI16.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/AAAI16.pdf
 url_code: "https://bitbucket.org/kuldeepmeel/smtapproxmc"
 url_pdf: ""
 url_slides: ""

@@ -29,6 +29,6 @@ publication_types:
 - '1'
 selected: true
 title: Approximate Counting of Minimal Unsatisfiable Subsets
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/cav20-bm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/cav20-bm.pdf
 ---
 

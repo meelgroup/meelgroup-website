@@ -31,7 +31,7 @@ publication_types:
 selected: true
 title: 'On testing of Uniform Samplers '
 url_code: https://github.com/meelgroup/barbarik
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/aaai19-cm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/aaai19-cm.pdf
 url_slides: files/slides/AAAI19_testing.pdf
 ---
 

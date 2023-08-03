@@ -14,6 +14,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Constraint Optimization over Semirings'
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/aaai23-pmvb.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/aaai23-pmvb.pdf
 ---
 

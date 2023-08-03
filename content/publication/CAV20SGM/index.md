@@ -33,6 +33,6 @@ publication_types:
 - '1'
 selected: true
 title: Tinted, Detached, and Lazy CNF-XOR solving and its Applications to Counting and Sampling
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/cav20-sgm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/cav20-sgm.pdf
 ---
 

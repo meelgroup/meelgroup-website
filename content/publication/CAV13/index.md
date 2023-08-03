@@ -26,7 +26,7 @@ publication_types:
 selected: true
 title: A Scalable and Nearly Uniform Generator of SAT Witnesses
 url_code: https://bitbucket.org/kuldeepmeel/unigen/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/cav13.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/cav13.pdf
 url_slides: files/slides/Talk_generator.pdf
 ---
 

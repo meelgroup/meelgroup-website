@@ -22,7 +22,7 @@ publication_types:
 selected: true
 title: 'Balancing Scalability and Uniformity in SAT-Witness Generator '
 url_code: https://bitbucket.org/kuldeepmeel/unigen/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/DAC2014.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/DAC2014.pdf
 url_slides: files/slides/DAC-Talk-June 03.pdf
 ---
 

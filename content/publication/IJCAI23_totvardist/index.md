@@ -16,5 +16,5 @@ publication_types:
 - '1'
 selected: true
 title: 'On Approximating Total Variation Distance'
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/ijcai23-bggmpv.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/ijcai23-bggmpv.pdf
 ---

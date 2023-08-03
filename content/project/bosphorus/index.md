@@ -16,7 +16,7 @@ links:
 - icon: file
   icon_pack: far
   name: DATE 2019
-  url: https://www.comp.nus.edu.sg/~meel/Papers/date-cscm19.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/date-cscm19.pdf
 url_code: "https://github.com/meelgroup/bosphorus"
 url_pdf: ""
 url_slides: ""

@@ -34,7 +34,7 @@ selected: true
 title: Designing New Phase Selection Heuristics
 url_code: https://github.com/meelgroup/duriansat
 url_dataset: https://doi.org/10.5281/zenodo.3817476
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/sat20-sm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/sat20-sm.pdf
 url_preprint: https://arxiv.org/abs/2005.04850
 url_slides: files/slides/SAT20_arijit_LSIDS.pdf
 url_video: https://www.youtube.com/watch?v=t646RnONNHE

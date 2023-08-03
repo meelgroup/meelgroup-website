@@ -27,6 +27,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Assessing Heuristic Machine Learning Explanations with Model Counting  '
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/sat19nsmis.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/sat19nsmis.pdf
 ---
 

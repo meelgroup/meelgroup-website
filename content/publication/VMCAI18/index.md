@@ -29,7 +29,7 @@ publication_types:
 - '1'
 selected: true
 title: Scalable Approximation of Quantitative Information Flow in Programs
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/vmcai18.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/vmcai18.pdf
 url_slides: files/slides/presentation_vmcai18.pdf
 ---
 

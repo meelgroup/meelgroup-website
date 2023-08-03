@@ -27,7 +27,7 @@ publication_types:
 selected: true
 title: 'Constrained Sampling and Counting: Universal Hashing meets SAT Solving'
 url_code: https://bitbucket.org/kuldeepmeel/unigen/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/BNP16.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/BNP16.pdf
 url_slides: files/slides/BNP Talk.pdf
 ---
 

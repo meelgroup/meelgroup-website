@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Kuldeep S. Meel
-homepage: http://www.comp.nus.edu.sg/~meel/
+homepage: https://www.cs.toronto.edu/~meel/
 
 # Username (this should match the folder name)
 authors:

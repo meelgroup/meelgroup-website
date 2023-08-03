@@ -13,6 +13,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Distinct Elements in Streams: An Algorithm for the (Text) Book'
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/esa22.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/esa22.pdf
 ---
 

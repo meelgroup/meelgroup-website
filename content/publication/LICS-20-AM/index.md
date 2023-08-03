@@ -40,6 +40,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Sparse Hashing for Scalable Approximate Model Counting: Theory and Practice'
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/lics20-ma.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/lics20-ma.pdf
 ---
 

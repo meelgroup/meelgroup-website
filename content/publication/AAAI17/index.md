@@ -28,6 +28,6 @@ publication_types:
 - '1'
 selected: true
 title: Counting-Based Reliability Estimation for Power-Transmission Grids
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/AAAI17.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/AAAI17.pdf
 ---
 

@@ -33,7 +33,7 @@ publication_types:
 selected: true
 title: 'Manthan: A Data-Driven Approach for Boolean Function Synthesis'
 url_code: https://github.com/meelgroup/manthan
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/cav20-grm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/cav20-grm.pdf
 url_slides: files/slides/CAV20_GSM_manthan.pdf
 url_video: https://www.youtube.com/watch?v=vGZtJNC8HbY
 ---

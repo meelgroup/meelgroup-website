@@ -16,7 +16,7 @@ links:
 - icon: file
   icon_pack: far
   name: LPAR 2018
-  url: https://www.comp.nus.edu.sg/~meel/Papers/lpar18.pdf
+  url: https://www.cs.toronto.edu/~meel//Papers/lpar18.pdf
 url_code: "https://github.com/meelgroup/KUS"
 url_pdf: ""
 url_slides: ""

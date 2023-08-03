@@ -17,7 +17,7 @@ links:
 - icon: file
   icon_pack: far
   name: CAV 2020
-  url: https://www.comp.nus.edu.sg/~meel/Papers/cav20-grm.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/cav20-grm.pdf
 url_code: "https://github.com/meelgroup/manthan"
 url_pdf: ""
 url_slides: ""
