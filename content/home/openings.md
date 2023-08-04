@@ -32,8 +32,7 @@ weight = 80
 <li style=text-align:justify> If you are a student at the University of Toronto, feel free to drop by 
 Kuldeep's office or schedule a meeting with him. (See <a href="https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg" target="_top">his calendar</a>). </li>
 
-<li style=text-align:justify> Post-doc position:  We have multiple post-doc positions available. Read  <a href="files/postdoc.html">advertisement</a> for more details about the positions and application procedure. 
-
+<li style=text-align:justify>Post-doc position: We have multiple post-doc positions available. Interested candidates should email <a href="mailto:meel+postdoc@cs.toronto.edu">meel+postdoc@cs.toronto.edu</a> with a PDF of CV, which must contain information of at least two references. Furthermore, a short write up indicating your interest in a particular theme is required. The initial term of appointment will be one year extensible for another year, upon review of satisfactory performance. The selected candidates will be offered competitive salaries and benefits including generous travel funding to top-tier conferences.
 
 <li style=text-align:justify> Internship (>=6 months): We strongly prefer candidates who want to use their internship as a way to apply for PhD programs (at UofT or elsewhere; of course, if you are good, we would like you to remain at UofT). Email <a href= "mailto:meel+interns@cs.toronto.edu">meel+interns@cs.toronto.edu</a> with a PDF of your CV. Make sure your subject contains the word "olleh" and you should include reviews of two of the papers published in the previous 3 years at AAAI/IJCAI/CP/SAT/CAV conferences. The reviews should be in the body of the email (and not as pdf). Furthermore, the body of your email should contain the phrase: "Here are two papers that I have reviewed". You should also provide reason for your choice of the papers. 
 </li>
