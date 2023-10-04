@@ -34,6 +34,6 @@ publication_types:
 selected: true
 title: Knowledge Compilation meets Uniform Sampling
 url_code: https://github.com/meelgroup/KUS
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/lpar18.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/lpar18.pdf
 ---
 

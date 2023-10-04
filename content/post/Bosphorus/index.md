@@ -22,7 +22,7 @@ caption = ""
 preview = true
 
 +++
-We are happy to release our ANF and CNF simplifier and converter called <a href="https://github.com/meelgroup/bosphorus">Bosphorus</a>. It has helped us break multiple real-world ciphers. It has been re-released with major work by Davin Choo & Kian Ming A. Chai from <a href="https://www.dso.org.sg/">DSO National Laboratories</a> Singapore and Mate Soos & Kuldeep Meel from NUS. The <a href="https://www.comp.nus.edu.sg/~meel/Papers/date-cscm19.pdf">paper</a> will be published at the <a href="https://www.date-conference.com/">DATE 2019</a> conference.
+We are happy to release our ANF and CNF simplifier and converter called <a href="https://github.com/meelgroup/bosphorus">Bosphorus</a>. It has helped us break multiple real-world ciphers. It has been re-released with major work by Davin Choo & Kian Ming A. Chai from <a href="https://www.dso.org.sg/">DSO National Laboratories</a> Singapore and Mate Soos & Kuldeep Meel from NUS. The <a href="https://www.cs.toronto.edu/~meel/Papers/date-cscm19.pdf">paper</a> will be published at the <a href="https://www.date-conference.com/">DATE 2019</a> conference.
 
 
 
@@ -94,6 +94,6 @@ The implemented system contains a pretty advanced ANF-to-CNF converter, using Ka
 
 
 
-One of the biggest capabilities of <a href="https://github.com/meelgroup/bosphorus">Bosphorus</a> is that it can simplify/preprocess ANF systems so more heavyweight ANF solvers can have a go at them. Its ANF simplification is so powerful, it can even help to solve some CNFs by lifting them to ANF, running the ANF simplifiers, converting it back to CNF, and solving that(!). We believe our initial results, published in the <a href="https://www.comp.nus.edu.sg/~meel/Papers/date-cscm19.pdf">paper</a>, are very encouraging. Further, the system is in a ready-to-use state: there is a <a href="https://cloud.docker.com/repository/docker/msoos/bosphorus">Docker image</a>, the source should build without a hitch, and there is even a precompiled Linux <a href="https://github.com/meelgroup/bosphorus/releases/">binary</a>. We would love to hear about your experience using it.
+One of the biggest capabilities of <a href="https://github.com/meelgroup/bosphorus">Bosphorus</a> is that it can simplify/preprocess ANF systems so more heavyweight ANF solvers can have a go at them. Its ANF simplification is so powerful, it can even help to solve some CNFs by lifting them to ANF, running the ANF simplifiers, converting it back to CNF, and solving that(!). We believe our initial results, published in the <a href="https://www.cs.toronto.edu/~meel/Papers/date-cscm19.pdf">paper</a>, are very encouraging. Further, the system is in a ready-to-use state: there is a <a href="https://cloud.docker.com/repository/docker/msoos/bosphorus">Docker image</a>, the source should build without a hitch, and there is even a precompiled Linux <a href="https://github.com/meelgroup/bosphorus/releases/">binary</a>. We would love to hear about your experience using it.
 
 <i>Thanks to Karsten Nohl from <a href="https://srlabs.de/">Security Research Labs.</a></i> This post has been adapted from <a href="https://www.msoos.org/2019/01/bosphorus-an-anf-and-cnf-simplifier-and-converter/">Mate's post</a> on Bosphorus.

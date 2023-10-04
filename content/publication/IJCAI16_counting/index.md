@@ -24,7 +24,7 @@ selected: true
 title: 'Algorithmic Improvements in Approximate Counting for Probabilistic Inference:
   From Linear to Logarithmic SAT Calls  '
 url_code: https://bitbucket.org/kuldeepmeel/approxmc/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/ijcai16_counting.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/ijcai16_counting.pdf
 url_slides: files/slides/IJCAI_myv.pdf
 ---
 

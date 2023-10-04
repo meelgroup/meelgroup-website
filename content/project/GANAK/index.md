@@ -16,7 +16,7 @@ links:
 - icon: file
   icon_pack: far
   name: IJCAI 2019
-  url: https://www.comp.nus.edu.sg/~meel/Papers/ijcai19srsm.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/ijcai19srsm.pdf
 url_code: "https://github.com/meelgroup/ganak"
 url_pdf: ""
 url_slides: ""

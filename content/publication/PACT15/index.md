@@ -36,6 +36,6 @@ publication_types:
 selected: true
 title: Design and Verification of Distributed Phasers
 url_code: http://srp7.web.rice.edu/phaser/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/PACT15.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/PACT15.pdf
 ---
 

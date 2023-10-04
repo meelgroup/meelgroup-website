@@ -36,7 +36,7 @@ publication_types:
 selected: true
 title: 'CrystalBall: Gazing in the Black Box of SAT Solving '
 url_code: https://github.com/msoos/cryptominisat/tree/crystalball
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/sat19skm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/sat19skm.pdf
 url_slides: files/slides/Meel-CrystalBall-slides.pdf
 ---
 

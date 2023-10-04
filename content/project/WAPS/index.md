@@ -16,11 +16,11 @@ links:
 - icon: file
   icon_pack: far
   name: LPAR 2018
-  url: https://www.comp.nus.edu.sg/~meel/Papers/lpar18.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/lpar18.pdf
 - icon: file
   icon_pack: far
   name: TACAS 2019
-  url: https://www.comp.nus.edu.sg/~meel/Papers/tacas19.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/tacas19.pdf
 url_code: "https://github.com/meelgroup/waps"
 url_pdf: ""
 url_slides: ""

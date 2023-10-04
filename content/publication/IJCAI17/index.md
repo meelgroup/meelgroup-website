@@ -24,7 +24,7 @@ publication_types:
 - '1'
 selected: true
 title: 'The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas  '
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/ijcai17.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/ijcai17.pdf
 url_slides: files/slides/ijcai16_presentation.pdf
 ---
 

@@ -34,7 +34,7 @@ publication_types:
 selected: true
 title: 'MLIC: A MaxSAT-Based framework for learning interpretable classification rules'
 url_code: https://github.com/meelgroup/MLIC
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/CP2018mm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/CP2018mm.pdf
 url_slides: files/slides/CP-slides.pdf
 ---
 

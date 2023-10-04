@@ -11,5 +11,5 @@ publication_types:
 - '1'
 selected: true
 title: 'Counting, Sampling, and Synthesis: The Quest for Scalability'
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/ijcai22.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/ijcai22.pdf
 ---

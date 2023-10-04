@@ -28,7 +28,7 @@ publication_types:
 - '1'
 selected: true
 title: On the Hardness of Probabilistic Inference Relaxations
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/aaai19-cmv.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/aaai19-cmv.pdf
 url_slides: files/slides/AAAI19_hardness.pdf
 ---
 

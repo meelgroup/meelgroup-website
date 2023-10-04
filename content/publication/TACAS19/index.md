@@ -28,7 +28,7 @@ publication_types:
 selected: true
 title: 'WAPS: Weighted and Projected Sampling '
 url_code: https://github.com/meelgroup/waps
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/tacas19.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/tacas19.pdf
 url_slides: files/slides/TACAS19.pdf
 ---
 

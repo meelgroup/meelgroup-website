@@ -31,6 +31,6 @@ publication_types:
 selected: true
 title: 'ApproxASP – A Scalable Approximate Answer Set Counter'
 url_code: https://github.com/meelgroup/approxasp2
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/aaai22-keskhm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/aaai22-keskhm.pdf
 ---
 

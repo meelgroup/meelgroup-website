@@ -15,6 +15,6 @@ publication_types:
 - '1'
 selected: true
 title: 'A Scalable t-wise Coverage Estimator'
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/icse22.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/icse22.pdf
 ---
 

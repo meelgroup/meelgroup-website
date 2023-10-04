@@ -38,6 +38,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Dual Hashing-based Algorithms for Discrete Integration  '
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/cp19-dm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/cp19-dm.pdf
 ---
 

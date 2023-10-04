@@ -14,7 +14,7 @@ publication_types:
 selected: true
 title: 'Leveraging GPUs for Effective Clause Sharing in Parallel SAT Solving'
 #url_code: https://github.com/meelgroup/ganak
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/sat21-psm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/sat21-psm.pdf
 #url_slides: files/slides/ganak_ijcai_pres.pdf
 ---
 

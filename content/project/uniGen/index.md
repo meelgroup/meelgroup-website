@@ -16,15 +16,15 @@ links:
 - icon: file
   icon_pack: far
   name: TACAS 2015
-  url: https://www.comp.nus.edu.sg/~meel/Papers/Tacas15.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/Tacas15.pdf
 - icon: file
   icon_pack: far
   name: DAC 2014
-  url: https://www.comp.nus.edu.sg/~meel/Papers/DAC2014.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/DAC2014.pdf
 - icon: file
   icon_pack: far
   name: CAV 2013
-  url: https://www.comp.nus.edu.sg/~meel/Papers/cav13.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/cav13.pdf
 url_code: "https://bitbucket.org/kuldeepmeel/unigen"
 url_pdf: ""
 url_slides: ""

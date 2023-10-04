@@ -31,7 +31,7 @@ publication_types:
 selected: true
 title: 'A Scalable Approximate Model Counter '
 url_code: https://bitbucket.org/kuldeepmeel/approxmc/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/CP2013.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/CP2013.pdf
 url_slides: files/slides/Talk_scalable.pdf
 ---
 

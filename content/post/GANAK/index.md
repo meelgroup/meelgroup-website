@@ -22,7 +22,7 @@ caption = ""
 preview = true
 
 +++
-This blogpost talks about our tool [GANAK](https://github.com/meelgroup/ganak) that inherits current advancements in SAT solving and model counting, improves upon them and contributes new ideas, thereby outperforming state-of-the-art model counters. The source code of GANAK is available [here](https://github.com/meelgroup/ganak) and the paper is available [here](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19srsm.pdf). The main result is that we can solve a lot more problems than before: ![alt text](cactus.png)
+This blogpost talks about our tool [GANAK](https://github.com/meelgroup/ganak) that inherits current advancements in SAT solving and model counting, improves upon them and contributes new ideas, thereby outperforming state-of-the-art model counters. The source code of GANAK is available [here](https://github.com/meelgroup/ganak) and the paper is available [here](https://www.cs.toronto.edu/~meel/Papers/ijcai19srsm.pdf). The main result is that we can solve a lot more problems than before: ![alt text](cactus.png)
 
 
 
@@ -54,7 +54,7 @@ GANAK is a scalable probabilistic exact model counter that inherits the strength
 * Exponentially decaying randomness heuristic (EDR)
 * Learn and start over heuristic (LSO)
 
-Detailed discussion about each of these heuristic can be found [here](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19srsm.pdf)
+Detailed discussion about each of these heuristic can be found [here](https://www.cs.toronto.edu/~meel/Papers/ijcai19srsm.pdf)
 
 <h3> Results </h3>
 ***

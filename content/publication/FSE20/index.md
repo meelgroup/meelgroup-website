@@ -13,6 +13,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Baital: An Adaptive Weighted Sampling Approach for Improved t-wise Coverage'
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/fse20blm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/fse20blm.pdf
 ---
 

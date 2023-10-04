@@ -11,6 +11,6 @@ publication_types:
 - '1'
 selected: true
 title: 'On Almost-Uniform Generation of SAT Solutions: The power of 3-wise independent hashing'
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/lics22.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/lics22.pdf
 ---
 

@@ -35,7 +35,7 @@ selected: true
 title: 'BIRD: Engineering an Efficient CNF-XOR SAT Solver and its Applications to
   Approximate Model Counting'
 url_code: https://github.com/meelgroup/approxmc
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/aaai19-sm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/aaai19-sm.pdf
 url_slides: files/slides/AAAI19_BIRD.pdf
 ---
 

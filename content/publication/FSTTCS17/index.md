@@ -31,7 +31,7 @@ publication_types:
 - '1'
 selected: true
 title: 'On Hashing-Based Approaches to Approximate DNF-Counting '
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/fsttcs17.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/fsttcs17.pdf
 url_slides: files/slides/FSTTCS2017_MSV_hashing.pdf
 ---
 

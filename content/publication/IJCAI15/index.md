@@ -26,7 +26,7 @@ publication_types:
 selected: true
 title: 'From Weighted to Unweighted Model Counting '
 url_code: https://bitbucket.org/kuldeepmeel/weightcount/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/ijcai15.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/ijcai15.pdf
 url_slides: files/slides/Talk.pdf
 ---
 

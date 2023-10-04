@@ -20,6 +20,6 @@ publication_types:
 - '1'
 selected: true
 title: Induction Models on N
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/lpar20.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/lpar20.pdf
 ---
 

@@ -34,7 +34,7 @@ selected: true
 title: 'On Computing Minimal Independent Support and Its Applications to Sampling
   and Counting '
 url_code: https://bitbucket.org/kuldeepmeel/mis/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/constraints16.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/constraints16.pdf
 url_slides: files/slides/KSMCP15Talk.pdf
 ---
 

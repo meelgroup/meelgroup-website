@@ -37,6 +37,6 @@ publication_types:
 - '1'
 selected: true
 title: A Study of Symmetry Breaking Predicates and Model Counting
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/tacas20.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/tacas20.pdf
 ---
 

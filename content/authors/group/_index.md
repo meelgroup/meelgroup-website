@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Science Department, School of Computing 
+role: Department of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: National University of Singapore
+- name: University of Toronto
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome to the Meel Group's web page. We are situated at National University of Singapore.
+bio: Welcome to the Meel Group's web page. We are situated at the University of Toronto.
 
 interests:
 - Artificial Intelligence

@@ -39,7 +39,7 @@ publication_types:
 selected: true
 title: On the Sparsity of XORs in Approximate Model Counting
 url_dataset: http://doi.org/10.5281/zenodo.3792748
-url_pdf: https://www.comp.nus.edu.sg/~meel/Papers/sat20-adm.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/sat20-adm.pdf
 url_slides: files/slides/SAT20_sparseXOR.pdf
 url_video: https://www.youtube.com/watch?v=R6V69h4hLCQ
 ---

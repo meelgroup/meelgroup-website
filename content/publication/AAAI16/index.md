@@ -25,7 +25,7 @@ publication_types:
 selected: true
 title: 'Approximate Probabilistic Inference via Word-Level Counting '
 url_code: https://bitbucket.org/kuldeepmeel/smtapproxmc/src/master/
-url_pdf: http://www.comp.nus.edu.sg/~meel/Papers/AAAI16.pdf
+url_pdf: https://www.cs.toronto.edu/~meel/Papers/AAAI16.pdf
 url_slides: files/slides/AAAIv2.pdf
 ---
 

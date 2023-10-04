@@ -29,25 +29,23 @@ weight = 80
 
 <h2> Application Procedure: </h2>
 
-<li style=text-align:justify> If you are a student at NUS, feel free to drop by 
+<li style=text-align:justify> If you are a student at the University of Toronto, feel free to drop by 
 Kuldeep's office or schedule a meeting with him. (See <a href="https://calendar.google.com/calendar/embed?src=meel%40comp.nus.edu.sg" target="_top">his calendar</a>). </li>
 
-<li style=text-align:justify> Post-doc position:  We have multiple post-doc positions available. Read  <a href="files/postdoc.html">advertisement</a> for more details about the positions and application procedure. 
+<li style=text-align:justify>Post-doc position: We have multiple post-doc positions available. Interested candidates should email <a href="mailto:meel+postdoc@cs.toronto.edu">meel+postdoc@cs.toronto.edu</a> with a PDF of CV, which must contain information of at least two references. Furthermore, a short write up indicating your interest in a particular theme is required. The initial term of appointment will be one year extensible for another year, upon review of satisfactory performance. The selected candidates will be offered competitive salaries and benefits including generous travel funding to top-tier conferences.
 
-
-<li style=text-align:justify> Internship (>=6 months): We strongly prefer candidates who want to use their internship as a way to apply for PhD programs (@NUS or elsewhere; of course, if you are good, we would like you to remain at NUS). Email <a href= "mailto:meel+interns@comp.nus.edu.sg">meel+interns@comp.nus.edu.sg</a> with a PDF of your CV. Make sure your subject contains the word "olleh" and you should include reviews of two of the papers published in the previous 3 years at AAAI/IJCAI/CP/SAT/CAV conferences. The reviews should be in the body of the email (and not as pdf). Furthermore, the body of your email should contain the phrase: "Here are two papers that I have reviewed". You should also provide reason for your choice of the papers. 
+<li style=text-align:justify> Internship (>=6 months): We strongly prefer candidates who want to use their internship as a way to apply for PhD programs (at UofT or elsewhere; of course, if you are good, we would like you to remain at UofT). Email <a href= "mailto:meel+interns@cs.toronto.edu">meel+interns@cs.toronto.edu</a> with a PDF of your CV. Make sure your subject contains the word "olleh" and you should include reviews of two of the papers published in the previous 3 years at AAAI/IJCAI/CP/SAT/CAV conferences. The reviews should be in the body of the email (and not as pdf). Furthermore, the body of your email should contain the phrase: "Here are two papers that I have reviewed". You should also provide reason for your choice of the papers. 
 </li>
 
 <li style=text-align:justify> Short term internship (=3 months): We may offer short term internship to exceptional undergraduates. Same process as above. </li>
  
-<li style=text-align:justify> PhD positions: Admissions to School of Computing@NUS are handled via a central admission procedure: You can either apply via Department of Computer Science or the Institute of Data Science. </li>
+<li style=text-align:justify> PhD positions: Admissions to the Department of Computer Science at UofT are handled via a central admission procedure.</li>
 </ul>
 
-<h3> NUS and Singapore </h3>
+<h3> UofT and Toronto </h3>
 <p style=text-align:justify>
-NUS is a world-class university that provides an outstanding and 
-supportive research environment. Its School of Computing is highly 
+UofT is a world-class university that provides an outstanding and 
+supportive research environment. Its Department of Computer Science is highly 
 ranked (within the top 15) among the computer science departments in the 
-world. Singapore is a vibrant, well-connected city with low taxes and 
-research hub in Asia.
+world. Toronto is a vibrant, well-connected city and a research hub in North America.
 </p>

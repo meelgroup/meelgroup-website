@@ -16,15 +16,15 @@ links:
 - icon: file
   icon_pack: far
   name: IJCAI 2016
-  url: https://www.comp.nus.edu.sg/~meel/Papers/ijcai16_counting.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/ijcai16_counting.pdf
 - icon: file
   icon_pack: far
   name: Constraints 2016
-  url: https://www.comp.nus.edu.sg/~meel/Papers/constraints16.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/constraints16.pdf
 - icon: file
   icon_pack: far
   name: CP 2013
-  url: https://www.comp.nus.edu.sg/~meel/Papers/CP2013.pdf
+  url: https://www.cs.toronto.edu/~meel/Papers/CP2013.pdf
 url_code: "https://github.com/meelgroup/approxmc"
 url_pdf: ""
 url_slides: ""
