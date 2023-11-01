@@ -14,5 +14,6 @@ selected: true
 title: 'Generating Random Instances of Weighted Model Counting: An Empirical Analysis with Varying Primal Treewidth'
 url_code: https://github.com/dilkas/cpaior23-d
 url_pdf: files/publications/cpaior23_wmc.pdf
+url_slides: files/slides/cpaior23-d.pdf
 ---
 

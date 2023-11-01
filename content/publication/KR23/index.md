@@ -14,4 +14,5 @@ selected: true
 title: 'Synthesising Recursive Functions for First-Order Model Counting: Challenges, Progress, and Conjectures'
 url_pdf: files/publications/kr23_fomc.pdf
 url_code: https://github.com/dilkas/kr23-db
+url_slides: files/slides/kr23-db.pdf
 ---
