@@ -15,4 +15,5 @@ publication_types:
 - '1'
 selected: true
 title: 'Exact ASP Counting with Compact Encodings'
+url_pdf: 'https://arxiv.org/pdf/2312.11936v1.pdf'
 ---

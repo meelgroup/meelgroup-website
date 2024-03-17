@@ -16,5 +16,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Conjunctive Queries on Probabilistic Graphs: The Limits of Approximability'
+url_pdf: 'https://www.comp.nus.edu.sg/~tvanbr/papers/icdt24.pdf'
 ---
 

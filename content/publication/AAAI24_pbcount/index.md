@@ -17,4 +17,5 @@ publication_types:
 - '1'
 selected: true
 title: 'Engineering an Exact Pseudo-Boolean Model Counter'
+url_pdf: 'https://arxiv.org/pdf/2312.12341.pdf'
 ---
