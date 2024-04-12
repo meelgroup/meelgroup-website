@@ -8,7 +8,7 @@ In this work, we propose the first exact Pseudo-Boolean model counter, PBCount, 
 authors:
 - Suwei Yang
 - Kuldeep S. Meel
-date: 2023-12-21 00:00:00
+date: 2024-02-21 00:00:00
 highlight: true
 image_preview: ''
 math: true
