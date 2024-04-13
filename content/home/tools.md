@@ -98,3 +98,4 @@ subtitle = "<br>"
 |[Manthan](https://github.com/meelgroup/manthan)        | QBF                    | Skolem Function Synthesizer			| [Source](https://github.com/meelgroup/manthan)		| Synthesize Skolem function given a specification |
 |[Barbarik](https://github.com/meelgroup/barbarik)      | CNF Sampler            | Sampler Tester          			| [Source](https://github.com/meelgroup/barbarik)		| Supports weighted sampler testing |
 |[Teq](https://github.com/meelgroup/teq)                | NNF                    | Probabilistic Circuit Closeness Tester       | [Source](https://github.com/meelgroup/teq)			| Tests whether two Probabilistic Circuits (in NNF) are close |
+|[Cubeprobe](https://github.com/meelgroup/cubeprobe)    | CNF Sampler            | Sampler Tester          			| [Source](https://github.com/meelgroup/cubeprobe)		| Self reducible sampler tester |
