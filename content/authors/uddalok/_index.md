@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Uddalok Sarkar
-homepage: https://github.com/uddaloksarkar
+homepage: https://uddaloksarkar.github.io/
 
 # Username (this should match the folder name)
 authors:
