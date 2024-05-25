@@ -1,0 +1,17 @@
+---
+abstract: "Claims about the interpretability of decision trees can be traced back to the origins of machine learning (ML). Indeed, given some input consistent with a decision tree's path, the explanation for the resulting prediction consists of the features in that path. Moreover, a growing number of works propose the use of decision trees, and of other so-called interpretable models, as a possible solution for deploying ML models in high-risk applications. This paper overviews recent theoretical and practical results which demonstrate that for most decision trees, tree paths exhibit so-called explanation redundancy, in that logically sound explanations can often be significantly more succinct than what the features in the path dictates. More importantly, such decision tree explanations can be computed in polynomial-time, and so can be produced with essentially no effort other than traversing the decision tree. The experimental results, obtained on a large range of publicly available decision trees, support the paper's claims."
+
+authors:
+- Yacine Izza
+- Alexey Ignatiev
+- Joao Marques-Silva
+date: 2023-05-01 00:00:00
+highlight: true
+image_preview: ''
+math: true
+publication: In *Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)*
+publication_types:
+- '1'
+selected: true
+title: 'On Tackling Explanation Redundancy in Decision Trees'
+---
