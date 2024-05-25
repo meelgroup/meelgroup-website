@@ -5,7 +5,7 @@ authors:
 - Sutanu Gayen
 - Kuldeep S. Meel
 - Dimitrios Myrisiotis
-- Pavan A.
+- A. Pavan
 - N. V. Vinodchandran
 date: 2023-07-01 00:00:00
 highlight: true
