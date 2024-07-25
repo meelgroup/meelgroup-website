@@ -1,6 +1,6 @@
 ---
-Formal abductive explanations offer crucial guarantees of rigor and so find application in high-stakes uses of machine learning (ML). One drawback of abductive explanations is explanation size, justified by the cognitive limits of human decision-makers. Probabilistic abductive explanations (PAXps) address this limitation, but their theoretical and practical complexity makes their exact computation most often unrealistic. This paper proposes novel efficient algorithms for the computation of locally-minimal PXAps, which offer high-quality approximations of PXAps in practice. The experimental results demonstrate the practical efficiency of the proposed algorithms.
-"
+abstract: Formal abductive explanations offer crucial guarantees of rigor and so find application in high-stakes uses of machine learning (ML). One drawback of abductive explanations is explanation size, justified by the cognitive limits of human decision-makers. Probabilistic abductive explanations (PAXps) address this limitation, but their theoretical and practical complexity makes their exact computation most often unrealistic. This paper proposes novel efficient algorithms for the computation of locally-minimal PXAps, which offer high-quality approximations of PXAps in practice. The experimental results demonstrate the practical efficiency of the proposed algorithms.
+
 
 authors:
 - Yacine Izza,
@@ -14,6 +14,6 @@ publication: In *Proceedings of ECAI -  European Conference on Artificial Intell
 publication_types:
 - '1'
 selected: true
-title: 'Locally-Minimal Probabilistic Explanations'
-url_pdf: 'https://arxiv.org/pdf/2312.11831'
+title: Locally-Minimal Probabilistic Explanations
+url_pdf: https://arxiv.org/pdf/2312.11831
 ---
