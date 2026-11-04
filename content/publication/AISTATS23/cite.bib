@@ -1,8 +1,40 @@
-@inproceedings{banerjee2023testing,
-  title={Testing of Horn Samplers},
-  author={Banerjee, Ansuman and Chakraborty, Shayak and Chakraborty, Sourav and Meel, Kuldeep S and Sarkar, Uddalok and Sen, Sayantan},
-  booktitle={International Conference on Artificial Intelligence and Statistics},
-  pages={1301--1330},
-  year={2023},
-  organization={PMLR}
+@inproceedings{BCCMSS23,
+ abstract = {
+Sampling over combinatorial spaces is a fundamental problem in artificial
+intelligence with a wide variety of applications. Since state-of-the-art
+techniques heavily rely on heuristics whose rigorous analysis remains beyond
+the reach of current theoretical tools, the past few years have witnessed
+interest in the design of techniques to test the quality of samplers. The
+current state-of-the-art techniques, $\mathsf{Barbarik}$ and
+$\mathsf{Barbarik2}$, focuses on the cases where combinatorial spaces are
+encoded as Conjunctive Normal Form (CNF) formulas. While CNF is a
+general-purpose form, often techniques rely on exploiting specific
+representations to achieve speedup. Of particular interest are Horn clauses,
+which form the basis of the logic programming tools in AI. In this context,
+a natural question is whether it is possible to design a tester that can
+determine the correctness of a given Horn sampler. The primary contribution
+of this paper is an affirmative answer to the above question. We design the
+first tester, $\mathsf{Flash}$, which tests the correctness of a given Horn
+sampler: given a specific distribution $\mathcal{I}$ and parameters $\eta$,
+$\varepsilon$, and $\delta$, the tester $\mathsf{Flash}$ correctly (with
+probability at least $ 1-\delta$) distinguishes whether the underlying
+distribution of the Horn-sampler is ``$\varepsilon$-close'' to $\mathcal{I}$
+or ``$\eta$-far'' from $\mathcal{I}$ by sampling only
+$\widetilde{\mathcal{O}}(\mathsf{tilt}^3/(\eta - \varepsilon)^4)$ samples
+from the Horn-sampler, where the $\mathsf{tilt}$ is the ratio of the maximum
+and the minimum (non-zero) probability masses of $\mathcal{I}$. We also
+provide a prototype implementation of $\mathsf{Flash}$ and test three
+state-of-the-art samplers on a set of benchmarks.
+},
+ author = {
+Banerjee, Ansuman and Chakraborty,
+Shayak, and Chakraborty, Sourav and Meel, Kuldeep S. and Sarkar, Uddalok and
+Sen, Sayantan
+},
+ booktitle = {Proceedings of International Conference on Artificial Intelligence and Statistics (AISTATS)},
+ month = {April},
+ publication_type = {conference},
+ title = {On Testing of Horn Samplers},
+ url = {../Papers/aistats23.pdf},
+ year = {2023}
 }

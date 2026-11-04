@@ -1,0 +1,41 @@
+@inproceedings{tysmm24,
+ abstract = {
+Approximate model counting is the task of approximating
+the number of solutions to an input Boolean formula. The state-of-
+the-art approximate model counter for formulas in conjunctive normal
+form (CNF), ApproxMC, provides a scalable means of obtaining model
+counts with probably approximately correct (PAC)-style guarantees. Nev-
+ertheless, the validity of ApproxMC's approximation relies on a careful
+theoretical analysis of its randomized algorithm and the correctness of
+its highly optimized implementation, especially the latter's stateful inter-
+actions with an incremental CNF satisfiability solver capable of natively
+handling parity (XOR) constraints.
+
+We present the first certification framework for approximate model
+counting with formally verified guarantees on the quality of its out-
+put approximation. Our approach combines: (i) a static, once-off, for-
+mal proof of the algorithm's PAC guarantee in the Isabelle/HOL proof
+assistant; and (ii) dynamic, per-run, verification of ApproxMC's calls to
+an external CNF-XOR solver using proof certificates. We detail our gen-
+eral approach to establish a rigorous connection between these two parts
+of the verification, including our blueprint for turning the formalized,
+randomized algorithm into a verified proof checker, and our design of
+proof certificates for both ApproxMC and its internal CNF-XOR solv-
+ing steps. Experimentally, we show that certificate generation adds little
+overhead to an approximate counter implementation, and that our cer-
+tificate checker is able to fully certify 84.7% of instances with generated
+certificates when given the same time and memory limits as the counter.
+},
+ author = {
+Tan, Yong Kiam and
+Yang, Jiong
+and Soos, Mate
+and Myreen, Magnus O.
+and Meel, Kuldeep S.
+},
+ booktitle = {Proceedings of International Conference on Computer-Aided Verification (CAV)},
+ month = {July},
+ note = {Distinguished Paper Award},
+ title = {Formally Certified Approximate Model Counting},
+ year = {2024}
+}

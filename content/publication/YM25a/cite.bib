@@ -1,0 +1,37 @@
+@article{YM25a,
+ abstract = {
+The problem of model counting, also known as $$\#\textsf{SAT}$$ # SAT , is
+to compute the number of models or satisfying assignments of a given Boolean
+formula F . Model counting is a fundamental problem in computer science with
+a wide range of applications. In recent years, there has been a growing
+interest in using hashing-based techniques for approximate model counting
+that provide $$(\varepsilon , \delta )$$ ( epsilon , delta ) -guarantees:
+i.e., the
+count returned is within a $$(1+\varepsilon )$$ ( 1 + epsilon ) -factor of
+the
+exact count with confidence at least $$1-\delta$$ 1 - delta . While
+hashing-based techniques attain reasonable scalability for large enough
+values of $$\delta$$ delta , their scalability is severely impacted for
+smaller
+values of $$\delta$$ delta , thereby preventing their adoption in
+application
+domains that require estimates with high confidence. The primary
+contribution of this paper is to address the Achilles heel of hashing-based
+techniques: we propose a novel approach based on rounding that allows us to
+achieve a significant reduction in runtime for smaller values of $$\delta$$
+delta . The resulting counter, called $$\textsf{ApproxMC6}$$ ApproxMC 6 ,
+achieves a substantial runtime performance improvement over the current
+state-of-the-art counter, $$\textsf{ApproxMC}$$ ApproxMC . In particular,
+our extensive evaluation over a benchmark suite consisting of 1890 instances
+shows $$\textsf{ApproxMC6}$$ ApproxMC 6 solves 204 more instances than
+$$\textsf{ApproxMC}$$ ApproxMC , and achieves a $$4\times$$ 4 x speedup over
+$$\textsf{ApproxMC}$$ ApproxMC .
+},
+ author = {Yang, Jiong and Meel, Kuldeep S.},
+ journal = {Formal Methods in System Design},
+ number = {2},
+ pages = {189--221},
+ title = {Rounding meets approximate model counting},
+ volume = {67},
+ year = {2025}
+}

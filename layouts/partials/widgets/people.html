@@ -51,7 +51,12 @@
 
     <div class="portrait-title">
       <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
-      {{ with .Params.organizations }}<h3>{{ index (index . 0) "name" | markdownify | emojify }}</h3>{{ end }}
+      {{ with .Params.role }}<h3>{{ . | markdownify }}</h3>{{ end }}
+      {{ range .Params.organizations }}<h3>{{ .name | markdownify | emojify }}</h3>{{ end }}
+      {{ with .Params.coadvisors }}
+        <p>Co-advised with {{ range $index, $advisor := . }}{{ if $index }}, {{ end }}<a href="{{ $advisor.url }}">{{ $advisor.name }}</a>{{ end }}</p>
+      {{ end }}
+      {{ with .Params.next_position }}<p>Next position: {{ . }}</p>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
     </div>

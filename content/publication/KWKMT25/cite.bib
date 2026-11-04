@@ -1,0 +1,32 @@
+@inproceedings{KWKMT25,
+ abstract = {
+Estimating the number of distinct elements in a data stream is a classic
+problem with numerous applications in computer science. We formalize a
+recent, remarkably simple, randomized algorithm for this problem due to
+Chakraborty, Vinodchandran, and Meel (called the CVM algorithm). Their
+algorithm deviated considerably from the state of the art, due to its
+avoidance of intricate derandomization techniques, while still maintaining a
+close-to-optimal logarithmic space complexity. Central to our formalization
+is a new proof technique based on functional probabilistic invariants, which
+allows us to derive concentration bounds using the Cramer-Chernoff method
+without relying on independence. This simplifies the formal analysis
+considerably compared to the original proof by Chakraborty et al. Moreover,
+our technique opens up the possible algorithm design space; we demonstrate
+this by introducing and verifying a new variant of the CVM algorithm that is
+both total and unbiased - neither of which is a property of the original
+algorithm. In this paper, we introduce the proof technique, describe its use
+in mechanizing both versions of the CVM algorithm in Isabelle/HOL, and
+present a supporting formalized library on negatively associated random
+variables used to verify the latter variant.
+},
+ author = {
+Karayel, Emin and Watt, Seng Joe and Khu, Derek and Meel, Kuldeep S. and
+Tan, Yong Kiam
+},
+ booktitle = {Interactive Theorem Proving (ITP)},
+ pages = {34:1--34:20},
+ title = {
+Verification of the CVM Algorithm with a Functional Probabilistic Invariant
+},
+ year = {2025}
+}

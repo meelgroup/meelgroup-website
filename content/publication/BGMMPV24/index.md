@@ -1,0 +1,20 @@
+---
+title: Total Variation Distance Meets Probabilistic Inference
+authors:
+- Arnab Bhattacharyya
+- Sutanu Gayen
+- Kuldeep S. Meel
+- Dimitrios Myrisiotis
+- A. Pavan
+- N. V. Vinodchandran
+date: '2024-01-01T00:00:00'
+publication: In *Proceedings of the International Conference on Machine Learning (ICML)*
+publication_types:
+- '1'
+featured: false
+math: true
+abstract: In this paper, we establish a novel connection between total variation (TV) distance estimation and probabilistic inference. In particular, we present an efficient, structure-preserving reduction from relative approximation of TV distance to probabilistic inference over directed graphical models. This reduction leads to a fully polynomial randomized approximation scheme (FPRAS) for estimating TV distances between same-structure distributions over any class of Bayes nets for which there is an efficient probabilistic inference algorithm. In particular, it leads to an FPRAS for estimating TV distances between distributions that are defined over a common Bayes net of small treewidth. Prior to this work, such approximation schemes only existed for estimating TV distances between product distributions. Our approach employs a new notion of partial couplings of high-dimensional distributions, which might be of independent interest.
+url_pdf: https://arxiv.org/pdf/2309.09134
+tags:
+- Distribution Testing
+---

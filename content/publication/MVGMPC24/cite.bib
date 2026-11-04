@@ -1,0 +1,58 @@
+@inproceedings{MVGMPC24,
+ abstract = {
+Estimating the size of the union of a stream of sets $S_1, S_2, \ldots S_M$
+where each set is a subset of a known universe $\Omega$ is a fundamental
+problem in data streaming. This problem naturally generalizes the
+well-studied $\FO$ estimation problem in the streaming literature, where
+each set contains a single element from the universe. We consider the
+general case when the sets $S_i$ can be succinctly represented and allow
+efficient membership, cardinality, and sampling queries (called a Delphic
+family of sets). A notable example in this framework is the Klee's Measure
+Problem (KMP), where every set $S_i$ is an axis-parallel rectangle in
+$d$-dimensional spaces ($\Omega = [\Delta]^d$ where $[\Delta] := \left\{1,
+\dots, \Delta \right\}$ and $\Delta \in \mathbb{N}$). Recently, Meel,
+Chakraborty, and Vinodchandran (PODS-21, PODS-22) designed a streaming
+algorithm for $(\epsilon,\delta)$-estimation of the size of the union of set
+streams over Delphic family
+with space and update time complexity $O\left(\frac{\log^3
+|\Omega|}{\varepsilon^2}\cdot \log \frac{1}{\delta}\right)$ and
+$\widetilde{O}\left(\frac{\log^{4} |\Omega|}{\varepsilon^2}\cdot \log
+\frac{1}{\delta}\right)$, respectively.
+
+This work presents a new, sampling-based algorithm for estimating the size
+of the union of Delphic sets that has space and update time complexity
+$\widetilde{O}\left(\frac{\log^2 |\Omega|}{\varepsilon^2}\cdot \log
+\frac{1}{\delta}\right)$. This improves the space complexity bound by a
+$\log|\Omega|$ factor and update time complexity bound by a $\log^2
+|\Omega|$ factor.
+
+A critical question is whether quadratic dependence of $\log |\Omega|$ on
+space and update time complexities is necessary. Specifically, can we design
+a streaming algorithm for estimating the size of the union of sets over
+Delphic family with space and complexity linear in $\log |\Omega|$ and
+update time $\poly(\log |\Omega|)$? While this appears technically
+challenging, we show that establishing a lower bound of $\omega(\log
+|\Omega|)$ with $\poly(\log |\Omega|)$ update time is beyond the reach of
+current techniques. Specifically, we show that under certain hard-to-prove
+computational complexity hypothesis, there is a streaming algorithm for the
+problem with optimal space complexity $O(\log |\Omega|)$ update time
+$\poly(\log(|\Omega|))$. Thus, establishing a space lower bound of
+$\omega(\log |\Omega|)$ will lead to break-through complexity class
+separation results.
+},
+ author = {
+Nandi, Mridul and Vinodchandran, N. V.
+and Ghosh, Arijit
+and Meel, Kuldeep S.
+and Pal, Soumit
+and Chakraborty,Sourav
+},
+ booktitle = {Proceedings of the International Conference on Approximation Algorithms for Combinatorial Optimization Problems (APPROX)},
+ month = {August},
+ nameorder = {random},
+ title = {
+Improved Streaming Algorithm for the Klee's Measure Problem and
+Generalizations
+},
+ year = {2024}
+}

@@ -1,9 +1,27 @@
-@InProceedings{GRM20,
-author={Gupta, Rahul and Roy, Subhajit and Meel, Kuldeep S.},
-title={Phase Transition Behavior in Knowledge Compilation},
-booktitle={Principles and Practice of Constraint Programming},
-year={2020},
-month={09},
-abstract={The study of phase transition behaviour in SAT has led to deeper understanding and algorithmic improvements in modern SAT solvers. Motivated by these prior studies of phase transitions in SAT, we seek to study the behaviour of size and compile-time behaviour for random k-CNF formulas in the context of knowledge compilation.},
-}
+@inproceedings{GRM20b,
+ abstract = {
+The success of SAT solvers has led to development of algorithmic paradigms
+for problems beyond NP such as knowledge compilation, which seeks to compile
+proposition theory into succinct and tractable representations. The study of
+phase transition behaviour in SAT has been subjected to intense theoretical
+and empirical investigations, and has led to deeper understanding and
+algorithmic improvements of modern SAT solvers. Motivated by the prior
+studies of phase transition in SAT, we seek to study the behaviour of size
+and compile-time behaviour for random k-CNF formulas.
 
+The primary contribution of this paper is a rigorous empirical study and
+analysis of the size and runtime behavior for different knowledge
+compilation forms (and their corresponding compilation algorithms): d-DNNFs,
+SDDs and OBDDs. We employ instances generated from random k-CNF model with
+varying generation parameters to empirically reason about the expected and
+median behavior of size and compilation-time for these languages. A
+significant novel contribution of our work is the identification of a new
+control parameter, called solution density, defined as the ratio of the log
+of number of satisfying assignments to number of variables.
+},
+ author = {Gupta, Rahul and Roy, Subhajit and Meel, Kuldeep S.},
+ booktitle = {Proceedings of International Conference on Constraint Programming (CP)},
+ month = {September},
+ title = {Phase Transition Behavior in Knowledge Compilation},
+ year = {2020}
+}

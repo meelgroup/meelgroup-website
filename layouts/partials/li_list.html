@@ -28,7 +28,11 @@
 <div class="view-list-item">
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
   {{ if eq $item.Type "talk" }}
-    {{ $item.Title | markdownify }}
+    {{ if $item.Params.news }}
+      {{ $item.Content }}
+    {{ else }}
+      {{ $item.Title | markdownify }}
+    {{ end }}
   {{ else }}
     <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
   {{end}}

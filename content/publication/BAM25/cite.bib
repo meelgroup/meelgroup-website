@@ -1,0 +1,29 @@
+@inproceedings{BAM25,
+ abstract = {
+Formal XAI is an emerging field that focuses on providing explanations with
+mathematical guarantees for the decisions made by machine learning models. A
+significant amount of work in this area is centered on the computation of
+``sufficient reasons''. Given a model $M$ and an input instance $\vec{x}$, a
+sufficient reason for the decision $M(\vec{x})$ is a subset $S$ of the
+features of $\vec{x}$ such that for any instance $\vec{z}$ that has the same
+values as $\vec{x}$ for every feature in $S$, it holds that $M(\vec{x}) =
+M(\vec{z})$. Intuitively, this means that the features in $S$ are sufficient
+to fully justify the classification of $\vec{x}$ by $M$. For sufficient
+reasons to be useful in practice, they should be as small as possible, and a
+natural way to reduce the size of sufficient reasons is to consider a
+probabilistic relaxation; the probability of $M(\vec{x}) = M(\vec{z})$ must
+be at least some value $\delta \in (0,1]$, for a random instance $\vec{z}$
+that coincides with $\vec{x}$ on the features in $S$. Computing small
+$\delta$-sufficient reasons ($\delta$-SRs) is known to be a theoretically
+hard problem; even over decision trees---traditionally deemed simple and
+interpretable models---strong inapproximability results make the efficient
+computation of small $\delta$-SRs unlikely. We propose the notion of
+$(\delta, \epsilon)$-SR, a simple relaxation of $\delta$-SRs, and show that
+this kind of explanation can be computed efficiently over linear models.
+},
+ author = {Subercaseaux, Bernardo and Arenas, Marcelo and Meel, Kuldeep S.},
+ booktitle = {Proceedings of AAAI Conference on Artificial Intelligence (AAAI)},
+ month = {February},
+ title = {Probabilistic Explanations for Linear Models},
+ year = {2025}
+}

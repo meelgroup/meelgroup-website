@@ -16,12 +16,14 @@ user_groups:
 superuser: false
 
 # Role/position
-# role: Professor of Artificial Intelligence
+role: Stephen Fleming Early Career Associate Professor
 
 # Organizations/Affiliations
-# organizations:
-# - name: Stanford University
-#   url: ""
+organizations:
+- name: Georgia Institute of Technology
+  url: "https://www.scs.gatech.edu/"
+- name: University of Toronto (on leave)
+  url: "https://www.cs.toronto.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.

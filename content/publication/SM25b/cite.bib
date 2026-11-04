@@ -1,0 +1,23 @@
+@inproceedings{SM25b,
+ abstract = {
+Satisfiability Modulo Theory (SMT) solvers have advanced automated
+reasoning, solving complex formulas across discrete and continuous domains.
+Recent progress in propositional model counting motivates extending SMT
+capabilities toward model counting, especially for hybrid SMT formulas.
+Existing approaches, like bit-blasting, are limited to discrete variables,
+highlighting the challenge of counting solutions projected onto the discrete
+domain in hybrid formulas. We introduce pact, an SMT model counter for
+hybrid formulas that uses hashing-based approximate model counting to
+estimate solutions with theoretical guarantees. pact makes a logarithmic
+number of SMT solver calls relative to the projection variables, leveraging
+optimized hash functions. pact achieves significant performance improvements
+over baselines on a large suite of benchmarks. In particular, out of 3119
+instances, pact successfully finished on 456 instances, while Baseline could
+finish on 83 instances.
+},
+ author = {Shaw, Arijit and Meel, Kuldeep S.},
+ booktitle = {Proceedings of Design Automation Conference (DAC)},
+ pages = {1--7},
+ title = {Approximate SMT Counting Beyond Discrete Domains},
+ year = {2025}
+}

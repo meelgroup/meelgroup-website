@@ -10,22 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Department of Computer Science
+role: Automated Reasoning Research Group
 
 # Organizations/Affiliations
 organizations:
 - name: University of Toronto
-  url: ""
+  url: "https://www.cs.toronto.edu/"
+- name: Georgia Institute of Technology
+  url: "https://www.scs.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome to the Meel Group's web page. We are situated at the University of Toronto.
+bio: We are the Meel Group at the University of Toronto and Georgia Institute of Technology, working on scalable automated reasoning.
 
 interests:
-- Artificial Intelligence
-- Constrained Sampling and Counting
-- Knowledge Representation and Reasoning
 - Formal Methods
-- Interpretable Models
+- Databases
+- Knowledge Representation and Reasoning
+- Constrained Sampling and Counting
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Yong Lai
+next_position: Associate Professor, Jilin University
 homepage: 
 
 # Username (this should match the folder name)

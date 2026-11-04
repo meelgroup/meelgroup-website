@@ -24,5 +24,5 @@ Our primary research interest is in automated reasoning. The long term vision of
 </p>
 
 <p style="text-align:justify">
-Given the broad nature of the field of automated reasoning, our research group's work spans multiple traditional subfields of computer science, reflected by publication record as well as recognition in artificial intelligence (AAAI: 17×, IJCAI: 13×, NeurIPS: 6×), formal methods (CAV: 7×, CP: 8×, SAT: 6×, TACAS: 3×), design automation (ICCAD: 2×, DATE: 2×, DAC: 1×), and logic/databases (PODS: 4×, ICALP: 1×, LPAR: 4×, LICS: 2×). In short, a research group that is not bound by (traditional) borders.
+Our research spans multiple areas of computer science, as reflected in our <a href="/publication/">publication record through 2026</a>: artificial intelligence and machine learning (AAAI: 27×, IJCAI: 14×, NeurIPS: 6×, KR: 4×, AISTATS: 3×, ICML: 1×, ICLR: 1×), formal methods and constraint solving (CAV: 12×, SAT: 10×, CP: 9×, LPAR: 4×, TACAS: 3×), databases (PODS: 6×, ICDT: 2×), design automation (DAC: 3×, DATE: 3×, ICCAD: 2×), and theoretical computer science (LICS: 2×, SODA: 1×, ICALP: 1×, ESA: 1×). These connections allow us to bring advances in algorithms and reasoning systems to problems across disciplines.
 </p>

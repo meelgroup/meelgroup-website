@@ -1,0 +1,19 @@
+---
+title: 'Panini: An Efficient and Flexible Knowledge Compiler'
+authors:
+- Yong Lai
+- Kuldeep S. Meel
+- Roland H. C. Yap
+date: '2025-01-01T00:00:00'
+publication: In *Proceedings of International Conference on Computer-Aided Verification (CAV)*
+publication_types:
+- '1'
+featured: false
+math: true
+abstract: 'Knowledge compilation concerns with the compilation of representation languages to target languages supporting a wide range of tractable operations arising from diverse areas of computer science. Tractable target compilation languages are usually achieved by restrictions on the internal nodes of the NNF. In this paper, we propose a new representation language CCDD, which introduces new restrictions on conjunction nodes to capture equivalent literals. We show that CCDD supports two key queries, model counting and uniform samping, in polytime. We present algorithms and a compiler to compile propositional formulas expressed in CNF into CCDD. Experiments over a large set of benchmarks show that our compilation times are better with smaller representation than state-of-art Decision-DNNF, SDD and OBDD[AND] compilers. We apply our techniques to model counting and uniform sampling, and develop model counter and uniform sampler on CNF. Our empirical evaluation demonstrates the following
+  significant improvements: our model counter can solve 885 instances while the prior state of the art solved only 843 instances, representing an improvement of 43 instances; and our uniform sampler can solve 780 instances while the prior state of the art solved only 648 instances, representing an improvement of 132 instances.'
+url_pdf: https://arxiv.org/pdf/2202.10025
+tags:
+- Counting
+- Knowledge Compilation
+---

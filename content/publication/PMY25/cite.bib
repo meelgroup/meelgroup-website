@@ -1,0 +1,25 @@
+@inproceedings{PMY25,
+ abstract = {
+Model counting is the task of counting the number of satisfying assignments
+of a Boolean formula. Since counting is intractable in general, most
+applications use $(\varepsilon, \delta)$-approximations, where the output is
+within a $(1+\varepsilon)$-factor of the count with probability at least
+$1-\delta$. Many demanding applications make thousands of counting queries,
+and the state-of-the-art approximate counter, \textsc{ApproxMC}, makes
+hundreds of calls to SAT solvers to answer a single approximate counting
+query. The sheer number of SAT calls, poses a significant challenge to the
+existing approaches. In this work, we propose an approximation scheme,
+\textsc{ApproxMC7}, that is tailored to such demanding applications with low
+time limits. Compared to \textsc{ApproxMC}, \textsc{ApproxMC7} makes
+$14\times$ fewer SAT calls while providing the same guarantees as
+\textsc{ApproxMC} in the constant-factor regime. In an evaluation over 2,247
+instances, \textsc{ApproxMC7} solved 271 more and achieved a $2\times$
+speedup against \textsc{ApproxMC}.
+},
+ author = {Pote, Yash and Meel, Kuldeep S. and Yang, JIong},
+ booktitle = {Proceedings of AAAI Conference on Artificial Intelligence (AAAI)},
+ month = {February},
+ nameorder = {random},
+ title = {Towards Real-Time Approximate Counting},
+ year = {2025}
+}

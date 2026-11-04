@@ -15,6 +15,7 @@ publication_types:
 selected: true
 title: 'Towards Practical First-Order Model Counting'
 url_pdf: 'https://dilkas.github.io/pdf/fomc2.pdf'
+doi: '10.4230/LIPIcs.SAT.2025.18'
 ---
 
 
