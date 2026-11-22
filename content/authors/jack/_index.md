@@ -1,6 +1,6 @@
 ---
 title: Jack Sun
-homepage: https://jacksun200312.github.io/JackWebPage/
+homepage: https://sunjia72.github.io/page/
 authors:
 - jack
 user_groups:
